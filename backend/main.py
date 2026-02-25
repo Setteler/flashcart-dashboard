@@ -73,7 +73,7 @@ def get_chargebacks(
     # Sort
     valid_sort_cols = [
         "date", "merchant_name", "merchant_id", "country",
-        "reason_category", "payment_method", "amount_usd", "status",
+        "reason_category", "payment_method", "amount_usd", "processor",
     ]
     if sort_by and sort_by in valid_sort_cols:
         ascending = sort_dir.lower() != "desc"
