@@ -62,6 +62,12 @@ export default function App() {
     loadAll(f);
   };
 
+  const handleMerchantDrillDown = (merchantId: string) => {
+    const next = { ...filters, merchant_id: merchantId };
+    setFilters(next);
+    loadAll(next);
+  };
+
   return (
     <div
       style={{
@@ -121,6 +127,7 @@ export default function App() {
         byReason={metrics?.by_category ?? []}
         byPayment={metrics?.by_payment_method ?? []}
         byCountry={metrics?.by_country ?? []}
+        byProcessor={metrics?.by_processor ?? []}
         loading={metricsLoading}
       />
 
@@ -135,8 +142,11 @@ export default function App() {
             marginBottom: 20,
           }}
         >
-          <div style={{ fontSize: 14, fontWeight: 600, color: "#f1f5f9", marginBottom: 12 }}>
+          <div style={{ fontSize: 14, fontWeight: 600, color: "#f1f5f9", marginBottom: 4 }}>
             Top Merchants by Chargebacks
+          </div>
+          <div style={{ fontSize: 12, color: "#475569", marginBottom: 12 }}>
+            Click a row to drill down into that merchant
           </div>
           <div style={{ overflowX: "auto" }}>
             <table style={{ width: "100%", borderCollapse: "collapse" }}>
@@ -163,10 +173,16 @@ export default function App() {
               </thead>
               <tbody>
                 {metrics.top_merchants.map((m, i) => (
-                  <tr key={m.merchant_id}>
+                  <tr
+                    key={m.merchant_id}
+                    onClick={() => handleMerchantDrillDown(m.merchant_id)}
+                    style={{ cursor: "pointer", transition: "background 0.1s" }}
+                    onMouseEnter={(e) => ((e.currentTarget as HTMLTableRowElement).style.background = "#243347")}
+                    onMouseLeave={(e) => ((e.currentTarget as HTMLTableRowElement).style.background = "")}
+                  >
                     <td style={{ padding: "8px 12px", fontSize: 13, color: "#f1f5f9", borderBottom: "1px solid #243347" }}>
                       <span style={{ marginRight: 8, color: "#475569", fontSize: 12 }}>{i + 1}.</span>
-                      {m.merchant_name}
+                      <span style={{ color: "#60a5fa" }}>{m.merchant_name}</span>
                     </td>
                     <td style={{ padding: "8px 12px", fontSize: 12, color: "#64748b", borderBottom: "1px solid #243347" }}>
                       {m.merchant_id}

@@ -8,7 +8,7 @@ import {
   ResponsiveContainer,
   Cell,
 } from "recharts";
-import type { ByCategory, ByPaymentMethod, ByCountry } from "../types";
+import type { ByCategory, ByPaymentMethod, ByCountry, ByProcessor } from "../types";
 
 const COLORS = ["#3b82f6", "#f59e0b", "#ef4444", "#8b5cf6", "#10b981", "#f97316", "#ec4899"];
 
@@ -16,6 +16,7 @@ interface Props {
   byReason: ByCategory[];
   byPayment: ByPaymentMethod[];
   byCountry: ByCountry[];
+  byProcessor: ByProcessor[];
   loading: boolean;
 }
 
@@ -66,7 +67,7 @@ function SmallBar({
   );
 }
 
-export default function BreakdownChart({ byReason, byPayment, byCountry, loading }: Props) {
+export default function BreakdownChart({ byReason, byPayment, byCountry, byProcessor, loading }: Props) {
   const reasonData = byReason
     .map((r) => ({ name: r.category, count: r.count }))
     .sort((a, b) => b.count - a.count);
@@ -79,13 +80,17 @@ export default function BreakdownChart({ byReason, byPayment, byCountry, loading
     .map((c) => ({ name: c.country, count: c.count }))
     .sort((a, b) => b.count - a.count);
 
+  const processorData = byProcessor
+    .map((p) => ({ name: p.processor, count: p.count }))
+    .sort((a, b) => b.count - a.count);
+
   if (loading) {
     return (
-      <div style={{ display: "flex", gap: 16, marginBottom: 20 }}>
-        {[0, 1, 2].map((i) => (
+      <div style={{ display: "flex", gap: 16, marginBottom: 20, flexWrap: "wrap" }}>
+        {[0, 1, 2, 3].map((i) => (
           <div
             key={i}
-            style={{ flex: 1, minWidth: 260, height: 230, background: "#1e293b", borderRadius: 8 }}
+            style={{ flex: 1, minWidth: 220, height: 230, background: "#1e293b", borderRadius: 8 }}
           />
         ))}
       </div>
@@ -97,6 +102,7 @@ export default function BreakdownChart({ byReason, byPayment, byCountry, loading
       <SmallBar title="By Reason Category" data={reasonData} nameKey="name" />
       <SmallBar title="By Payment Method" data={paymentData} nameKey="name" />
       <SmallBar title="By Country" data={countryData} nameKey="name" />
+      <SmallBar title="By Processor" data={processorData} nameKey="name" />
     </div>
   );
 }

@@ -9,15 +9,17 @@ from typing import Optional, List
 _df: Optional[pd.DataFrame] = None
 _tx_df: Optional[pd.DataFrame] = None
 
-CSV_PATH = os.path.join(os.path.dirname(__file__), "chargebacks.csv")
+CSV_PATH = os.path.join(os.path.dirname(__file__), "data", "chargebacks.csv")
 TX_CSV_PATH = os.path.join(os.path.dirname(__file__), "data", "transactions_daily.csv")
 
 
 def load_data() -> pd.DataFrame:
     global _df
     if _df is None:
-        _df = pd.read_csv(CSV_PATH, parse_dates=["date"])
-        _df["date"] = pd.to_datetime(_df["date"]).dt.date
+        _df = pd.read_csv(CSV_PATH)
+        # Normalize new schema column names to keep the rest of the code stable
+        _df["date"] = pd.to_datetime(_df["chargeback_date"]).dt.date
+        _df = _df.rename(columns={"category": "reason_category", "amount": "amount_usd"})
     return _df
 
 

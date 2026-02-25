@@ -1,9 +1,12 @@
 """
 FastAPI backend for FlashCart Chargeback Intelligence Dashboard.
 """
+import os
 from typing import Any, Dict, List, Optional
 from fastapi import FastAPI, Query
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
 import pandas as pd
 
 from data_loader import (
@@ -181,6 +184,23 @@ def get_metrics(
             for _, row in pm_grp.iterrows()
         ]
 
+    # By processor
+    by_processor = []
+    if total_chargebacks > 0:
+        proc_grp = (
+            filtered.groupby("processor")
+            .agg(count=("chargeback_id", "count"), amount=("amount_usd", "sum"))
+            .reset_index()
+        )
+        by_processor = [
+            {
+                "processor": row["processor"],
+                "count": int(row["count"]),
+                "amount": round(float(row["amount"]), 2),
+            }
+            for _, row in proc_grp.iterrows()
+        ]
+
     # By date (daily)
     by_date = []
     if total_chargebacks > 0:
@@ -236,6 +256,23 @@ def get_metrics(
         "by_category": by_reason,
         "by_country": by_country,
         "by_payment_method": by_payment_method,
+        "by_processor": by_processor,
         "by_day": by_date,
         "top_merchants": top_merchants,
     }
+
+
+@app.get("/api/health")
+def health() -> Dict[str, Any]:
+    df = get_df()
+    return {"status": "ok", "version": "1.0.0", "records_loaded": len(df)}
+
+
+# Serve React frontend in production (when dist/ exists)
+_dist = os.path.join(os.path.dirname(__file__), "..", "frontend", "dist")
+if os.path.isdir(_dist):
+    app.mount("/assets", StaticFiles(directory=os.path.join(_dist, "assets")), name="assets")
+
+    @app.get("/{full_path:path}", include_in_schema=False)
+    def serve_spa(full_path: str):
+        return FileResponse(os.path.join(_dist, "index.html"))

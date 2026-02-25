@@ -22,6 +22,7 @@ const COLUMNS: { key: keyof ChargebackRecord | ""; label: string; sortable: bool
   { key: "country", label: "Country", sortable: true },
   { key: "reason_category", label: "Reason", sortable: true },
   { key: "payment_method", label: "Payment", sortable: true },
+  { key: "processor", label: "Processor", sortable: true },
   { key: "amount_usd", label: "Amount", sortable: true },
   { key: "status", label: "Status", sortable: true },
 ];
@@ -177,7 +178,15 @@ export default function ChargebackTable({
                     <div>{row.reason_category.replace(/_/g, " ")}</div>
                     <div style={{ fontSize: 11, color: "#475569" }}>{row.reason_code}</div>
                   </td>
-                  <td style={tdStyle}>{row.payment_method}</td>
+                  <td style={tdStyle}>
+                    <div>{row.payment_method}</div>
+                    {row.product_name && (
+                      <div style={{ fontSize: 11, color: "#475569", maxWidth: 140, overflow: "hidden", textOverflow: "ellipsis" }}>
+                        {row.product_name}
+                      </div>
+                    )}
+                  </td>
+                  <td style={tdStyle}>{row.processor}</td>
                   <td style={{ ...tdStyle, fontWeight: 500, color: "#f1f5f9" }}>
                     ${row.amount_usd.toFixed(2)}
                   </td>
