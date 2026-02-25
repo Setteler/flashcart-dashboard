@@ -1,0 +1,1001 @@
+chargeback_id,chargeback_date,merchant_id,merchant_name,merchant_category,product_name,amount,currency,country,payment_method,processor,reason_code,category
+fa53a081-9f61-45b7-a46c-3dff22734610,2025-12-23T03:59:24,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,53.15,USD,TH,mastercard,Checkout.com,10.5,fraud
+bb05d05f-94af-473b-aab8-517f18d342db,2025-11-29T02:54:14,M002,GadgetHub ID,electronics,Xiaomi 14 Pro,37.49,USD,PH,ovo,Midtrans,13.1,product_not_received
+23599a84-75b0-4bb2-9196-d6f51baf8a68,2025-12-19T20:04:38,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,57.76,USD,ID,bank_transfer,Xendit,10.5,fraud
+862224e8-8527-4ce8-a124-aba5838c922d,2025-12-19T01:14:52,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,93.47,USD,PH,ovo,Midtrans,10.4,fraud
+dd9d8f4a-f3b3-4f5f-827c-7404ea757fa9,2025-12-26T15:25:56,M045,AccessStore ID,gaming,SteelSeries Arctis Headset,35.56,USD,ID,visa,Checkout.com,13.3,product_not_as_described
+c92c9736-c29b-4daa-878e-c2cc9ab752d6,2025-12-26T04:32:31,M036,PhoneHub TH,home_appliances,Smart WiFi Plug 4-Pack,35.56,USD,VN,visa,Adyen,13.1,product_not_received
+ee33cb4a-0191-40ab-a3de-f9f31a5fdc5d,2025-12-17T14:33:16,M036,PhoneHub TH,home_appliances,Smart WiFi Plug 4-Pack,96.41,USD,ID,mastercard,Checkout.com,10.5,fraud
+9e58266d-6e28-47bf-99f0-76090b267cb0,2025-12-01T00:46:56,M030,ElectroGo PH,fashion,UV400 Polarised Sunglasses,61.69,USD,TH,visa,Checkout.com,10.4,fraud
+bd9eeeba-abd0-4ffe-9550-aab23f29f18b,2025-12-24T04:23:48,M028,PhoneMart TH,health_beauty,Gentle Foam Cleanser Set,31.24,USD,TH,gopay,Midtrans,13.1,product_not_received
+0b9a77a5-39db-4c6e-8b42-61b001124b20,2025-12-27T09:15:03,M002,GadgetHub ID,electronics,Sony WH-1000XM5,54.51,USD,VN,bank_transfer,Xendit,10.2,fraud
+08ee9378-3c99-47eb-ae65-bf986a497a6c,2025-12-22T21:30:35,M002,GadgetHub ID,electronics,OPPO Reno11 5G,31.35,USD,VN,visa,Stripe,13.1,product_not_received
+20551077-1c1f-486f-ba6a-0d9c3d014183,2025-12-20T21:41:23,M055,SmartGear VN,home_appliances,Touch-Dimmer LED Desk Lamp,31.31,USD,PH,visa,Adyen,10.4,fraud
+a8ce4def-7867-454a-918b-4d3a7a6422b5,2025-12-16T00:04:45,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,46.2,USD,VN,mastercard,Stripe,13.1,product_not_received
+e25fb3ea-a74f-4be4-9ad3-4707d2587042,2025-12-19T23:59:56,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,20.0,USD,ID,mastercard,Stripe,13.1,product_not_received
+e5d55418-5e6f-4535-bb7a-7787bc1c4423,2025-12-19T14:55:46,M002,GadgetHub ID,electronics,Samsung Galaxy S24,20.0,USD,VN,mastercard,Adyen,13.1,product_not_received
+3478450c-74f9-4859-9772-f3d58b2d28a9,2025-12-23T06:34:28,M006,ElectroShop VN,accessories,Screen Protector 3-Pack,29.69,USD,ID,visa,Adyen,13.1,product_not_received
+bda4da61-759d-473c-9f4c-05981782165c,2025-11-29T00:05:59,M002,GadgetHub ID,electronics,Sony WH-1000XM5,23.17,USD,PH,mastercard,Adyen,13.1,product_not_received
+8f0743cd-7df8-4da4-aa77-4d862c71024a,2025-12-10T14:18:27,M019,GameStop VN,electronics,Dell Inspiron 15,48.08,USD,ID,mastercard,Adyen,10.2,fraud
+64a8676e-72b8-4ce5-9123-3bb71fdd971c,2025-12-21T15:32:58,M012,CoolPhone TH,health_beauty,Gentle Foam Cleanser Set,15.11,USD,VN,visa,Adyen,10.2,fraud
+684c392a-9da9-480e-aa12-5597d970bd63,2025-12-10T07:37:38,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,24.55,USD,PH,truemoney,Omise,10.5,fraud
+c06dce88-3b23-4741-888b-cbcd9f6d6754,2025-12-05T20:19:29,M006,ElectroShop VN,accessories,Slim Phone Case,20.0,USD,VN,visa,Adyen,13.1,product_not_received
+c2f9d0f8-f7e8-444a-ba53-027afafb4d38,2025-11-30T04:59:22,M002,GadgetHub ID,electronics,Xiaomi 14 Pro,90.57,USD,ID,mastercard,Adyen,10.5,fraud
+1622013b-70f7-41ad-995f-c2d306562298,2025-12-07T20:33:00,M054,ElectroStore PH,gaming,Nintendo Switch Carry Case,35.72,USD,TH,bank_transfer,Xendit,13.1,product_not_received
+5a667168-ca8b-402f-bc09-5ff9d0d6ffbd,2025-12-21T19:13:45,M002,GadgetHub ID,electronics,Lenovo Tab P12,41.98,USD,PH,visa,Stripe,10.2,fraud
+62194716-e375-4b50-814a-2a4d1c6e66b9,2025-11-30T01:00:21,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,20.0,USD,ID,gcash,PayMaya,13.1,product_not_received
+700caedd-41c1-428b-881b-48b4bba820b8,2025-11-30T04:34:02,M002,GadgetHub ID,electronics,Lenovo Tab P12,29.98,USD,ID,gopay,Midtrans,12.6,duplicate_processing
+b6a50b8d-f33e-40a4-86cb-3e9bff2c40b5,2025-12-26T21:06:22,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,42.99,USD,TH,gopay,Midtrans,10.4,fraud
+1da99455-7aaa-4103-82de-2e82891b85e7,2025-12-26T10:50:59,M020,PhoneZone TH,accessories,TWS Bluetooth Earbuds,21.48,USD,VN,visa,Adyen,13.1,product_not_received
+48fe34ef-288a-48ca-a71f-eca251484785,2025-12-10T07:12:52,M002,GadgetHub ID,electronics,Dell Inspiron 15,49.73,USD,TH,gcash,PayMaya,12.6,duplicate_processing
+12d6b38b-655a-4ae8-a5b7-3c743ceb9b2b,2025-12-10T08:22:41,M004,MobileKing TH,health_beauty,Aromatherapy Essential Oil Kit,29.07,USD,TH,gcash,PayMaya,10.4,fraud
+ec87bb8b-1c36-4a72-8ac1-eca8dcaf6b56,2025-12-03T01:06:38,M005,AccessoryWorld,gaming,SteelSeries Arctis Headset,34.45,USD,TH,bank_transfer,Xendit,13.1,product_not_received
+1fe0f75e-ab8d-4e60-9f3d-5b2c26bb0cc1,2025-12-06T16:59:51,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,29.05,USD,ID,mastercard,Checkout.com,10.5,fraud
+5ec850f2-9006-4ef5-998a-3a10f47cf233,2025-12-21T21:26:20,M002,GadgetHub ID,electronics,"LG 55"" OLED TV",112.03,USD,PH,mastercard,Adyen,13.3,product_not_as_described
+40dfef7b-5472-49f0-98d7-981beeca8ce7,2025-12-19T18:19:25,M007,QuickGadgets,accessories,"Laptop Sleeve 15""",40.15,USD,ID,visa,Adyen,13.3,product_not_as_described
+61c6891a-067e-4462-86d7-30277605396d,2025-12-18T21:13:32,M047,SmartZone VN,accessories,TWS Bluetooth Earbuds,22.61,USD,VN,mastercard,Checkout.com,10.4,fraud
+3c2b27dc-7a7b-42e7-b4b1-88076ec3b35c,2025-12-14T02:52:48,M005,AccessoryWorld,gaming,Xbox Game Pass 3-Month,63.59,USD,ID,gopay,Midtrans,13.1,product_not_received
+5d4ffc3d-f0a8-46e6-9351-44b133a883c9,2025-12-13T14:26:56,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,20.67,USD,ID,ovo,Midtrans,13.1,product_not_received
+b3629411-4926-4096-a4fe-f324767055c0,2025-12-26T03:49:27,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,45.37,USD,VN,ovo,Midtrans,13.3,product_not_as_described
+734f1265-0fb8-41be-8c9e-6fc17fdf50dc,2025-12-12T16:35:38,M002,GadgetHub ID,electronics,Lenovo Tab P12,20.0,USD,VN,mastercard,Checkout.com,10.2,fraud
+a3ee13f9-5010-4881-a479-53f018908a1d,2025-12-24T05:47:55,M036,PhoneHub TH,home_appliances,Touch-Dimmer LED Desk Lamp,20.0,USD,TH,mastercard,Checkout.com,12.6,duplicate_processing
+99e3c96c-6112-4252-8385-8f31469f9452,2025-12-13T02:45:18,M042,TechStore ID,health_beauty,Gentle Foam Cleanser Set,45.07,USD,ID,visa,Checkout.com,13.1,product_not_received
+0c845381-de9a-41fc-a852-7448a0e26df5,2025-12-10T02:26:26,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,60.71,USD,PH,gopay,Midtrans,13.1,product_not_received
+e615fc01-5410-4f4d-95fb-d3f65209be0a,2025-12-25T15:00:22,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,44.45,USD,VN,mastercard,Stripe,12.6,duplicate_processing
+e6ffc9de-dc0a-41e4-9470-6ec4162ffcce,2025-12-11T21:43:51,M005,AccessoryWorld,gaming,SteelSeries Arctis Headset,37.95,USD,TH,mastercard,Adyen,13.1,product_not_received
+2db5e0e3-1e5f-4370-b9e1-73d52da2009b,2025-12-16T13:08:55,M046,ElectroHub PH,accessories,TWS Bluetooth Earbuds,34.27,USD,ID,visa,Stripe,13.1,product_not_received
+38b81ce2-d035-43c2-8693-4b9bd0f7d484,2025-12-22T13:16:53,M006,ElectroShop VN,accessories,USB-C 65W Fast Charger,20.0,USD,TH,visa,Adyen,13.1,product_not_received
+2781e757-ae56-41b1-af4f-cb16a195342e,2025-12-22T00:15:12,M002,GadgetHub ID,electronics,Samsung Galaxy S24,27.22,USD,ID,visa,Stripe,13.2,subscription_cancelled
+03554414-0365-49ae-973b-0f1234cddde3,2025-12-12T05:38:38,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,31.4,USD,ID,ovo,Midtrans,13.1,product_not_received
+fb226d1c-6296-49a8-b112-477ceec50d32,2025-12-16T12:45:12,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,72.34,USD,TH,bank_transfer,Xendit,13.1,product_not_received
+ed991dfb-98b7-45f4-902c-c6d83bfc3aa6,2025-12-25T18:50:02,M005,AccessoryWorld,gaming,Razer DeathAdder Mouse,48.86,USD,TH,ovo,Midtrans,13.1,product_not_received
+8e75d1f0-6930-44af-acd1-db993563247e,2025-12-24T11:40:57,M007,QuickGadgets,accessories,TWS Bluetooth Earbuds,20.0,USD,PH,mastercard,Checkout.com,13.1,product_not_received
+c3b99768-7e51-4835-ba28-fa47d4c832f1,2025-12-12T08:20:54,M008,PhoneMax ID,accessories,Screen Protector 3-Pack,48.34,USD,ID,ovo,Midtrans,13.1,product_not_received
+23ac54cf-dcab-4b61-a061-ebd856f48fae,2025-12-17T15:54:20,M045,AccessStore ID,gaming,Xbox Game Pass 3-Month,32.73,USD,ID,visa,Stripe,13.1,product_not_received
+62646bfc-914c-4387-955c-c436621b8f16,2025-12-15T02:15:46,M005,AccessoryWorld,gaming,SteelSeries Arctis Headset,27.87,USD,TH,bank_transfer,Xendit,10.2,fraud
+a9100d4c-dad2-4693-ac2a-ae8f91f830e9,2025-12-23T12:44:15,M037,AccessMart PH,home_appliances,Rice Cooker 1.8 L,56.62,USD,ID,visa,Checkout.com,10.2,fraud
+14ca4878-a892-4975-9b9c-c09f24efe1c9,2025-12-09T08:14:07,M006,ElectroShop VN,accessories,Smart Watch Band Set,71.31,USD,ID,visa,Checkout.com,13.1,product_not_received
+9f6cff88-dcfc-4c9c-904d-ce01d20a4c3b,2025-12-06T16:38:18,M008,PhoneMax ID,accessories,USB-C 65W Fast Charger,67.51,USD,ID,bank_transfer,Xendit,13.1,product_not_received
+7fa81f61-5013-437f-b9a1-583adefb17f5,2025-12-06T09:44:08,M003,GamersParadise,electronics,Dell Inspiron 15,8.17,USD,ID,visa,Stripe,10.5,fraud
+482fd287-309d-4c34-b440-db2b841b9626,2025-12-06T02:25:31,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,25.49,USD,TH,mastercard,Adyen,12.6,duplicate_processing
+ab8a2eda-3e8f-47ab-9957-d672d990cd3a,2025-11-30T13:38:38,M028,PhoneMart TH,health_beauty,Gentle Foam Cleanser Set,34.12,USD,ID,visa,Stripe,13.2,subscription_cancelled
+b6e6347d-b665-453c-9597-00624e3fc739,2025-12-07T23:06:48,M036,PhoneHub TH,home_appliances,Compact Air Purifier H13,48.53,USD,ID,visa,Adyen,10.4,fraud
+749f5116-e96f-4177-a3a9-46d4a4bfd084,2025-12-03T19:30:18,M002,GadgetHub ID,electronics,Samsung Galaxy S24,69.17,USD,TH,mastercard,Checkout.com,10.5,fraud
+8b8b9b76-4e62-43b5-a487-9610b84652fd,2025-12-27T18:42:51,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,31.08,USD,PH,ovo,Midtrans,10.5,fraud
+543119f9-fb5a-42a0-b53b-c3f8e8da235d,2025-11-29T23:52:36,M013,AccessPro ID,fashion,UV400 Polarised Sunglasses,36.52,USD,PH,visa,Stripe,10.2,fraud
+637b69c9-c086-4b45-aa2a-815304e827d1,2025-12-14T19:02:56,M005,AccessoryWorld,gaming,SteelSeries Arctis Headset,22.01,USD,PH,mastercard,Adyen,10.4,fraud
+558392e4-9c26-47c0-ade2-f99a1bde0fe6,2025-12-22T01:48:48,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,20.95,USD,TH,visa,Stripe,13.1,product_not_received
+7c4bb015-382f-4dd2-b0cd-8f92ba66bb3a,2025-12-18T15:22:26,M036,PhoneHub TH,home_appliances,Rice Cooker 1.8 L,63.24,USD,ID,bank_transfer,Xendit,13.3,product_not_as_described
+1d20d093-b288-4c5c-9b97-ed5119a62537,2025-12-07T17:02:29,M008,PhoneMax ID,accessories,USB-C 65W Fast Charger,85.28,USD,ID,mastercard,Stripe,13.1,product_not_received
+66470b6d-7168-4a16-a513-2c945c6de5bf,2025-12-11T19:48:31,M008,PhoneMax ID,accessories,Smart Watch Band Set,38.88,USD,ID,mastercard,Stripe,10.2,fraud
+f2b6eede-9700-40ef-84d0-e5843e02bcc7,2025-12-12T00:40:38,M005,AccessoryWorld,gaming,Xbox Game Pass 3-Month,70.24,USD,ID,mastercard,Adyen,12.6,duplicate_processing
+c549a5da-0f8c-4586-865a-fcdee7698450,2025-12-12T04:31:59,M002,GadgetHub ID,electronics,iPad Air M2,49.35,USD,ID,gopay,Midtrans,13.2,subscription_cancelled
+c82bff57-a63c-42ea-8e78-9f5b5f8fc8b3,2025-12-10T23:56:08,M003,GamersParadise,electronics,Xiaomi 14 Pro,28.37,USD,TH,mastercard,Stripe,10.5,fraud
+c6692201-e7de-4052-b4f8-59e2f9840640,2025-12-06T09:53:37,M041,GadgetMall PH,accessories,"Laptop Sleeve 15""",49.34,USD,PH,visa,Adyen,13.3,product_not_as_described
+652e2bac-5b5e-47bf-b118-700eda2c954a,2025-12-08T14:59:20,M006,ElectroShop VN,accessories,Screen Protector 3-Pack,94.25,USD,ID,mastercard,Stripe,13.1,product_not_received
+396ef47e-b733-4b60-8284-718762cc0588,2025-11-29T12:24:42,M035,GameZone VN,gaming,Xbox Game Pass 3-Month,39.66,USD,ID,mastercard,Checkout.com,10.2,fraud
+3f948ea9-7901-4f5f-94c2-e0455f1f135d,2025-12-25T14:00:46,M002,GadgetHub ID,electronics,OPPO Reno11 5G,95.64,USD,TH,visa,Adyen,13.3,product_not_as_described
+bf33ad46-1f88-4949-88b0-e5a0c0563258,2025-12-08T02:54:21,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,20.0,USD,ID,mastercard,Checkout.com,13.1,product_not_received
+b693bae2-3cbf-48fb-ad66-d07d50030308,2025-12-17T09:14:47,M011,TechMart VN,health_beauty,Vitamin C Brightening Serum,63.56,USD,ID,gopay,Midtrans,10.5,fraud
+9dcac2ab-c3ba-4ef1-9bc4-b3921a439e46,2025-12-26T01:18:22,M005,AccessoryWorld,gaming,Razer DeathAdder Mouse,42.43,USD,ID,visa,Stripe,10.2,fraud
+2164b9c4-c72c-42dd-8e68-09b2cb86743b,2025-12-03T12:39:43,M003,GamersParadise,electronics,Sony WH-1000XM5,34.31,USD,PH,gopay,Midtrans,10.5,fraud
+c0f0cc45-99e1-4efc-b13a-6c6f035344d0,2025-12-06T14:57:18,M008,PhoneMax ID,accessories,Smart Watch Band Set,42.54,USD,ID,truemoney,Omise,13.1,product_not_received
+37db7720-2244-4182-bdb9-2fa94f55bd1f,2025-12-20T06:24:54,M007,QuickGadgets,accessories,TWS Bluetooth Earbuds,13.34,USD,ID,gcash,PayMaya,10.2,fraud
+1424c82a-700f-4c16-84a9-36f7d2844f1c,2025-12-06T23:03:58,M007,QuickGadgets,accessories,"Laptop Sleeve 15""",20.0,USD,TH,gcash,PayMaya,10.4,fraud
+4e133d75-6504-4d6a-a966-51aecd69a76e,2025-12-05T21:48:46,M006,ElectroShop VN,accessories,Smart Watch Band Set,35.84,USD,ID,gopay,Midtrans,13.1,product_not_received
+213a7ef3-46ed-4342-9dbf-d764f221b8dd,2025-11-29T02:58:18,M008,PhoneMax ID,accessories,Slim Phone Case,49.23,USD,ID,ovo,Midtrans,10.2,fraud
+88baecbd-c1ed-4255-b0af-b65ee5deb4a7,2025-12-14T05:16:58,M032,MobileZone VN,accessories,TWS Bluetooth Earbuds,91.18,USD,ID,visa,Stripe,10.4,fraud
+b7ed9e92-ee1b-4492-9445-21405d64d254,2025-12-02T21:46:43,M002,GadgetHub ID,electronics,"LG 55"" OLED TV",30.42,USD,TH,visa,Stripe,13.3,product_not_as_described
+1d09ecf6-c41b-49ee-a28c-4599b8240ed9,2025-12-06T21:47:43,M009,DigiStore PH,health_beauty,Whey Protein Powder 1 kg,25.93,USD,TH,mastercard,Stripe,10.4,fraud
+cb92c5e6-3e7d-419b-88d7-3c13018e3241,2025-11-28T10:58:39,M008,PhoneMax ID,accessories,Screen Protector 3-Pack,30.69,USD,PH,bank_transfer,Xendit,13.1,product_not_received
+d4be67af-8e28-47d3-940f-f7fa871c3ae1,2025-12-02T15:07:06,M002,GadgetHub ID,electronics,Sony WH-1000XM5,66.92,USD,ID,visa,Stripe,10.5,fraud
+bcd9d26b-c87a-47d1-a40f-38f3b47a2ecd,2025-12-16T13:41:06,M007,QuickGadgets,accessories,TWS Bluetooth Earbuds,48.46,USD,VN,visa,Stripe,13.3,product_not_as_described
+cefce2d1-c796-4077-be26-de628678ddb1,2025-12-12T11:06:43,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,30.22,USD,VN,visa,Stripe,13.1,product_not_received
+6dc70ecf-17fc-4774-b707-71f6e19683a5,2025-12-01T02:42:13,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,12.67,USD,VN,gcash,PayMaya,13.2,subscription_cancelled
+d13fdce2-bad0-4978-b942-9b9f603d469d,2025-12-04T07:21:49,M044,PhoneStore TH,gaming,Xbox Game Pass 3-Month,53.64,USD,PH,ovo,Midtrans,13.1,product_not_received
+be673fd7-cd3e-482e-acf9-d5f475e6ff27,2025-12-06T00:08:00,M043,GameHub VN,mobile_phones,Xiaomi Redmi Note 13,42.67,USD,ID,visa,Stripe,13.1,product_not_received
+b407756a-2db4-43ff-abd0-86089770b5a2,2025-12-02T23:04:30,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,68.91,USD,PH,mastercard,Adyen,13.3,product_not_as_described
+1998defc-e207-4665-b0d4-736c5afa5b1b,2025-12-21T16:19:29,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,14.71,USD,PH,gcash,PayMaya,13.1,product_not_received
+5f70e8ca-84d0-4fbf-8b60-40439abcb0be,2025-11-30T04:04:08,M037,AccessMart PH,home_appliances,Rice Cooker 1.8 L,27.49,USD,PH,visa,Checkout.com,13.3,product_not_as_described
+d2f0af6f-c7b8-41f5-aebe-8be55778b1c8,2025-12-12T22:07:54,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,33.78,USD,ID,mastercard,Stripe,13.1,product_not_received
+ae3c6206-71b7-4ed8-ba1e-389ce5a2e382,2025-12-10T13:20:42,M008,PhoneMax ID,accessories,Slim Phone Case,32.6,USD,ID,visa,Stripe,13.1,product_not_received
+c2497590-401e-48b9-9087-a20403be2a3f,2025-11-30T11:51:08,M002,GadgetHub ID,electronics,Samsung Galaxy S24,20.0,USD,PH,ovo,Midtrans,10.2,fraud
+171dc86f-20a0-486e-8a4b-fbb68063fd71,2025-12-25T23:03:18,M006,ElectroShop VN,accessories,"Laptop Sleeve 15""",47.6,USD,ID,ovo,Midtrans,13.1,product_not_received
+6852e182-7af9-4c78-a803-d92f3788cf77,2025-12-25T11:07:48,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,46.69,USD,TH,gcash,PayMaya,10.2,fraud
+85159a2b-4c76-48a3-b408-14588967e8e8,2025-12-06T09:58:21,M053,AccessGear ID,electronics,Lenovo Tab P12,417.47,USD,PH,visa,Stripe,10.4,fraud
+d7e0834b-2b40-453b-8f7c-6466055bfd23,2025-11-30T13:29:21,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,40.56,USD,TH,visa,Checkout.com,13.1,product_not_received
+89953947-f44c-4ef9-8676-cf3c90cc4c04,2025-12-03T02:17:28,M018,TechPulse ID,electronics,"LG 55"" OLED TV",35.55,USD,PH,visa,Stripe,13.3,product_not_as_described
+a1cb18df-1329-4470-825b-363497a8e275,2025-12-09T21:37:31,M016,MobileHub TH,mobile_phones,Vivo V29,20.0,USD,ID,visa,Stripe,13.1,product_not_received
+4421482b-5ae2-4fd6-92ac-823de32e9eaf,2025-12-04T09:20:07,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,32.09,USD,PH,ovo,Midtrans,13.3,product_not_as_described
+d5923826-8df6-4b56-bef0-35e1f6cffae0,2025-12-14T11:04:25,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,33.5,USD,PH,gopay,Midtrans,10.5,fraud
+044df53d-4ea8-4b5b-8b85-1ae91136d870,2025-12-20T12:01:20,M007,QuickGadgets,accessories,Screen Protector 3-Pack,26.02,USD,PH,visa,Checkout.com,13.1,product_not_received
+dccd832f-0824-488c-9be1-23682429977d,2025-12-05T02:25:55,M002,GadgetHub ID,electronics,iPad Air M2,37.01,USD,ID,mastercard,Adyen,13.1,product_not_received
+a7f1565c-45fd-44bc-84e9-19332edc5e1e,2025-12-14T11:22:46,M002,GadgetHub ID,electronics,OPPO Reno11 5G,50.51,USD,ID,bank_transfer,Xendit,10.4,fraud
+f87f473f-e220-42be-8270-05942874b519,2025-12-03T14:48:36,M002,GadgetHub ID,electronics,Dell Inspiron 15,114.14,USD,VN,gopay,Midtrans,13.2,subscription_cancelled
+2c9e91c4-a7df-4471-b2c8-d5d1038539e8,2025-12-13T08:37:03,M002,GadgetHub ID,electronics,Lenovo Tab P12,44.52,USD,ID,visa,Stripe,10.4,fraud
+ecf3c366-c948-4e1d-9792-ecf48070e7bd,2025-11-30T02:39:38,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,46.6,USD,PH,bank_transfer,Xendit,13.1,product_not_received
+501a4029-594a-4325-a375-94f9143f21b6,2025-12-18T16:09:03,M045,AccessStore ID,gaming,SteelSeries Arctis Headset,20.59,USD,ID,gopay,Midtrans,10.2,fraud
+d0e20de5-aa16-4aae-90ef-25c906086b7d,2025-12-05T16:33:39,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,38.82,USD,VN,bank_transfer,Xendit,13.3,product_not_as_described
+adcedf1a-7629-4cec-a402-a4fb3e1482ad,2025-12-17T10:04:21,M052,PhonePro TH,mobile_phones,iPhone 15 Pro,20.0,USD,ID,gopay,Midtrans,10.2,fraud
+95097f48-91bd-4056-a08d-e58d22022211,2025-12-25T21:09:58,M047,SmartZone VN,accessories,Slim Phone Case,39.86,USD,TH,visa,Checkout.com,10.5,fraud
+61e4a806-f429-498d-81c5-2a769f6d5eb6,2025-12-07T10:52:08,M002,GadgetHub ID,electronics,Xiaomi 14 Pro,41.81,USD,PH,gopay,Midtrans,10.4,fraud
+65e6ddee-4178-473f-9351-e0db599635d8,2025-12-04T06:14:08,M003,GamersParadise,electronics,OPPO Reno11 5G,19.82,USD,ID,ovo,Midtrans,10.2,fraud
+ee8c345f-c505-4dc3-acbe-185c66f53eea,2025-12-17T22:49:39,M003,GamersParadise,electronics,OPPO Reno11 5G,156.77,USD,ID,visa,Stripe,10.2,fraud
+b4b7bd81-abb4-4e1f-ab4d-74fbf9ec330d,2025-12-17T14:14:34,M037,AccessMart PH,home_appliances,Compact Air Purifier H13,36.39,USD,TH,ovo,Midtrans,10.4,fraud
+e43ec73a-c399-44c4-8cf3-ce56bf4afbcd,2025-12-12T16:33:26,M008,PhoneMax ID,accessories,Screen Protector 3-Pack,47.74,USD,TH,ovo,Midtrans,13.3,product_not_as_described
+beab04ef-6e67-4f2e-925a-b9d64d55ce38,2025-12-25T22:54:33,M008,PhoneMax ID,accessories,USB-C 65W Fast Charger,39.68,USD,TH,bank_transfer,Xendit,10.5,fraud
+88bf3264-2f4b-49ac-92d6-88a2e8a2ce22,2025-12-24T07:52:28,M018,TechPulse ID,electronics,Lenovo Tab P12,21.27,USD,PH,bank_transfer,Xendit,13.1,product_not_received
+db30d57d-44d2-440e-a3be-564cc41fe34b,2025-12-09T03:53:45,M002,GadgetHub ID,electronics,Lenovo Tab P12,75.83,USD,ID,visa,Stripe,10.5,fraud
+1b054abf-1093-4dc5-8804-7b5f5f68636b,2025-12-22T00:57:05,M003,GamersParadise,electronics,Samsung Galaxy S24,61.16,USD,TH,mastercard,Checkout.com,13.3,product_not_as_described
+ecd1f6dd-aaf8-44df-a20b-85477c88bc91,2025-12-05T13:40:50,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,62.49,USD,ID,visa,Stripe,10.2,fraud
+c0a59a2a-d5bb-451a-9e54-a63ad8c492cb,2025-12-20T19:22:15,M004,MobileKing TH,health_beauty,Aromatherapy Essential Oil Kit,24.53,USD,TH,mastercard,Checkout.com,10.5,fraud
+7b313f19-d836-4814-b3a2-cf7eeb845dbe,2025-12-10T12:23:16,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,87.49,USD,ID,visa,Adyen,12.6,duplicate_processing
+6bb5afb3-92ea-4aec-bd26-227d10238877,2025-12-02T20:11:53,M030,ElectroGo PH,fashion,Genuine Leather Wallet,20.0,USD,PH,mastercard,Adyen,10.4,fraud
+9d45d3b7-9393-4005-89e9-3adc2a4454ee,2025-11-29T06:56:02,M008,PhoneMax ID,accessories,Slim Phone Case,55.86,USD,PH,visa,Checkout.com,10.5,fraud
+9484c4d3-218c-4330-8490-5574d26736e8,2025-12-07T20:21:17,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,134.93,USD,PH,ovo,Midtrans,10.2,fraud
+7340a5f1-accc-4164-ad80-2fa742b6790b,2025-12-08T15:23:59,M007,QuickGadgets,accessories,"Laptop Sleeve 15""",23.46,USD,ID,mastercard,Stripe,13.2,subscription_cancelled
+a2b3cd5e-03bc-4131-9869-d68caa5268d6,2025-12-15T10:42:18,M003,GamersParadise,electronics,iPad Air M2,29.62,USD,TH,visa,Adyen,10.2,fraud
+6ddbad4d-02b2-4298-8f2f-4ff5d5774d93,2025-11-29T19:27:17,M008,PhoneMax ID,accessories,Smart Watch Band Set,42.73,USD,VN,bank_transfer,Xendit,13.1,product_not_received
+c80617db-cb9c-43c4-b42e-502ca93183bf,2025-11-28T14:02:08,M003,GamersParadise,electronics,Xiaomi 14 Pro,30.66,USD,PH,gopay,Midtrans,10.5,fraud
+06129ad0-e2ff-4902-9432-915ea95fc889,2025-12-17T11:23:28,M011,TechMart VN,health_beauty,Vitamin C Brightening Serum,20.0,USD,PH,mastercard,Stripe,10.5,fraud
+ef3ac7cd-7287-45a3-a855-3096c0baee8b,2025-12-01T16:24:58,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,42.0,USD,ID,visa,Stripe,10.4,fraud
+ca3ea3c1-82d5-473a-92b7-f57d0a11f0b1,2025-12-20T03:08:54,M027,GameWorld VN,health_beauty,Vitamin C Brightening Serum,22.55,USD,VN,mastercard,Stripe,13.3,product_not_as_described
+6f15f196-d896-41c8-a74a-18540b87a211,2025-12-19T17:18:57,M029,AccessZone ID,health_beauty,Whey Protein Powder 1 kg,52.48,USD,TH,visa,Checkout.com,10.2,fraud
+721ffbbb-c40d-4e26-bed9-257c14ef15f1,2025-12-14T04:15:50,M006,ElectroShop VN,accessories,TWS Bluetooth Earbuds,338.51,USD,ID,bank_transfer,Xendit,13.1,product_not_received
+25357e9d-f0ce-4e12-be89-358b97763617,2025-12-20T13:52:36,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,24.39,USD,ID,mastercard,Adyen,13.1,product_not_received
+32f98176-0747-4e9a-bda4-1faa25c20e2e,2025-12-02T20:37:11,M006,ElectroShop VN,accessories,Screen Protector 3-Pack,94.87,USD,VN,ovo,Midtrans,13.1,product_not_received
+cb63a155-a8e8-4123-aaf9-55c4780c4cc1,2025-12-03T07:22:33,M005,AccessoryWorld,gaming,Razer DeathAdder Mouse,26.29,USD,ID,bank_transfer,Xendit,10.4,fraud
+2e464aa1-15b7-4d4c-82bf-fb0fdc0ffc91,2025-12-14T18:09:10,M002,GadgetHub ID,electronics,Lenovo Tab P12,33.88,USD,PH,mastercard,Adyen,13.1,product_not_received
+e3a595a3-f8b9-406f-bba0-8bb105506064,2025-12-18T19:40:01,M005,AccessoryWorld,gaming,SteelSeries Arctis Headset,63.27,USD,PH,mastercard,Checkout.com,10.5,fraud
+631d8995-82e3-4768-8e36-d30359ffedfb,2025-12-07T05:28:26,M007,QuickGadgets,accessories,TWS Bluetooth Earbuds,20.55,USD,ID,gopay,Midtrans,10.5,fraud
+5ac636f3-ec0d-4417-860b-f714ed9f39e0,2025-12-21T12:08:48,M029,AccessZone ID,health_beauty,Whey Protein Powder 1 kg,45.84,USD,ID,visa,Adyen,13.2,subscription_cancelled
+a89f0c34-c0a4-4173-ba2a-664ca324a2c6,2026-01-04T12:55:39,M008,PhoneMax ID,accessories,TWS Bluetooth Earbuds,83.01,USD,VN,visa,Adyen,10.5,fraud
+dd81f619-0a76-4c50-bd9f-2a277de19f62,2026-01-07T16:29:31,M055,SmartGear VN,home_appliances,Rice Cooker 1.8 L,20.0,USD,ID,visa,Stripe,10.2,fraud
+25e6505e-be89-45ed-b0dc-6664377d644b,2026-01-03T09:31:38,M004,MobileKing TH,health_beauty,Aromatherapy Essential Oil Kit,44.77,USD,ID,visa,Adyen,13.1,product_not_received
+41be449b-0702-4348-992e-ffd885439385,2026-01-20T01:25:03,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,46.66,USD,ID,mastercard,Stripe,10.4,fraud
+cae9cee6-6cd1-4470-b730-5837285646b9,2026-01-21T19:43:39,M008,PhoneMax ID,accessories,USB-C 65W Fast Charger,62.18,USD,ID,gcash,PayMaya,13.1,product_not_received
+4bbdc023-b46d-4357-9656-3fcdc93842ce,2026-01-21T12:32:02,M006,ElectroShop VN,accessories,USB-C 65W Fast Charger,378.4,USD,TH,gopay,Midtrans,13.1,product_not_received
+c1014b32-66df-475a-9953-6670aab9da5b,2026-01-07T12:39:47,M003,GamersParadise,electronics,iPad Air M2,20.48,USD,PH,visa,Checkout.com,13.2,subscription_cancelled
+7d670fa8-b777-4e4a-a652-b5a77e0249d5,2026-01-12T21:07:26,M028,PhoneMart TH,health_beauty,Whey Protein Powder 1 kg,20.0,USD,TH,visa,Checkout.com,13.3,product_not_as_described
+c4b2d532-71fb-4aef-9006-d0a2d9eb0bb4,2026-01-17T18:14:46,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,53.9,USD,ID,ovo,Midtrans,13.1,product_not_received
+9fcaed2e-e589-4992-b1b6-c32e00636691,2025-12-29T06:01:28,M024,MobilePro TH,electronics,Lenovo Tab P12,47.62,USD,PH,gopay,Midtrans,13.1,product_not_received
+b9483713-99f9-450b-afd5-8f98bbe397af,2026-01-24T22:08:33,M008,PhoneMax ID,accessories,Screen Protector 3-Pack,46.42,USD,VN,ovo,Midtrans,13.3,product_not_as_described
+8818598d-011b-4892-ae66-1c11b5824c72,2026-01-11T11:43:49,M003,GamersParadise,electronics,iPad Air M2,48.94,USD,ID,visa,Adyen,13.3,product_not_as_described
+62c13efc-ee50-4948-ace1-74747c16026b,2026-01-06T22:45:31,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,27.83,USD,PH,gopay,Midtrans,13.3,product_not_as_described
+221e8e6a-f30f-4918-8bbd-8098ad9a6318,2026-01-25T04:18:02,M007,QuickGadgets,accessories,Slim Phone Case,45.96,USD,ID,ovo,Midtrans,13.2,subscription_cancelled
+bb7fc4b4-132f-43d4-bd61-343a3fb148f7,2026-01-03T17:44:17,M022,ElectroMall ID,fashion,Casual Slip-On Sneakers,18.37,USD,ID,visa,Adyen,13.3,product_not_as_described
+45a6800b-935c-414c-b9e7-8ad5fda1bc67,2025-12-31T03:43:49,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,337.59,USD,VN,gopay,Midtrans,13.1,product_not_received
+03cd800a-94bc-465d-a55d-4274c40fa4e6,2026-01-21T20:03:58,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,47.52,USD,ID,visa,Checkout.com,13.2,subscription_cancelled
+2b150ab7-c621-4a08-a191-eb2e65158eeb,2026-01-10T01:53:25,M020,PhoneZone TH,accessories,TWS Bluetooth Earbuds,27.31,USD,TH,visa,Stripe,13.3,product_not_as_described
+23b17ae2-9b54-4ee8-a1c4-ceccdeb1fae4,2026-01-26T20:34:33,M002,GadgetHub ID,electronics,Dell Inspiron 15,112.86,USD,ID,visa,Checkout.com,13.2,subscription_cancelled
+c39aef89-367f-4c4a-b2c2-335be87664f3,2026-01-07T08:45:11,M002,GadgetHub ID,electronics,Samsung Galaxy S24,52.49,USD,TH,mastercard,Checkout.com,10.2,fraud
+96b577c6-7c96-419d-b7c1-f38579fa9f29,2026-01-16T13:32:20,M020,PhoneZone TH,accessories,USB-C 65W Fast Charger,21.01,USD,ID,truemoney,Omise,12.6,duplicate_processing
+e3f958e2-607e-44e9-9ca1-caf993b912ed,2025-12-28T08:21:19,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,58.04,USD,ID,visa,Adyen,10.4,fraud
+9fa77d0b-8db4-4c9f-9914-62c7605a7779,2026-01-06T22:49:19,M008,PhoneMax ID,accessories,Smart Watch Band Set,20.83,USD,ID,gopay,Midtrans,10.4,fraud
+982232e8-1b92-4c82-9886-4287ecf2c099,2026-01-01T11:26:44,M039,SmartMart VN,home_appliances,Touch-Dimmer LED Desk Lamp,23.66,USD,TH,bank_transfer,Xendit,13.1,product_not_received
+f97ef5cf-2c98-438c-8b8d-c99fee0fdab5,2026-01-13T02:58:36,M002,GadgetHub ID,electronics,Xiaomi 14 Pro,15.67,USD,PH,gopay,Midtrans,13.1,product_not_received
+ec6abdb8-f7aa-4837-ab01-491e3df555c1,2025-12-31T15:05:57,M008,PhoneMax ID,accessories,"Laptop Sleeve 15""",62.36,USD,ID,gopay,Midtrans,13.1,product_not_received
+6774d44b-5833-43fe-9b3e-bf5bad71f8df,2026-01-14T23:01:25,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,76.5,USD,TH,ovo,Midtrans,13.1,product_not_received
+0b0decf2-65ba-48c5-9171-b951a9b289ca,2026-01-14T02:59:30,M002,GadgetHub ID,electronics,Samsung Galaxy S24,25.75,USD,ID,bank_transfer,Xendit,13.2,subscription_cancelled
+139a4f3f-e349-4abd-bdf3-9fc68c5b8435,2026-01-11T12:05:43,M007,QuickGadgets,accessories,Smart Watch Band Set,68.71,USD,ID,bank_transfer,Xendit,13.3,product_not_as_described
+284ba376-b57a-45ca-a3de-78a97155a988,2026-01-13T00:48:01,M007,QuickGadgets,accessories,Slim Phone Case,50.76,USD,TH,bank_transfer,Xendit,10.2,fraud
+18be0ef1-b8d6-4ca5-ab0f-90c47505aa64,2026-01-04T06:59:56,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,365.05,USD,PH,visa,Adyen,10.4,fraud
+9c021d8c-9564-4b1d-8519-3f3ca8169158,2026-01-16T22:55:03,M002,GadgetHub ID,electronics,Sony WH-1000XM5,63.57,USD,PH,mastercard,Adyen,10.2,fraud
+9d29e972-c427-4324-bc93-964ae6b8d5e9,2026-01-01T23:36:20,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,114.81,USD,VN,visa,Checkout.com,13.1,product_not_received
+0a988398-07a7-4fd0-b652-3cf92dcc5534,2025-12-29T23:58:11,M005,AccessoryWorld,gaming,SteelSeries Arctis Headset,35.34,USD,ID,mastercard,Stripe,13.1,product_not_received
+a3a604c1-dc69-4f57-b3aa-f19012c22bb5,2026-01-19T12:11:48,M029,AccessZone ID,health_beauty,Aromatherapy Essential Oil Kit,26.72,USD,ID,visa,Checkout.com,13.1,product_not_received
+2cb0f06f-b2b9-4800-bb2b-4fc11304bf84,2026-01-14T16:08:24,M012,CoolPhone TH,health_beauty,Gentle Foam Cleanser Set,24.8,USD,ID,mastercard,Adyen,13.1,product_not_received
+ee451a3a-29ba-48b4-aa60-3360a8814e91,2026-01-14T08:24:43,M014,ElectraBuy PH,electronics,Samsung Galaxy S24,25.82,USD,ID,visa,Checkout.com,13.3,product_not_as_described
+0007fd8e-a97c-4596-887f-411d33991dad,2026-01-06T06:47:07,M006,ElectroShop VN,accessories,Smart Watch Band Set,38.77,USD,PH,visa,Adyen,13.3,product_not_as_described
+5e35d183-4313-482c-9851-621fed6a3c98,2026-01-14T14:34:41,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,48.8,USD,ID,visa,Stripe,10.5,fraud
+599e3ec8-c9d3-4709-af53-05c377b6fe48,2026-01-21T11:20:26,M008,PhoneMax ID,accessories,USB-C 65W Fast Charger,47.1,USD,ID,bank_transfer,Xendit,13.3,product_not_as_described
+70ba33e3-cb0b-4b93-9c2f-5f3fe2a6f143,2026-01-06T12:36:53,M007,QuickGadgets,accessories,Screen Protector 3-Pack,63.75,USD,TH,visa,Checkout.com,10.5,fraud
+19769b7a-5b20-43e3-8463-7165a39210a7,2026-01-20T05:46:50,M008,PhoneMax ID,accessories,Slim Phone Case,40.74,USD,TH,mastercard,Stripe,13.1,product_not_received
+182a8742-03eb-43e8-9d39-f8dc19929f6a,2026-01-17T02:52:42,M043,GameHub VN,mobile_phones,iPhone 15 Pro,89.97,USD,PH,mastercard,Checkout.com,12.6,duplicate_processing
+330f2ca8-4d06-4f5b-8c42-7fb4b55d0b4c,2025-12-28T01:39:40,M003,GamersParadise,electronics,Dell Inspiron 15,34.97,USD,ID,mastercard,Checkout.com,10.2,fraud
+259eb959-dde9-44c3-8cd7-9f7783fcdbb5,2026-01-13T09:01:32,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,180.57,USD,VN,mastercard,Adyen,13.3,product_not_as_described
+69e88752-92cc-4748-a7c4-783a0b084e9e,2026-01-03T11:17:50,M004,MobileKing TH,health_beauty,Aromatherapy Essential Oil Kit,21.43,USD,PH,visa,Adyen,13.1,product_not_received
+986f8ee9-215a-4a22-8e2d-b8af559de372,2026-01-17T01:05:25,M002,GadgetHub ID,electronics,"LG 55"" OLED TV",57.06,USD,PH,gopay,Midtrans,13.2,subscription_cancelled
+85d64630-c7c4-460e-ab85-5db2af60ef30,2026-01-17T03:57:33,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,25.24,USD,VN,mastercard,Checkout.com,13.1,product_not_received
+e917f493-1bd2-4305-a910-a1dfbe6b880c,2026-01-18T18:42:02,M002,GadgetHub ID,electronics,OPPO Reno11 5G,22.44,USD,ID,truemoney,Omise,12.6,duplicate_processing
+0641f638-3c42-4da8-9f27-6f155ead4660,2026-01-23T05:36:15,M054,ElectroStore PH,gaming,Nintendo Switch Carry Case,52.74,USD,ID,visa,Checkout.com,10.5,fraud
+fb597143-293f-4296-a7c5-23d858f6aafe,2026-01-22T16:47:22,M003,GamersParadise,electronics,Samsung Galaxy S24,11.25,USD,ID,ovo,Midtrans,13.2,subscription_cancelled
+30ec62d2-be49-4de0-aef1-b4e5d1a400aa,2026-01-22T11:35:24,M005,AccessoryWorld,gaming,SteelSeries Arctis Headset,35.77,USD,PH,mastercard,Stripe,13.2,subscription_cancelled
+06835eea-5db7-412f-9a88-d763e212bef4,2026-01-22T08:09:24,M027,GameWorld VN,health_beauty,Gentle Foam Cleanser Set,59.9,USD,ID,visa,Adyen,10.4,fraud
+4921f826-8ebb-4558-a4f6-4de684ec0f90,2026-01-11T04:05:11,M005,AccessoryWorld,gaming,SteelSeries Arctis Headset,52.47,USD,PH,visa,Stripe,10.4,fraud
+1b158c46-65eb-40b7-8e66-6a8b0cf4f1e4,2026-01-14T10:55:24,M006,ElectroShop VN,accessories,USB-C 65W Fast Charger,38.86,USD,ID,mastercard,Adyen,13.1,product_not_received
+bdde4237-9aa9-416b-9bec-7125cfd33b22,2026-01-18T09:17:31,M003,GamersParadise,electronics,OPPO Reno11 5G,14.09,USD,PH,visa,Stripe,10.4,fraud
+1a078ec4-5091-4508-af36-6869164deaa0,2026-01-20T06:29:06,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,25.39,USD,VN,mastercard,Stripe,13.1,product_not_received
+4679e1d5-2511-4622-a207-18fbdca94c47,2026-01-11T20:38:08,M030,ElectroGo PH,fashion,UV400 Polarised Sunglasses,20.0,USD,VN,ovo,Midtrans,10.5,fraud
+ccee6d38-e02c-42d2-af9e-ac4010b5c20f,2026-01-07T15:36:50,M007,QuickGadgets,accessories,Screen Protector 3-Pack,31.64,USD,ID,gopay,Midtrans,10.5,fraud
+051dd60c-a044-4730-aa69-f388fbba14f5,2026-01-15T17:01:46,M004,MobileKing TH,health_beauty,Aromatherapy Essential Oil Kit,64.78,USD,ID,visa,Stripe,13.2,subscription_cancelled
+93335a7a-6104-4866-b003-2d015e639fc1,2026-01-18T07:16:42,M035,GameZone VN,gaming,Xbox Game Pass 3-Month,45.5,USD,TH,gopay,Midtrans,10.5,fraud
+0a128026-2625-4824-b4a6-132e626353fb,2026-01-15T22:26:34,M039,SmartMart VN,home_appliances,Smart WiFi Plug 4-Pack,20.39,USD,ID,mastercard,Checkout.com,13.1,product_not_received
+2530c10d-6f89-42f5-953b-8d6fa364b109,2026-01-18T19:02:36,M004,MobileKing TH,health_beauty,Aromatherapy Essential Oil Kit,44.49,USD,ID,visa,Stripe,13.1,product_not_received
+067cf310-885c-4342-97e0-eaf1d00ccecd,2026-01-04T18:44:36,M005,AccessoryWorld,gaming,Xbox Game Pass 3-Month,50.0,USD,ID,mastercard,Checkout.com,10.2,fraud
+ab40d6f1-90f4-4b58-8df6-3788724b09bb,2026-01-08T09:26:58,M003,GamersParadise,electronics,Xiaomi 14 Pro,21.17,USD,ID,mastercard,Stripe,13.2,subscription_cancelled
+b98dd8f1-d9e7-40cc-a552-d0c0e0ddab1e,2026-01-13T14:46:44,M004,MobileKing TH,health_beauty,Aromatherapy Essential Oil Kit,24.88,USD,ID,mastercard,Checkout.com,13.1,product_not_received
+b30462a3-e134-47f4-98de-cedcd5d6617b,2026-01-17T23:15:33,M006,ElectroShop VN,accessories,Screen Protector 3-Pack,44.02,USD,ID,ovo,Midtrans,13.1,product_not_received
+aedf3465-a353-46fd-835b-13a6d83be3f1,2026-01-17T13:25:01,M007,QuickGadgets,accessories,Smart Watch Band Set,41.76,USD,ID,gopay,Midtrans,10.5,fraud
+744174ab-5ce6-4193-a72e-e65bf5d13736,2026-01-03T02:36:06,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,21.57,USD,ID,gopay,Midtrans,10.5,fraud
+9f44a345-5d58-46fc-911e-7864b5742b2f,2026-01-13T12:39:25,M008,PhoneMax ID,accessories,"Laptop Sleeve 15""",12.93,USD,PH,visa,Adyen,13.2,subscription_cancelled
+25638586-4044-441f-a442-dbe228a28373,2025-12-30T07:19:07,M046,ElectroHub PH,accessories,Screen Protector 3-Pack,49.24,USD,ID,visa,Stripe,13.1,product_not_received
+733e2766-e922-4863-a67c-64cdd9a11674,2026-01-10T22:58:41,M007,QuickGadgets,accessories,Screen Protector 3-Pack,55.06,USD,PH,gopay,Midtrans,10.4,fraud
+9ee669fc-0917-41ae-a8b0-6939fd69277e,2026-01-16T00:31:08,M008,PhoneMax ID,accessories,Screen Protector 3-Pack,73.38,USD,VN,visa,Checkout.com,10.2,fraud
+a68473ad-22f4-4332-a1c3-d95f13172355,2026-01-10T05:05:36,M008,PhoneMax ID,accessories,USB-C 65W Fast Charger,72.21,USD,ID,mastercard,Adyen,13.1,product_not_received
+b9fb77f5-d4f3-4035-be2f-b5243072b40e,2026-01-02T15:35:32,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,20.0,USD,ID,mastercard,Checkout.com,13.3,product_not_as_described
+a4bcc1d2-bb50-4fea-ba65-c4f92c0b7b3c,2026-01-21T13:06:47,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,24.15,USD,VN,mastercard,Stripe,13.3,product_not_as_described
+2c1090b4-be09-4ab6-9185-fc38fdce5d7c,2026-01-11T07:13:51,M002,GadgetHub ID,electronics,Lenovo Tab P12,53.69,USD,PH,visa,Stripe,13.3,product_not_as_described
+5cca19d4-45de-4861-9ff1-3d0cc5f14e49,2026-01-23T11:34:17,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,53.66,USD,TH,visa,Stripe,10.2,fraud
+1fd51a2e-613f-49a4-aba0-1b1b211c2944,2026-01-01T01:17:55,M002,GadgetHub ID,electronics,OPPO Reno11 5G,53.69,USD,ID,ovo,Midtrans,13.2,subscription_cancelled
+1097fe3d-78ce-4f53-8ff1-44917cc068fe,2026-01-09T08:40:26,M052,PhonePro TH,mobile_phones,OPPO A78 5G,200.0,USD,PH,mastercard,Adyen,13.1,product_not_received
+43692259-35be-4c21-8907-91c0e631a4c9,2026-01-19T15:20:37,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,55.37,USD,TH,visa,Adyen,13.2,subscription_cancelled
+365b6c3e-8755-4b35-b9c3-505bb0089291,2026-01-24T06:27:52,M006,ElectroShop VN,accessories,Screen Protector 3-Pack,75.53,USD,ID,mastercard,Stripe,13.1,product_not_received
+befd9392-6650-4105-8b2a-4f7d9a36eeca,2026-01-15T21:48:03,M003,GamersParadise,electronics,Samsung Galaxy S24,18.97,USD,PH,ovo,Midtrans,12.6,duplicate_processing
+ceddc1d1-1b98-4d23-b944-40376de5e318,2026-01-10T04:56:41,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,68.35,USD,VN,gopay,Midtrans,10.4,fraud
+f52bd890-a245-42b8-a3d8-2c981465c2e7,2025-12-30T05:03:25,M005,AccessoryWorld,gaming,Razer DeathAdder Mouse,57.87,USD,TH,bank_transfer,Xendit,10.2,fraud
+fe53ac97-5e5c-4822-880e-ca15c427eac5,2025-12-28T18:14:33,M002,GadgetHub ID,electronics,Dell Inspiron 15,373.9,USD,TH,visa,Stripe,10.2,fraud
+06f98e8a-7547-43ad-940b-6240519cae87,2026-01-04T03:06:20,M002,GadgetHub ID,electronics,Lenovo Tab P12,34.01,USD,ID,ovo,Midtrans,10.2,fraud
+70f53e0b-1732-48ac-9709-2900bd9d3128,2025-12-30T20:10:28,M018,TechPulse ID,electronics,Lenovo Tab P12,61.4,USD,PH,visa,Adyen,13.1,product_not_received
+6f558282-259d-4464-9edd-baf5a323faba,2026-01-24T04:48:07,M008,PhoneMax ID,accessories,"Laptop Sleeve 15""",26.44,USD,ID,truemoney,Omise,10.5,fraud
+b94aeb64-57f2-473f-a0f0-932ce5d54de2,2026-01-05T19:38:46,M024,MobilePro TH,electronics,iPad Air M2,35.51,USD,TH,visa,Checkout.com,13.1,product_not_received
+2268470b-f1e9-470f-9f41-a0d2bb3e3412,2026-01-20T07:31:24,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,30.97,USD,PH,gopay,Midtrans,10.2,fraud
+28a9de47-d764-433b-904e-d772943bd039,2026-01-08T18:26:23,M009,DigiStore PH,health_beauty,Gentle Foam Cleanser Set,42.31,USD,VN,visa,Adyen,13.2,subscription_cancelled
+9ea687ab-25d6-4c53-b00a-aa3ac2a7c1b9,2026-01-05T12:32:18,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,144.47,USD,PH,bank_transfer,Xendit,10.5,fraud
+ae9d8de4-33a7-4e3a-b2c0-c60da8a8faf9,2026-01-13T04:34:20,M002,GadgetHub ID,electronics,"LG 55"" OLED TV",20.0,USD,TH,bank_transfer,Xendit,12.6,duplicate_processing
+c4eb08e6-951a-40b2-a7e8-b0d6adacc6e1,2025-12-29T03:29:39,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,58.99,USD,TH,bank_transfer,Xendit,10.4,fraud
+bfa8a9fc-ff8b-4009-8f5a-261f5ab54cbd,2026-01-19T11:33:33,M003,GamersParadise,electronics,iPad Air M2,20.0,USD,ID,mastercard,Stripe,10.2,fraud
+eb4e7494-061c-4f6f-a963-14ca608a2c82,2026-01-07T02:16:45,M010,GamingGear ID,electronics,Xiaomi 14 Pro,31.2,USD,PH,visa,Adyen,13.3,product_not_as_described
+a259e79a-cc85-4336-b451-399b562447d2,2026-01-08T18:43:46,M019,GameStop VN,electronics,Xiaomi 14 Pro,73.62,USD,PH,ovo,Midtrans,10.4,fraud
+96cf0d2e-7ece-4a6a-bc39-ee5ecc139995,2026-01-08T01:35:51,M008,PhoneMax ID,accessories,Smart Watch Band Set,41.9,USD,PH,visa,Stripe,10.4,fraud
+fd920f75-fb4b-4a30-84ce-61bb44186470,2026-01-05T03:32:43,M006,ElectroShop VN,accessories,USB-C 65W Fast Charger,22.36,USD,TH,mastercard,Adyen,13.1,product_not_received
+c5d24fa0-125d-40ca-a97e-d9c5fac55858,2026-01-24T10:05:35,M008,PhoneMax ID,accessories,TWS Bluetooth Earbuds,250.17,USD,PH,gcash,PayMaya,10.2,fraud
+09b4844a-eb34-48de-871d-369381e62071,2026-01-08T06:46:57,M008,PhoneMax ID,accessories,"Laptop Sleeve 15""",27.29,USD,ID,mastercard,Adyen,13.1,product_not_received
+df98f041-0871-451c-9591-e351ee90846a,2026-01-17T10:00:48,M006,ElectroShop VN,accessories,Smart Watch Band Set,58.78,USD,TH,truemoney,Omise,13.1,product_not_received
+a5ef8e4f-3dbe-4a04-8b4e-abfb2c36a792,2026-01-10T04:45:17,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,257.87,USD,TH,visa,Stripe,10.2,fraud
+a8603774-9158-4862-b771-bce4cf3fe946,2026-01-20T04:40:52,M038,ElectroZone ID,electronics,"LG 55"" OLED TV",15.95,USD,PH,visa,Adyen,10.4,fraud
+7335c80d-8ea7-4294-be1d-4c35f275ef45,2026-01-26T23:20:20,M006,ElectroShop VN,accessories,TWS Bluetooth Earbuds,27.07,USD,ID,gopay,Midtrans,13.1,product_not_received
+51e8690c-0e75-4645-abaa-3f69ff73fef9,2025-12-31T14:20:26,M046,ElectroHub PH,accessories,USB-C 65W Fast Charger,45.56,USD,VN,visa,Adyen,10.5,fraud
+6bbcfe58-b7ed-4ef5-a46e-6541daf3ec13,2026-01-24T21:19:52,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,408.98,USD,ID,visa,Adyen,10.2,fraud
+6fbad297-404f-49de-8b9f-0a258a62644c,2026-01-09T08:52:11,M006,ElectroShop VN,accessories,USB-C 65W Fast Charger,41.47,USD,VN,gopay,Midtrans,13.1,product_not_received
+1185c424-ca61-47e1-88ca-a981f5aa001c,2025-12-31T07:08:12,M003,GamersParadise,electronics,"LG 55"" OLED TV",28.26,USD,PH,gcash,PayMaya,10.2,fraud
+bf841587-460a-4954-8da9-d3a5fcf39a00,2025-12-28T20:28:51,M002,GadgetHub ID,electronics,OPPO Reno11 5G,19.86,USD,TH,visa,Adyen,13.2,subscription_cancelled
+052a5106-201d-4093-bbbe-629b8daec75e,2026-01-02T23:25:31,M012,CoolPhone TH,health_beauty,Vitamin C Brightening Serum,131.52,USD,PH,mastercard,Stripe,12.6,duplicate_processing
+2e3b59c0-c859-4a57-a61f-07d4da3e96a7,2026-01-05T19:39:39,M026,TechGo PH,accessories,Screen Protector 3-Pack,57.32,USD,PH,visa,Checkout.com,13.1,product_not_received
+68f71574-9b67-41cc-b3a7-49b9a06c0e49,2026-01-09T16:15:40,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,20.0,USD,VN,visa,Checkout.com,10.5,fraud
+f4010cc2-9c61-4b09-9db9-d60f9ebcf73c,2026-01-08T12:17:11,M008,PhoneMax ID,accessories,USB-C 65W Fast Charger,44.82,USD,ID,mastercard,Stripe,12.6,duplicate_processing
+8be9cc70-8a3d-4776-9658-27cfe8048107,2026-01-13T07:10:06,M039,SmartMart VN,home_appliances,Compact Air Purifier H13,28.11,USD,ID,mastercard,Checkout.com,10.4,fraud
+29e4260a-55f8-4fe8-97ea-246acf002c53,2026-01-15T11:59:53,M023,SmartStore VN,fashion,Casual Slip-On Sneakers,64.64,USD,PH,ovo,Midtrans,13.3,product_not_as_described
+ea5a7558-f370-4231-a3b9-307ce0b15979,2026-01-15T06:53:51,M031,SmartHub TH,mobile_phones,OPPO A78 5G,26.16,USD,ID,mastercard,Adyen,13.1,product_not_received
+ebf7db33-2c39-4f42-b2e0-eefd7d2a1da9,2025-12-28T19:12:51,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,37.97,USD,ID,visa,Stripe,10.4,fraud
+f9b41e34-8e4d-40ad-be39-7f776c6e290d,2026-01-21T11:04:23,M003,GamersParadise,electronics,"LG 55"" OLED TV",53.4,USD,ID,mastercard,Stripe,10.4,fraud
+6d875e2f-c680-4e68-9a40-0d0b174f3625,2026-01-10T20:20:11,M055,SmartGear VN,home_appliances,Rice Cooker 1.8 L,65.12,USD,PH,bank_transfer,Xendit,13.1,product_not_received
+c8ed555a-2b67-465e-833d-e09e6ffd875f,2026-01-01T22:36:25,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,350.6,USD,VN,visa,Checkout.com,10.4,fraud
+277d33d1-3d34-402e-ae60-fe0dca82f167,2026-01-26T02:15:22,M002,GadgetHub ID,electronics,Lenovo Tab P12,20.9,USD,VN,visa,Adyen,13.1,product_not_received
+76617f65-0b87-4004-9354-66de4ac5cff5,2026-01-03T08:50:06,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,309.56,USD,PH,visa,Adyen,10.5,fraud
+d2ec5d10-a3e7-492a-9ea3-2dff22a79548,2026-01-08T15:50:55,M007,QuickGadgets,accessories,"Laptop Sleeve 15""",33.65,USD,TH,visa,Adyen,13.1,product_not_received
+8c5b25f7-2d7d-4f9f-b501-2de1733ac523,2026-01-06T03:04:21,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,31.15,USD,ID,visa,Adyen,10.2,fraud
+31b00061-4d9f-4551-83b8-0235b4fced85,2026-01-07T15:45:01,M014,ElectraBuy PH,electronics,"LG 55"" OLED TV",28.24,USD,ID,gopay,Midtrans,13.1,product_not_received
+2fea256e-32ac-42b9-a08a-6c80037d967c,2026-01-03T17:46:59,M006,ElectroShop VN,accessories,Smart Watch Band Set,106.8,USD,TH,mastercard,Stripe,12.6,duplicate_processing
+51bf8edc-8e46-494a-b045-216f62121d2e,2026-01-15T01:23:00,M007,QuickGadgets,accessories,TWS Bluetooth Earbuds,19.53,USD,PH,mastercard,Stripe,13.1,product_not_received
+d757dce3-15c8-4756-9507-c31cbe3686f9,2026-01-02T15:54:07,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,50.54,USD,PH,bank_transfer,Xendit,13.1,product_not_received
+addf5da1-1d05-4715-92bf-fcfe57c7cc59,2026-01-02T05:28:02,M007,QuickGadgets,accessories,Slim Phone Case,20.22,USD,ID,mastercard,Stripe,10.2,fraud
+f6842cca-31d2-487e-8e58-026af7068222,2025-12-30T13:48:37,M002,GadgetHub ID,electronics,Sony WH-1000XM5,67.01,USD,TH,ovo,Midtrans,13.1,product_not_received
+22dd3835-2d79-4192-bcfe-71204d7b4505,2026-01-12T22:02:32,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,129.95,USD,TH,mastercard,Adyen,10.4,fraud
+58ac387e-aa3f-4af8-99ab-2f1abca979f1,2026-01-01T21:27:12,M021,AccessHub PH,accessories,Smart Watch Band Set,71.37,USD,PH,visa,Stripe,10.2,fraud
+8b3cce44-aedb-4421-bd07-098fc3f0f866,2025-12-30T10:54:17,M013,AccessPro ID,fashion,Genuine Leather Wallet,20.0,USD,ID,mastercard,Checkout.com,10.2,fraud
+bd9b31bc-7996-4a3d-96de-e1546a919d1b,2025-12-31T18:37:48,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,30.99,USD,PH,visa,Adyen,13.1,product_not_received
+2c6840b9-8edc-4f83-af30-95fd003718a1,2026-01-25T15:36:38,M031,SmartHub TH,mobile_phones,OPPO A78 5G,268.85,USD,ID,mastercard,Checkout.com,10.2,fraud
+785e9336-0e8b-492a-a125-7f1f09a231d4,2026-01-09T07:03:47,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,81.19,USD,VN,visa,Adyen,12.6,duplicate_processing
+1c3d15f5-3b72-4789-a042-6e03c0595e75,2026-01-06T22:43:06,M028,PhoneMart TH,health_beauty,Gentle Foam Cleanser Set,27.41,USD,VN,mastercard,Stripe,10.5,fraud
+1c5990dc-c721-4c2e-b6bf-dc413b232ad7,2026-01-16T06:58:52,M007,QuickGadgets,accessories,TWS Bluetooth Earbuds,51.63,USD,TH,visa,Stripe,13.1,product_not_received
+43edcfe3-129a-4b77-9a89-6489964fed78,2025-12-30T04:49:54,M003,GamersParadise,electronics,Samsung Galaxy S24,61.93,USD,VN,mastercard,Adyen,10.4,fraud
+d1855aa2-750c-473b-afe3-8c41f5490574,2025-12-29T08:23:52,M008,PhoneMax ID,accessories,TWS Bluetooth Earbuds,24.29,USD,PH,gopay,Midtrans,12.6,duplicate_processing
+a32a4044-090e-4240-9ba9-0b0151354194,2026-01-16T15:37:35,M008,PhoneMax ID,accessories,Slim Phone Case,39.14,USD,TH,bank_transfer,Xendit,13.1,product_not_received
+b3f7251a-f255-423f-85d0-e6041a5ca477,2025-12-29T06:54:14,M007,QuickGadgets,accessories,Smart Watch Band Set,20.0,USD,ID,mastercard,Checkout.com,10.5,fraud
+cdb17fbc-88ad-4362-a0b0-71628d1cdbcb,2026-01-12T19:51:00,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,23.03,USD,TH,gopay,Midtrans,12.6,duplicate_processing
+aa39828e-db4c-495c-a768-194dd384876a,2026-01-24T14:19:43,M007,QuickGadgets,accessories,"Laptop Sleeve 15""",35.2,USD,ID,visa,Adyen,10.4,fraud
+27428adf-e427-455a-9715-d300dadcd60c,2026-01-14T09:43:06,M006,ElectroShop VN,accessories,TWS Bluetooth Earbuds,21.84,USD,PH,gopay,Midtrans,13.1,product_not_received
+3cadbcd6-d87f-4e6f-840e-266720db3e9c,2026-01-03T01:51:54,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,20.36,USD,ID,ovo,Midtrans,10.2,fraud
+35309602-4cda-4b76-a970-14a99e8db7e6,2026-01-06T12:47:02,M008,PhoneMax ID,accessories,"Laptop Sleeve 15""",99.27,USD,PH,mastercard,Adyen,10.5,fraud
+b151a496-f0a2-4774-8f53-a4dcadf28106,2026-01-18T21:22:32,M023,SmartStore VN,fashion,UV400 Polarised Sunglasses,20.0,USD,TH,ovo,Midtrans,10.5,fraud
+48ae0bb5-0129-4add-af33-f263ef4d66b5,2026-01-20T05:43:57,M003,GamersParadise,electronics,Lenovo Tab P12,31.75,USD,ID,ovo,Midtrans,10.2,fraud
+41dc082e-a604-44f9-99ac-e3806d2dfc27,2026-01-22T18:18:29,M035,GameZone VN,gaming,PlayStation Store $50 Gift Card,43.46,USD,VN,mastercard,Checkout.com,12.6,duplicate_processing
+bf94420d-bd17-419f-99a1-66e6942ff59f,2026-01-13T16:19:26,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,89.36,USD,ID,gopay,Midtrans,10.5,fraud
+f66f7870-72bf-4500-9365-e26e7801b1fd,2026-01-01T02:31:21,M008,PhoneMax ID,accessories,Smart Watch Band Set,20.0,USD,ID,gopay,Midtrans,10.4,fraud
+4afe3976-1996-4185-9a1a-4852db788694,2026-01-21T05:31:50,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,76.69,USD,PH,mastercard,Stripe,13.3,product_not_as_described
+e28ab5c3-25a0-4074-b31c-c2fc55579fb9,2026-01-09T23:23:00,M008,PhoneMax ID,accessories,Slim Phone Case,40.68,USD,PH,mastercard,Adyen,10.2,fraud
+25d8761b-dffd-4c0d-9ed9-bc027acb1d3a,2026-01-04T04:06:24,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,23.57,USD,TH,visa,Stripe,13.1,product_not_received
+16fbba96-6864-417d-aa5b-75a4f8903434,2026-01-10T10:57:31,M006,ElectroShop VN,accessories,Slim Phone Case,52.15,USD,ID,bank_transfer,Xendit,13.1,product_not_received
+b3298518-6088-46bd-9ff5-5c1415f07e4a,2026-01-03T05:07:23,M003,GamersParadise,electronics,Samsung Galaxy S24,45.13,USD,PH,mastercard,Checkout.com,13.1,product_not_received
+3e9d3a77-8348-4772-abaf-97aa468a0f88,2026-01-18T01:44:07,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,29.08,USD,ID,gcash,PayMaya,10.5,fraud
+2b506667-7429-4e2d-8bb8-f9305ffd6f03,2026-01-19T13:42:06,M022,ElectroMall ID,fashion,UV400 Polarised Sunglasses,42.03,USD,TH,visa,Stripe,13.1,product_not_received
+03b8fd34-91e9-439f-865f-02fd93b80fde,2026-01-06T06:38:12,M002,GadgetHub ID,electronics,iPad Air M2,32.72,USD,VN,visa,Stripe,10.2,fraud
+88463342-70a6-4438-b3e5-dfa7ffbb87de,2025-12-29T22:59:30,M003,GamersParadise,electronics,Lenovo Tab P12,43.05,USD,ID,bank_transfer,Xendit,13.1,product_not_received
+389bc33f-507e-43ed-8135-7e3e5fc2eeb1,2026-01-12T16:04:46,M051,GameMart VN,electronics,Xiaomi 14 Pro,58.22,USD,PH,visa,Stripe,10.5,fraud
+1d9643bb-7223-4b45-83fb-7166f97611ee,2025-12-31T09:23:51,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,96.77,USD,ID,truemoney,Omise,13.3,product_not_as_described
+d3bb1533-f070-41fe-bd34-2984cf432cba,2026-01-17T14:39:17,M051,GameMart VN,electronics,Xiaomi 14 Pro,20.47,USD,ID,visa,Adyen,10.5,fraud
+78e2a0c2-7b13-4c6e-8527-53bcd1f6b06f,2026-01-05T15:51:26,M008,PhoneMax ID,accessories,Smart Watch Band Set,130.73,USD,ID,gopay,Midtrans,13.3,product_not_as_described
+f830e023-b31c-4673-9bc0-70ca0aef1c97,2025-12-31T18:43:28,M019,GameStop VN,electronics,OPPO Reno11 5G,20.0,USD,TH,mastercard,Checkout.com,13.1,product_not_received
+196a5bcc-d6cd-4ca3-ab3e-9f192ef2e05a,2026-01-25T03:56:26,M055,SmartGear VN,home_appliances,Touch-Dimmer LED Desk Lamp,265.4,USD,ID,bank_transfer,Xendit,10.2,fraud
+2db66d15-9776-4281-8b17-b33a205bef9f,2026-01-13T13:42:46,M042,TechStore ID,health_beauty,Gentle Foam Cleanser Set,37.21,USD,TH,gopay,Midtrans,13.1,product_not_received
+d00674de-420d-40f7-b040-e838a203cd79,2026-01-25T20:59:10,M044,PhoneStore TH,gaming,Nintendo Switch Carry Case,55.9,USD,VN,visa,Adyen,13.2,subscription_cancelled
+15197592-b211-4a07-90d6-3fc25a5924ac,2026-01-04T16:14:35,M029,AccessZone ID,health_beauty,Aromatherapy Essential Oil Kit,47.21,USD,ID,visa,Stripe,10.5,fraud
+e0276620-9bdf-471f-856e-710a915b5c16,2025-12-30T03:31:47,M037,AccessMart PH,home_appliances,Smart WiFi Plug 4-Pack,13.77,USD,PH,mastercard,Adyen,12.6,duplicate_processing
+46ff5e5e-12de-4c2e-9757-a5db46533eac,2026-01-17T06:41:42,M048,MobileGear TH,home_appliances,Touch-Dimmer LED Desk Lamp,28.72,USD,ID,mastercard,Adyen,10.4,fraud
+3af3ae1f-497b-439f-baf9-e8f047c25d2f,2026-01-14T22:42:23,M030,ElectroGo PH,fashion,Genuine Leather Wallet,18.63,USD,ID,mastercard,Stripe,13.3,product_not_as_described
+02f89d4b-c1df-4f4d-bb37-c2386803b5c6,2026-01-14T01:57:10,M027,GameWorld VN,health_beauty,Aromatherapy Essential Oil Kit,36.07,USD,TH,gopay,Midtrans,13.1,product_not_received
+3ec11982-c24f-4d19-8b50-0b3a76c73bb1,2026-01-03T06:29:52,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,30.84,USD,ID,gcash,PayMaya,10.4,fraud
+ee82f681-231b-4d38-bf2e-9aac7f521f6c,2026-01-15T14:42:37,M052,PhonePro TH,mobile_phones,Vivo V29,29.25,USD,PH,truemoney,Omise,10.2,fraud
+7d5d56b0-0e9f-46cd-8b80-7ed95615a3e6,2026-01-12T05:44:37,M046,ElectroHub PH,accessories,Screen Protector 3-Pack,64.54,USD,ID,ovo,Midtrans,12.6,duplicate_processing
+c10ae7b0-46ec-4e9e-a4e6-72923e5085eb,2026-01-10T07:17:25,M007,QuickGadgets,accessories,Slim Phone Case,49.22,USD,PH,bank_transfer,Xendit,13.2,subscription_cancelled
+5b3a4144-7073-4be3-979d-5ae5a4fdd818,2026-01-23T22:47:59,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,27.63,USD,ID,gcash,PayMaya,13.3,product_not_as_described
+8088c468-5f69-4f7c-9758-6e6a47f2bdf9,2026-01-19T16:34:44,M017,GearUp PH,electronics,Lenovo Tab P12,66.34,USD,TH,bank_transfer,Xendit,13.1,product_not_received
+eb1beb5a-b32f-4573-b80f-0cce6f2669df,2026-01-25T16:06:01,M005,AccessoryWorld,gaming,SteelSeries Arctis Headset,47.9,USD,TH,ovo,Midtrans,13.3,product_not_as_described
+1f6d9ffd-0481-4fd2-918a-6e11c9f8796b,2026-01-06T01:44:50,M019,GameStop VN,electronics,iPad Air M2,63.25,USD,PH,visa,Stripe,13.1,product_not_received
+63a35ffd-07fd-4bb9-8c22-ba8e085800d7,2026-01-20T16:50:50,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,57.19,USD,ID,mastercard,Stripe,13.1,product_not_received
+4a60afae-d0a4-415f-87ca-f2cffddc388d,2026-01-14T06:39:55,M006,ElectroShop VN,accessories,TWS Bluetooth Earbuds,25.64,USD,VN,ovo,Midtrans,13.1,product_not_received
+673750e7-ff23-409a-9118-f5b277e9fbc8,2026-01-06T02:11:11,M021,AccessHub PH,accessories,Smart Watch Band Set,29.72,USD,ID,bank_transfer,Xendit,13.1,product_not_received
+ac15d8fe-52d0-4336-b991-3256418778e4,2026-01-02T10:29:45,M003,GamersParadise,electronics,OPPO Reno11 5G,432.16,USD,PH,visa,Checkout.com,13.1,product_not_received
+2c407132-4265-4092-bdc5-4b30a864ad4c,2025-12-30T07:11:33,M006,ElectroShop VN,accessories,USB-C 65W Fast Charger,61.01,USD,ID,visa,Checkout.com,13.1,product_not_received
+3f276123-e9e6-4fdf-ad6d-00eed5d323a3,2026-01-25T11:18:13,M004,MobileKing TH,health_beauty,Aromatherapy Essential Oil Kit,56.58,USD,TH,visa,Checkout.com,10.4,fraud
+3f6c0a09-1b25-47d7-94b0-9f16720e89d5,2026-01-11T19:15:02,M006,ElectroShop VN,accessories,Smart Watch Band Set,39.98,USD,ID,gopay,Midtrans,13.1,product_not_received
+298be342-8183-4e40-b446-e84a1d2f721c,2025-12-28T11:32:51,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,43.14,USD,ID,gcash,PayMaya,13.3,product_not_as_described
+e62c5b8d-21f6-4800-8664-1a068cc094ff,2026-01-02T17:00:40,M002,GadgetHub ID,electronics,Xiaomi 14 Pro,81.67,USD,PH,ovo,Midtrans,13.2,subscription_cancelled
+a47b4a88-2158-49a6-87cb-1accb3ae628f,2026-01-14T23:49:27,M022,ElectroMall ID,fashion,Premium Cotton T-Shirt 3-Pack,29.21,USD,ID,truemoney,Omise,13.3,product_not_as_described
+cd43c53b-37f9-43b0-958c-cd47e5962ca2,2025-12-29T02:36:52,M002,GadgetHub ID,electronics,Sony WH-1000XM5,54.65,USD,PH,visa,Stripe,10.2,fraud
+873561ab-f393-4595-8ef0-14706161a383,2025-12-28T00:41:46,M006,ElectroShop VN,accessories,"Laptop Sleeve 15""",18.44,USD,ID,visa,Adyen,13.1,product_not_received
+d77a95dd-cb7b-4d21-b256-48b4e93e02c2,2026-01-06T02:18:48,M015,SmartGadgets VN,fashion,Genuine Leather Wallet,36.19,USD,TH,visa,Adyen,13.3,product_not_as_described
+d892ce45-f079-463b-9cce-f6aafb1f7fd4,2026-01-01T17:18:40,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,35.88,USD,VN,ovo,Midtrans,13.3,product_not_as_described
+63e88c0e-882e-47c7-92fd-3db7193c4642,2025-12-31T12:34:35,M003,GamersParadise,electronics,Xiaomi 14 Pro,74.02,USD,TH,mastercard,Checkout.com,10.5,fraud
+52b5ea52-f107-4e1a-86e6-f7ae2ef39787,2026-01-02T08:12:07,M003,GamersParadise,electronics,OPPO Reno11 5G,63.69,USD,PH,gopay,Midtrans,10.2,fraud
+14283a2b-82ad-4af3-b5e9-c09b5adfe6e9,2026-01-06T06:46:37,M002,GadgetHub ID,electronics,Dell Inspiron 15,63.27,USD,ID,visa,Checkout.com,13.1,product_not_received
+3af475e7-45e3-42f3-b732-6ae2a53a8445,2026-01-25T10:39:42,M002,GadgetHub ID,electronics,iPad Air M2,82.93,USD,ID,mastercard,Checkout.com,10.5,fraud
+221dcd43-8ca8-47e3-82d5-54fa15627d80,2026-01-02T07:45:47,M036,PhoneHub TH,home_appliances,Touch-Dimmer LED Desk Lamp,40.92,USD,ID,visa,Checkout.com,10.2,fraud
+b9dd776b-c9e3-4c72-8f01-e73428c022cf,2026-01-11T15:35:06,M008,PhoneMax ID,accessories,Screen Protector 3-Pack,58.85,USD,ID,ovo,Midtrans,10.4,fraud
+c77e0d25-0105-4b96-ba73-fa6f97a6be96,2026-01-05T23:04:57,M021,AccessHub PH,accessories,USB-C 65W Fast Charger,34.1,USD,PH,gopay,Midtrans,13.3,product_not_as_described
+95cc68aa-7c7a-4a4a-bc1a-712f7d9853e4,2026-01-05T15:41:49,M044,PhoneStore TH,gaming,Xbox Game Pass 3-Month,48.34,USD,ID,bank_transfer,Xendit,13.1,product_not_received
+9ff0fde4-fd76-4b14-b1f2-c0370209aec6,2026-01-09T07:54:51,M002,GadgetHub ID,electronics,OPPO Reno11 5G,37.65,USD,ID,visa,Adyen,10.4,fraud
+a8bfde14-3af5-4f75-b1c5-e91b180831ea,2026-01-20T01:14:48,M003,GamersParadise,electronics,Dell Inspiron 15,42.66,USD,ID,bank_transfer,Xendit,13.3,product_not_as_described
+1c8a1ab1-0ff0-4a1f-b94c-a7783cfd3494,2026-01-09T01:02:41,M006,ElectroShop VN,accessories,Slim Phone Case,21.56,USD,PH,mastercard,Stripe,13.1,product_not_received
+e8ed360f-2071-4e92-b94f-389ad8c176c7,2026-01-09T20:57:53,M003,GamersParadise,electronics,Xiaomi 14 Pro,56.11,USD,ID,visa,Adyen,13.1,product_not_received
+00eea41d-58a4-4ce6-835e-6104d6dfde97,2026-01-12T00:32:56,M006,ElectroShop VN,accessories,Screen Protector 3-Pack,25.79,USD,ID,truemoney,Omise,13.1,product_not_received
+3bf8d3de-00ed-462b-90db-ddc07bb643a8,2026-01-08T21:14:26,M003,GamersParadise,electronics,Lenovo Tab P12,127.84,USD,PH,ovo,Midtrans,13.1,product_not_received
+16783c11-ff7f-4d3d-8a59-ff8d8c369493,2026-01-17T01:08:36,M003,GamersParadise,electronics,OPPO Reno11 5G,23.26,USD,PH,visa,Checkout.com,13.3,product_not_as_described
+f27b1845-efc0-4735-a5f1-d87b31c4dd6e,2026-01-26T19:36:40,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,20.74,USD,TH,bank_transfer,Xendit,10.4,fraud
+1df50a41-ff9a-4de5-9b8c-4c1fb34da3b0,2026-01-24T13:38:09,M008,PhoneMax ID,accessories,"Laptop Sleeve 15""",76.47,USD,ID,visa,Checkout.com,10.2,fraud
+79159edc-097f-4ef0-b08d-174ff99a5ee9,2026-01-26T07:24:24,M006,ElectroShop VN,accessories,Screen Protector 3-Pack,10.83,USD,VN,mastercard,Checkout.com,13.1,product_not_received
+385964b5-e36a-4f21-996e-309e504d3ec3,2025-12-31T19:02:56,M047,SmartZone VN,accessories,"Laptop Sleeve 15""",62.52,USD,ID,bank_transfer,Xendit,10.2,fraud
+bc004985-87a5-4cee-b3e0-0b9eb67e2fc9,2026-01-25T13:33:26,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,57.01,USD,TH,gopay,Midtrans,12.6,duplicate_processing
+d9c1008e-7fa4-4a33-8830-875f67af0a9c,2026-01-22T23:58:48,M039,SmartMart VN,home_appliances,Smart WiFi Plug 4-Pack,57.14,USD,ID,visa,Adyen,13.3,product_not_as_described
+50390357-d3c7-4006-a0bf-eaad94422ed9,2026-01-05T00:36:33,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,40.18,USD,ID,gopay,Midtrans,10.2,fraud
+488f96e6-5695-4ece-9c34-71392820127d,2026-01-08T18:16:16,M035,GameZone VN,gaming,Nintendo Switch Carry Case,24.69,USD,ID,mastercard,Stripe,10.2,fraud
+4b182dc6-c122-45d5-bf27-2a13a8abb8f8,2026-01-10T05:23:35,M004,MobileKing TH,health_beauty,Aromatherapy Essential Oil Kit,42.17,USD,ID,mastercard,Stripe,10.2,fraud
+0e204ad8-9296-43ee-8704-09117eeb8d09,2026-01-24T07:28:50,M003,GamersParadise,electronics,OPPO Reno11 5G,15.12,USD,TH,visa,Checkout.com,13.3,product_not_as_described
+ce8f91ea-f01c-4890-bea8-42773a7e91a3,2026-01-22T19:27:05,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,27.87,USD,ID,visa,Checkout.com,10.4,fraud
+61c41d40-421e-4686-a4c3-37d5c4845742,2026-01-16T19:03:49,M034,TechHub PH,fashion,Casual Slip-On Sneakers,69.15,USD,PH,visa,Adyen,13.1,product_not_received
+000e3770-40a2-43a9-a2f6-bee857857f71,2026-01-16T07:41:00,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,11.86,USD,ID,visa,Checkout.com,10.5,fraud
+4c276c24-abec-4559-b189-0e74cbe6ad34,2026-01-13T02:35:18,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,37.3,USD,TH,gopay,Midtrans,10.2,fraud
+b808ca48-501f-43f8-9cdc-84e1a7a536ff,2026-01-26T05:26:32,M038,ElectroZone ID,electronics,Xiaomi 14 Pro,25.69,USD,PH,visa,Stripe,13.1,product_not_received
+6f771956-7a7b-4cf5-80aa-cf1d6b3f714a,2026-01-25T08:44:28,M025,GadgetPro ID,fashion,Genuine Leather Wallet,33.89,USD,TH,ovo,Midtrans,10.5,fraud
+14dae4ab-c8df-4cbb-b790-b4af2d803403,2026-01-12T20:50:14,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,50.76,USD,PH,visa,Stripe,10.2,fraud
+a4111e72-8863-4d9a-a806-6abc22030da0,2026-01-04T23:52:21,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,29.66,USD,ID,mastercard,Stripe,10.5,fraud
+e0357268-af5d-413a-9925-acd1a8d15d0f,2026-01-02T06:31:47,M005,AccessoryWorld,gaming,Xbox Game Pass 3-Month,25.73,USD,ID,gopay,Midtrans,13.2,subscription_cancelled
+01ae622d-4487-47e8-9105-fabcc0edd41e,2026-01-23T03:07:58,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,46.25,USD,TH,visa,Checkout.com,13.1,product_not_received
+ee84159d-1ded-4606-96ec-1fc2221c3c2b,2025-12-29T10:31:57,M043,GameHub VN,mobile_phones,Vivo V29,46.28,USD,PH,mastercard,Checkout.com,13.3,product_not_as_described
+fb2be08b-1ae5-4363-9085-7bd73939ca58,2025-12-29T17:02:32,M003,GamersParadise,electronics,Lenovo Tab P12,30.61,USD,TH,mastercard,Adyen,13.1,product_not_received
+fb8cc063-7991-41d7-afc5-40e61e95174d,2026-01-13T00:43:13,M053,AccessGear ID,electronics,"LG 55"" OLED TV",31.22,USD,ID,gopay,Midtrans,13.1,product_not_received
+cdbb3cb6-56cf-412c-81bf-00c05501614d,2026-01-05T11:11:31,M004,MobileKing TH,health_beauty,Aromatherapy Essential Oil Kit,45.95,USD,TH,gopay,Midtrans,13.1,product_not_received
+2ce98823-26ec-4ffe-8a88-f6030aa58b87,2026-01-11T18:43:14,M026,TechGo PH,accessories,USB-C 65W Fast Charger,20.0,USD,TH,visa,Checkout.com,10.5,fraud
+56e65d9b-deb9-42b4-a3f4-b58297fbf775,2026-01-01T15:51:00,M021,AccessHub PH,accessories,Screen Protector 3-Pack,20.0,USD,ID,ovo,Midtrans,13.3,product_not_as_described
+62ef37f1-88de-4527-84d7-6be088661358,2026-01-09T06:52:16,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,27.24,USD,ID,visa,Checkout.com,10.5,fraud
+fdd7f9d0-f62e-4dc3-9f28-63704c1162fc,2026-01-14T11:01:26,M006,ElectroShop VN,accessories,USB-C 65W Fast Charger,35.97,USD,TH,ovo,Midtrans,13.1,product_not_received
+908f6b48-e009-47a5-99d5-add7a07b4f74,2026-01-08T23:28:56,M027,GameWorld VN,health_beauty,Vitamin C Brightening Serum,47.99,USD,ID,mastercard,Checkout.com,10.4,fraud
+c7b6e188-7042-4b05-8110-ec4d7d18bd37,2026-01-22T19:36:25,M049,GadgetZone PH,gaming,PlayStation Store $50 Gift Card,12.81,USD,ID,mastercard,Checkout.com,12.6,duplicate_processing
+adc8bfbd-72af-4326-a3df-09db9dc71e14,2026-01-17T11:47:37,M047,SmartZone VN,accessories,"Laptop Sleeve 15""",91.05,USD,PH,truemoney,Omise,10.4,fraud
+dc8d48bb-cab6-48ea-9253-9065f47cd085,2026-01-18T23:05:13,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,64.83,USD,ID,ovo,Midtrans,10.2,fraud
+20113f82-2571-4f68-9c4d-d2bf5eeb0fb5,2026-01-13T08:39:09,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,37.04,USD,VN,visa,Stripe,13.3,product_not_as_described
+03a0387a-e8e2-4629-9149-0f6c869c8048,2026-01-11T05:01:02,M005,AccessoryWorld,gaming,Razer DeathAdder Mouse,40.03,USD,ID,visa,Stripe,13.1,product_not_received
+b5cff3d5-65d6-419d-92e7-c4e7a7ee1ed2,2026-01-26T22:34:11,M043,GameHub VN,mobile_phones,Vivo V29,23.3,USD,PH,mastercard,Checkout.com,10.2,fraud
+9b6533e7-480b-47f1-8be3-00543474817a,2026-01-26T02:28:19,M005,AccessoryWorld,gaming,Razer DeathAdder Mouse,40.04,USD,ID,mastercard,Adyen,10.4,fraud
+cea63cbe-9cb5-4d55-9106-49f08d6a5142,2026-01-08T22:59:31,M003,GamersParadise,electronics,Dell Inspiron 15,34.51,USD,TH,mastercard,Stripe,10.2,fraud
+1f18974d-6950-412e-a3ae-4b39afe55ffc,2026-01-14T17:27:25,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,48.3,USD,TH,mastercard,Stripe,10.5,fraud
+242e5824-6154-4729-9852-b6ce039470ce,2026-01-10T19:51:44,M002,GadgetHub ID,electronics,iPad Air M2,25.66,USD,TH,mastercard,Stripe,13.1,product_not_received
+92adee65-b3e6-4cdc-a0c8-24597ce9ddd2,2026-01-02T14:39:28,M002,GadgetHub ID,electronics,iPad Air M2,53.82,USD,PH,visa,Stripe,10.4,fraud
+4274da8f-7417-4e64-b60c-3dd459de6af3,2026-01-02T04:45:28,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,93.97,USD,ID,visa,Stripe,13.2,subscription_cancelled
+7a7d230b-349a-4ff9-bea5-0d74538d8c6f,2026-01-22T14:44:50,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,38.1,USD,TH,bank_transfer,Xendit,13.3,product_not_as_described
+d6e927f0-7f60-4d14-a1df-ab8523b4c788,2025-12-30T08:52:24,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,50.45,USD,TH,visa,Adyen,13.1,product_not_received
+cb13d432-cea6-43df-8000-8be41f9c7604,2026-01-04T14:47:49,M037,AccessMart PH,home_appliances,Smart WiFi Plug 4-Pack,59.12,USD,VN,visa,Stripe,13.1,product_not_received
+b5022d85-a946-44bc-8242-c9b574180f7e,2026-01-26T01:47:59,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,32.44,USD,ID,gopay,Midtrans,10.4,fraud
+dc40f0cd-9d49-4d54-bd64-7d2af46dbdf8,2026-01-24T07:40:27,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,398.6,USD,PH,bank_transfer,Xendit,13.1,product_not_received
+4f8e4f53-6168-4692-8654-0e8d06ba4912,2026-01-15T19:09:23,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,45.75,USD,PH,mastercard,Checkout.com,13.3,product_not_as_described
+b6249546-01b6-4056-bc84-1a3494d80dab,2025-12-29T22:34:50,M049,GadgetZone PH,gaming,PlayStation Store $50 Gift Card,40.73,USD,ID,gopay,Midtrans,10.5,fraud
+dee94cc2-6531-49dd-917f-52ffccf5f461,2026-01-19T08:57:02,M010,GamingGear ID,electronics,Dell Inspiron 15,42.68,USD,PH,ovo,Midtrans,10.4,fraud
+3bd1e40b-3fd2-475e-b2f7-e626d446c007,2026-01-07T19:58:55,M006,ElectroShop VN,accessories,"Laptop Sleeve 15""",26.44,USD,PH,visa,Stripe,13.1,product_not_received
+98d5a6b2-0866-4ce2-ae55-b5cfaf97ef6e,2026-01-08T16:24:46,M043,GameHub VN,mobile_phones,Samsung Galaxy A54,41.0,USD,PH,ovo,Midtrans,13.1,product_not_received
+e926c65a-abb3-4f4a-9087-a20cf4b54d90,2026-01-18T06:33:43,M002,GadgetHub ID,electronics,Dell Inspiron 15,53.19,USD,ID,ovo,Midtrans,12.6,duplicate_processing
+bcf408b5-47e7-47a4-8454-ceb5b3480552,2025-12-31T01:53:08,M006,ElectroShop VN,accessories,Screen Protector 3-Pack,89.85,USD,ID,gopay,Midtrans,13.1,product_not_received
+9e66d3d3-8d51-4a53-85a3-910049b12f47,2026-01-18T18:16:03,M007,QuickGadgets,accessories,Slim Phone Case,68.55,USD,TH,gopay,Midtrans,10.4,fraud
+84e9cd18-df6c-4f08-9c15-d65016251924,2026-01-11T17:47:56,M002,GadgetHub ID,electronics,"LG 55"" OLED TV",132.19,USD,TH,visa,Adyen,13.3,product_not_as_described
+693a264e-0576-4f50-a09c-5a27d04e4036,2026-01-23T16:06:06,M002,GadgetHub ID,electronics,Sony WH-1000XM5,26.52,USD,ID,bank_transfer,Xendit,10.2,fraud
+521c4902-dc75-4987-a8b0-94e96a8217f5,2026-01-14T03:49:40,M003,GamersParadise,electronics,Lenovo Tab P12,65.35,USD,TH,mastercard,Stripe,13.3,product_not_as_described
+0f2b8c33-d28a-4356-b7c1-3429a26a6fa2,2026-01-14T05:34:38,M003,GamersParadise,electronics,Dell Inspiron 15,44.74,USD,VN,visa,Checkout.com,13.1,product_not_received
+d81ec1dc-2636-4dcc-a950-72e1d4a98db0,2026-01-21T10:38:15,M035,GameZone VN,gaming,Nintendo Switch Carry Case,134.88,USD,ID,gcash,PayMaya,13.1,product_not_received
+aedaa309-2516-437d-a03a-234adff83ada,2026-01-09T09:38:01,M037,AccessMart PH,home_appliances,Compact Air Purifier H13,25.93,USD,ID,visa,Stripe,10.4,fraud
+2c7ccdf1-eaec-40ec-b194-47dc05d92413,2025-12-28T08:58:35,M006,ElectroShop VN,accessories,"Laptop Sleeve 15""",25.49,USD,VN,bank_transfer,Xendit,13.1,product_not_received
+e0b4dbb2-abc8-4d7c-ae3d-a37ea4e3a907,2026-01-01T18:15:14,M006,ElectroShop VN,accessories,Slim Phone Case,29.09,USD,ID,visa,Stripe,13.1,product_not_received
+c4dc7f9b-2ff2-4a10-9f35-3d6d71a557e7,2026-01-07T22:44:36,M055,SmartGear VN,home_appliances,Smart WiFi Plug 4-Pack,20.0,USD,ID,visa,Checkout.com,13.3,product_not_as_described
+8b9dfcac-dc49-47c3-b274-d8a2b11f6c96,2026-01-26T13:26:59,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,30.29,USD,ID,visa,Checkout.com,13.3,product_not_as_described
+4844af6e-5902-4264-af0b-335bc50e08c3,2025-12-29T17:36:09,M007,QuickGadgets,accessories,Slim Phone Case,26.64,USD,ID,visa,Adyen,10.2,fraud
+ea177b46-a620-4d62-a2b3-0bfd9293271b,2026-01-11T02:14:27,M034,TechHub PH,fashion,UV400 Polarised Sunglasses,43.94,USD,ID,mastercard,Stripe,13.1,product_not_received
+8596f3ce-f7ce-4c0e-baa5-d17f85229250,2026-01-14T16:27:49,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,48.81,USD,PH,visa,Adyen,10.5,fraud
+146eb9cd-19f3-4bd2-91d7-8f309848affa,2026-01-14T07:15:04,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,113.51,USD,ID,ovo,Midtrans,13.1,product_not_received
+630c4d7d-dd97-4a41-91d7-d3e62f49a136,2026-01-08T19:41:01,M007,QuickGadgets,accessories,Slim Phone Case,68.22,USD,ID,visa,Stripe,10.2,fraud
+d7f54858-1b8b-4544-9e10-c154def51aaa,2026-01-26T11:09:48,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,8.76,USD,VN,visa,Adyen,13.3,product_not_as_described
+2b4ce1a4-a7d1-4f7c-905c-d28314174f4c,2026-01-06T06:47:34,M002,GadgetHub ID,electronics,Sony WH-1000XM5,29.45,USD,PH,visa,Stripe,13.1,product_not_received
+264086bc-5cac-46d8-86fb-21748a1fd9d5,2026-01-19T18:57:42,M003,GamersParadise,electronics,Samsung Galaxy S24,24.68,USD,ID,visa,Adyen,13.1,product_not_received
+dda3d9bb-c7f9-4022-9a7f-cee3516d5570,2025-12-30T21:23:55,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,416.85,USD,PH,visa,Adyen,10.5,fraud
+37e6e583-953c-436c-af8d-5e1b6eab6ddf,2026-01-25T17:05:11,M002,GadgetHub ID,electronics,Sony WH-1000XM5,53.01,USD,PH,gcash,PayMaya,10.4,fraud
+8f94472a-09c5-4a7a-8cbd-f6865ce51ce8,2026-01-07T00:22:43,M005,AccessoryWorld,gaming,Razer DeathAdder Mouse,20.0,USD,ID,ovo,Midtrans,13.1,product_not_received
+36a487f0-2062-465a-8735-268e4f1d1a77,2026-01-25T17:17:14,M007,QuickGadgets,accessories,Screen Protector 3-Pack,110.75,USD,ID,bank_transfer,Xendit,13.2,subscription_cancelled
+1a355801-b3e0-41cb-978c-460ef2e8982b,2026-01-18T07:26:15,M042,TechStore ID,health_beauty,Gentle Foam Cleanser Set,77.38,USD,ID,gopay,Midtrans,13.1,product_not_received
+3d1ea026-43ed-4b91-b37d-185fdc09d675,2026-01-17T06:55:08,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,31.25,USD,VN,mastercard,Adyen,10.5,fraud
+92c1b146-0717-4878-ad5c-161e617d565c,2026-01-17T10:04:35,M018,TechPulse ID,electronics,Xiaomi 14 Pro,20.0,USD,TH,bank_transfer,Xendit,12.6,duplicate_processing
+304529fb-dc5c-4dc1-9177-505e211ac984,2026-01-10T20:59:47,M035,GameZone VN,gaming,Razer DeathAdder Mouse,85.17,USD,ID,ovo,Midtrans,10.4,fraud
+4e1a5fa5-ca2e-4553-97c1-a79924353953,2026-01-16T07:14:43,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,37.98,USD,TH,visa,Stripe,13.1,product_not_received
+0b8686be-ba2c-4cc7-b879-6d43ec5d3c8a,2026-01-19T12:31:30,M008,PhoneMax ID,accessories,Screen Protector 3-Pack,79.9,USD,ID,visa,Stripe,13.1,product_not_received
+c69fca11-c849-40a2-9929-aaca78a31d8f,2026-01-04T06:04:11,M035,GameZone VN,gaming,SteelSeries Arctis Headset,20.0,USD,PH,bank_transfer,Xendit,13.1,product_not_received
+ef90e1f5-2176-40f2-baf2-02d675830282,2026-01-09T12:46:20,M036,PhoneHub TH,home_appliances,Touch-Dimmer LED Desk Lamp,29.09,USD,TH,gopay,Midtrans,13.3,product_not_as_described
+b3109806-d976-4abf-9834-f46b6f966dd9,2026-01-25T12:47:02,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,40.56,USD,PH,mastercard,Adyen,13.2,subscription_cancelled
+3a949bf3-7622-4791-b1f9-6c43efc2c284,2026-01-25T14:10:27,M007,QuickGadgets,accessories,Slim Phone Case,41.51,USD,ID,gcash,PayMaya,10.5,fraud
+a8c4e109-2f70-4545-8d4c-dd2ca099e6ff,2025-12-30T18:57:44,M037,AccessMart PH,home_appliances,Compact Air Purifier H13,31.58,USD,ID,visa,Adyen,13.3,product_not_as_described
+f1663977-c957-4e58-8c60-a73f475edd17,2026-02-24T22:41:58,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,56.97,USD,ID,visa,Adyen,13.1,product_not_received
+0be68606-57d1-4192-8302-888faee5792d,2026-02-12T16:39:10,M002,GadgetHub ID,electronics,"LG 55"" OLED TV",22.48,USD,ID,ovo,Midtrans,13.3,product_not_as_described
+929be47e-8790-4588-9bf4-fe9ea1005df5,2026-02-01T22:03:26,M003,GamersParadise,electronics,iPad Air M2,37.4,USD,TH,visa,Stripe,13.3,product_not_as_described
+80b326e7-85eb-434c-a911-e4148b4c8bf4,2026-02-24T19:48:16,M002,GadgetHub ID,electronics,Samsung Galaxy S24,43.21,USD,VN,visa,Checkout.com,10.4,fraud
+91334a02-7061-4a1d-9eea-a83747aed2ad,2026-02-03T14:26:28,M008,PhoneMax ID,accessories,USB-C 65W Fast Charger,53.67,USD,ID,gopay,Midtrans,10.2,fraud
+c23f237c-e0f1-469b-829f-6a12d3ab6ec9,2026-01-28T11:02:09,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,59.82,USD,TH,visa,Stripe,10.5,fraud
+12787aed-8eb0-4aab-8da2-5d99d9c989d5,2026-01-30T21:18:39,M012,CoolPhone TH,health_beauty,Gentle Foam Cleanser Set,21.79,USD,TH,visa,Stripe,13.1,product_not_received
+e6cd8e51-1408-4639-8be7-5c7065eba2d7,2026-02-06T02:48:27,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,14.59,USD,ID,mastercard,Stripe,10.5,fraud
+8df20e61-4de2-4acc-9530-3ca42f0eb603,2026-02-18T18:46:40,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,20.0,USD,TH,visa,Checkout.com,10.5,fraud
+0ecf25c7-cbbe-400a-b2ee-1b3d3e878618,2026-02-04T11:59:08,M006,ElectroShop VN,accessories,"Laptop Sleeve 15""",81.67,USD,PH,bank_transfer,Xendit,13.1,product_not_received
+f74807b6-a377-4db5-b882-11d81b7a3a78,2026-02-03T00:07:01,M048,MobileGear TH,home_appliances,Touch-Dimmer LED Desk Lamp,48.56,USD,ID,bank_transfer,Xendit,13.3,product_not_as_described
+73a74256-f98c-46b4-8f7d-a56af86e507a,2026-02-07T00:40:12,M006,ElectroShop VN,accessories,Smart Watch Band Set,26.8,USD,TH,gopay,Midtrans,13.1,product_not_received
+c95af770-3782-464e-9b12-50e37fa70650,2026-02-20T10:25:46,M006,ElectroShop VN,accessories,"Laptop Sleeve 15""",94.93,USD,ID,gopay,Midtrans,10.4,fraud
+a18c1e37-8585-4779-960e-d2053ae31994,2026-02-25T01:41:08,M006,ElectroShop VN,accessories,TWS Bluetooth Earbuds,43.1,USD,PH,bank_transfer,Xendit,13.1,product_not_received
+4af946e0-5068-4466-afa8-018e660fa934,2026-02-25T09:36:46,M035,GameZone VN,gaming,Razer DeathAdder Mouse,77.37,USD,ID,gcash,PayMaya,13.3,product_not_as_described
+e6407c56-f21b-4249-98f2-dd08c1fcc34d,2026-02-04T12:40:34,M003,GamersParadise,electronics,OPPO Reno11 5G,41.98,USD,ID,visa,Checkout.com,13.3,product_not_as_described
+7bad7fe8-2b40-4162-88c5-8b4a65192083,2026-02-18T08:26:05,M028,PhoneMart TH,health_beauty,Aromatherapy Essential Oil Kit,125.64,USD,ID,gopay,Midtrans,12.6,duplicate_processing
+6347629e-be1d-424b-b09e-f3f96e128410,2026-01-30T06:58:05,M003,GamersParadise,electronics,Dell Inspiron 15,106.21,USD,TH,visa,Checkout.com,10.4,fraud
+adf37e5c-f593-4b39-badc-9cb44b872de6,2026-02-19T10:09:49,M008,PhoneMax ID,accessories,USB-C 65W Fast Charger,35.27,USD,VN,visa,Checkout.com,12.6,duplicate_processing
+89d79b34-a662-4b01-bb49-07f6b4a77c75,2026-02-10T03:00:19,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,69.02,USD,PH,gcash,PayMaya,10.5,fraud
+83e9cad0-30c5-47ec-ada8-67066bcf42e9,2026-01-30T09:01:36,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,57.68,USD,ID,gopay,Midtrans,13.1,product_not_received
+8adb8d6e-00e5-47d8-b14a-bdfebe0e7b0b,2026-02-20T04:10:17,M006,ElectroShop VN,accessories,USB-C 65W Fast Charger,355.74,USD,PH,visa,Adyen,13.1,product_not_received
+dbabae7d-fe08-4ab2-8eaf-8fbee216a855,2026-01-31T18:15:10,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,85.86,USD,VN,ovo,Midtrans,12.6,duplicate_processing
+c26a2ef2-461e-41dd-af05-4840f814502d,2026-02-24T01:05:27,M008,PhoneMax ID,accessories,TWS Bluetooth Earbuds,23.79,USD,PH,visa,Checkout.com,13.1,product_not_received
+2ade4275-0b29-4a5e-913e-37ea0d0b4d67,2026-02-06T21:51:34,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,58.99,USD,TH,gopay,Midtrans,13.3,product_not_as_described
+d1157ec6-efc2-4aba-bfec-d20c855767c9,2026-01-30T22:49:29,M008,PhoneMax ID,accessories,TWS Bluetooth Earbuds,72.39,USD,ID,gopay,Midtrans,13.1,product_not_received
+c41b25d0-3da9-4d65-b4ea-7c44b78b0871,2026-02-21T15:01:04,M006,ElectroShop VN,accessories,TWS Bluetooth Earbuds,14.7,USD,TH,visa,Stripe,13.1,product_not_received
+35696bbf-524c-435a-a5de-a8141a7987af,2026-02-12T03:20:35,M003,GamersParadise,electronics,Xiaomi 14 Pro,20.0,USD,PH,ovo,Midtrans,10.2,fraud
+bda55ba1-f68d-498f-88ec-2784845021bd,2026-02-13T02:21:13,M004,MobileKing TH,health_beauty,Aromatherapy Essential Oil Kit,21.1,USD,PH,mastercard,Stripe,10.2,fraud
+3d2427a1-a65c-4da4-b482-9a3bcf0a50be,2026-02-17T22:36:53,M003,GamersParadise,electronics,Dell Inspiron 15,16.35,USD,ID,ovo,Midtrans,10.5,fraud
+57a03381-4d35-47b4-8223-bb7b05e91a2b,2026-01-29T19:49:52,M007,QuickGadgets,accessories,TWS Bluetooth Earbuds,20.0,USD,PH,gopay,Midtrans,13.1,product_not_received
+06dfa7bc-0e37-4789-bfe0-bc13116d81d8,2026-02-24T00:48:09,M003,GamersParadise,electronics,OPPO Reno11 5G,34.88,USD,ID,ovo,Midtrans,10.4,fraud
+daf53bca-2f8f-4d8e-9ea5-582a4477cc5e,2026-02-05T09:58:59,M006,ElectroShop VN,accessories,TWS Bluetooth Earbuds,60.02,USD,VN,bank_transfer,Xendit,13.1,product_not_received
+d0e2a07f-a6ad-4827-a25c-2bdb79738764,2026-02-23T11:57:35,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,340.01,USD,VN,visa,Adyen,10.5,fraud
+b404b490-c62d-4983-ab38-1f09c0a2044a,2026-02-09T10:45:24,M024,MobilePro TH,electronics,"LG 55"" OLED TV",92.42,USD,PH,mastercard,Checkout.com,13.3,product_not_as_described
+60603a84-e4ab-45b8-a295-3b8571abc402,2026-02-13T13:09:18,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,42.13,USD,ID,bank_transfer,Xendit,10.4,fraud
+9b0d91dc-dd27-4ddf-8421-f903c04b6e35,2026-02-17T02:08:41,M040,MobileStore TH,home_appliances,Touch-Dimmer LED Desk Lamp,99.06,USD,VN,bank_transfer,Xendit,13.1,product_not_received
+a0626200-6ae6-4969-96b8-f87204c38ad1,2026-02-13T07:11:27,M007,QuickGadgets,accessories,"Laptop Sleeve 15""",324.54,USD,TH,mastercard,Checkout.com,13.3,product_not_as_described
+188d872b-20a8-48ba-9869-6345bc383776,2026-01-28T22:23:07,M006,ElectroShop VN,accessories,"Laptop Sleeve 15""",20.0,USD,TH,mastercard,Adyen,12.6,duplicate_processing
+09f83fe5-930e-4ec5-b100-8646470e28fc,2026-02-12T15:40:47,M002,GadgetHub ID,electronics,Xiaomi 14 Pro,20.0,USD,PH,visa,Checkout.com,12.6,duplicate_processing
+064a6368-c80b-4b2b-965a-5f6a57b4721a,2026-02-13T16:57:30,M006,ElectroShop VN,accessories,"Laptop Sleeve 15""",39.23,USD,PH,mastercard,Stripe,13.1,product_not_received
+47dc5e39-c4ad-439f-af49-32dce1aa3320,2026-02-19T20:30:37,M005,AccessoryWorld,gaming,Xbox Game Pass 3-Month,49.96,USD,TH,visa,Stripe,13.3,product_not_as_described
+9588e95d-1265-4135-a513-e1dc74b99405,2026-01-31T08:16:08,M002,GadgetHub ID,electronics,iPad Air M2,39.73,USD,ID,gcash,PayMaya,10.2,fraud
+c78095f9-c673-4978-a6c4-654a46e6fc84,2026-02-17T08:50:44,M003,GamersParadise,electronics,Sony WH-1000XM5,20.0,USD,TH,ovo,Midtrans,10.5,fraud
+6d4da64b-627f-40f4-b9ca-00cfb4acd1e4,2026-02-15T15:48:26,M018,TechPulse ID,electronics,"LG 55"" OLED TV",38.51,USD,PH,visa,Checkout.com,12.6,duplicate_processing
+a80dc934-3a80-4d94-a07a-7deb42ec40f6,2026-01-28T03:03:10,M006,ElectroShop VN,accessories,TWS Bluetooth Earbuds,20.0,USD,ID,ovo,Midtrans,13.1,product_not_received
+1646f72b-1361-450b-817b-0530c9ddcac3,2026-02-11T13:00:18,M007,QuickGadgets,accessories,TWS Bluetooth Earbuds,58.46,USD,ID,mastercard,Checkout.com,10.2,fraud
+0fcf0ce7-c328-4e1b-bd28-ee057225ddc5,2026-02-25T13:39:58,M015,SmartGadgets VN,fashion,UV400 Polarised Sunglasses,49.48,USD,ID,visa,Adyen,13.1,product_not_received
+f1acce31-dec1-4567-a6be-c6e9df607ae7,2026-02-10T23:43:37,M007,QuickGadgets,accessories,Screen Protector 3-Pack,24.12,USD,TH,ovo,Midtrans,13.3,product_not_as_described
+43100ef8-f86c-4221-842e-cf56434327c0,2026-02-22T16:06:43,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,30.49,USD,TH,mastercard,Stripe,10.4,fraud
+39cb4faa-2c59-483a-a8c5-46017ac67ffb,2026-01-28T06:38:40,M002,GadgetHub ID,electronics,Xiaomi 14 Pro,22.59,USD,ID,gopay,Midtrans,13.2,subscription_cancelled
+8a7b4ad5-16eb-4d59-965a-7eaf764346df,2026-02-24T09:29:42,M003,GamersParadise,electronics,Xiaomi 14 Pro,39.08,USD,VN,visa,Stripe,10.5,fraud
+26013342-3456-4a57-8b7a-ff7bd223604a,2026-02-04T01:24:24,M006,ElectroShop VN,accessories,Slim Phone Case,68.4,USD,ID,visa,Stripe,13.1,product_not_received
+5622b132-9230-447c-9fbd-a0a9faa875d1,2026-02-25T20:31:06,M008,PhoneMax ID,accessories,Screen Protector 3-Pack,23.52,USD,PH,mastercard,Checkout.com,10.2,fraud
+daea666c-b10d-4be2-a266-f771e2f65895,2026-02-18T02:36:46,M008,PhoneMax ID,accessories,Slim Phone Case,53.37,USD,ID,visa,Stripe,10.4,fraud
+1ab06202-4cc6-4dde-995d-1bddd38b3121,2026-02-25T04:44:21,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,30.22,USD,PH,mastercard,Stripe,10.5,fraud
+ff64013e-50df-4187-bea9-f6e67e5b89ad,2026-02-13T22:52:49,M002,GadgetHub ID,electronics,Dell Inspiron 15,26.15,USD,PH,mastercard,Stripe,10.5,fraud
+ff43a9bf-8c2e-456c-ad55-52701db1438e,2026-01-28T02:23:34,M007,QuickGadgets,accessories,Slim Phone Case,14.43,USD,TH,bank_transfer,Xendit,13.1,product_not_received
+00bf658a-eadb-4781-b1ee-4547f810f796,2026-02-17T03:40:44,M007,QuickGadgets,accessories,Slim Phone Case,38.14,USD,VN,gopay,Midtrans,10.2,fraud
+e530dc32-1c6f-40fa-ae8f-8ba1a4ad6d87,2026-02-02T07:31:24,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,22.89,USD,PH,bank_transfer,Xendit,10.2,fraud
+bb0720c1-b9f0-4918-b176-b98d8b90056e,2026-01-27T23:02:25,M037,AccessMart PH,home_appliances,Smart WiFi Plug 4-Pack,29.83,USD,TH,visa,Checkout.com,10.5,fraud
+aa64c927-4bc3-474c-b63a-3ad0b8bdc4bc,2026-01-31T02:02:47,M043,GameHub VN,mobile_phones,Samsung Galaxy A54,20.93,USD,ID,visa,Checkout.com,13.1,product_not_received
+67bc7814-202f-4f4f-8b36-af35441ed1af,2026-01-27T09:52:50,M003,GamersParadise,electronics,Xiaomi 14 Pro,119.18,USD,ID,visa,Checkout.com,10.4,fraud
+ff24ae56-3b66-49f9-bd56-65758c7ae994,2026-01-30T07:04:51,M015,SmartGadgets VN,fashion,Casual Slip-On Sneakers,41.24,USD,TH,ovo,Midtrans,13.1,product_not_received
+6e7ac116-fb00-45da-a605-2834118177be,2026-02-06T01:37:11,M003,GamersParadise,electronics,Lenovo Tab P12,11.83,USD,TH,ovo,Midtrans,13.3,product_not_as_described
+2708a760-fd79-44d3-a421-c31b861d5f29,2026-02-03T03:50:54,M008,PhoneMax ID,accessories,Smart Watch Band Set,27.53,USD,TH,visa,Adyen,12.6,duplicate_processing
+a7d37e70-098c-4380-a3d1-acfda482e16a,2026-02-01T18:56:18,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,45.5,USD,TH,gopay,Midtrans,12.6,duplicate_processing
+b1b529cd-02f3-430b-a599-0272375c973e,2026-02-12T05:39:44,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,38.02,USD,TH,visa,Checkout.com,13.1,product_not_received
+0bc0bdbc-8bb9-4a8a-b3c3-a04a46db73ed,2026-02-07T06:07:33,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,35.82,USD,VN,mastercard,Checkout.com,10.2,fraud
+151fca54-5c63-49dd-b4a1-42fe16760b4a,2026-02-04T04:43:54,M004,MobileKing TH,health_beauty,Aromatherapy Essential Oil Kit,56.7,USD,ID,visa,Adyen,10.4,fraud
+0f6d5622-754f-4fac-8d36-afb73e92bd95,2026-02-02T14:02:06,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,61.35,USD,ID,visa,Adyen,13.1,product_not_received
+6a55b04c-5316-4eac-a926-d349e80c8731,2026-02-24T18:20:26,M002,GadgetHub ID,electronics,Sony WH-1000XM5,30.21,USD,VN,mastercard,Adyen,10.4,fraud
+bdc3f522-56d2-4cbc-90b0-88cc1ad86606,2026-02-03T12:57:14,M002,GadgetHub ID,electronics,Xiaomi 14 Pro,29.47,USD,PH,gcash,PayMaya,13.3,product_not_as_described
+4f268fb0-61a6-47cb-82df-333877cda808,2026-02-01T23:12:40,M008,PhoneMax ID,accessories,Slim Phone Case,34.77,USD,ID,visa,Adyen,10.4,fraud
+3b111c98-3a8b-4205-a423-c0a626135336,2026-02-04T14:26:10,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,20.0,USD,ID,gcash,PayMaya,10.2,fraud
+d30940d8-ed19-4967-b503-b65639738042,2026-02-14T02:26:54,M019,GameStop VN,electronics,Dell Inspiron 15,20.0,USD,ID,gcash,PayMaya,13.2,subscription_cancelled
+c76164cb-5cdf-43bc-a7af-15c3b14ecb57,2026-02-19T13:37:14,M007,QuickGadgets,accessories,"Laptop Sleeve 15""",85.78,USD,VN,visa,Adyen,12.6,duplicate_processing
+2641034a-ed8c-4d65-b572-4e4603de8aa7,2026-02-11T13:33:25,M011,TechMart VN,health_beauty,Aromatherapy Essential Oil Kit,99.96,USD,TH,mastercard,Adyen,13.3,product_not_as_described
+758ab3a9-5441-4dff-b696-bbd5009d3303,2026-02-13T13:13:08,M002,GadgetHub ID,electronics,Lenovo Tab P12,35.27,USD,PH,gopay,Midtrans,13.3,product_not_as_described
+0240d9e6-403d-4f2a-8fd0-2a25ca170541,2026-02-01T23:37:01,M005,AccessoryWorld,gaming,SteelSeries Arctis Headset,55.54,USD,ID,gcash,PayMaya,13.1,product_not_received
+a51698af-513b-4238-bb5a-7ec3127236f0,2026-02-16T20:04:24,M032,MobileZone VN,accessories,Smart Watch Band Set,48.0,USD,ID,gopay,Midtrans,13.1,product_not_received
+211e3921-afdc-4983-bc52-11b94caf6a52,2026-02-21T10:47:59,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,200.0,USD,VN,gopay,Midtrans,13.1,product_not_received
+a7ae2574-17a9-4d3d-b028-e14def49ec14,2026-02-10T05:41:35,M006,ElectroShop VN,accessories,Smart Watch Band Set,17.93,USD,ID,visa,Stripe,13.1,product_not_received
+8ebb72ce-d000-4a4f-824d-2ba84bbf8952,2026-02-19T22:13:48,M008,PhoneMax ID,accessories,Smart Watch Band Set,74.87,USD,ID,mastercard,Stripe,13.2,subscription_cancelled
+53f3d676-b558-489b-a6b3-c16be73dd62b,2026-02-07T16:53:07,M002,GadgetHub ID,electronics,Dell Inspiron 15,37.7,USD,TH,mastercard,Checkout.com,10.5,fraud
+d3c4c3ff-b5a6-4425-97fd-b4b3b1d72295,2026-02-21T02:12:57,M006,ElectroShop VN,accessories,TWS Bluetooth Earbuds,13.47,USD,ID,gopay,Midtrans,13.1,product_not_received
+161ef352-f3ba-4cd7-8d54-69b9f62105a6,2026-02-18T06:33:40,M002,GadgetHub ID,electronics,Samsung Galaxy S24,23.91,USD,VN,visa,Checkout.com,10.4,fraud
+3db51866-6c5b-47e6-8988-71498dc3109e,2026-02-10T06:04:01,M007,QuickGadgets,accessories,Screen Protector 3-Pack,20.0,USD,PH,visa,Stripe,13.3,product_not_as_described
+1ad7c6c8-4564-4419-a0a5-439c98eb3b68,2026-02-11T17:28:29,M006,ElectroShop VN,accessories,Slim Phone Case,45.24,USD,VN,gopay,Midtrans,13.1,product_not_received
+6d0a7d7f-7bd0-435d-a326-091f5ff0fe78,2026-02-11T01:09:22,M023,SmartStore VN,fashion,UV400 Polarised Sunglasses,26.68,USD,ID,visa,Adyen,10.2,fraud
+eb66ab41-6482-4307-b916-a008f5f79c41,2026-02-01T21:50:09,M003,GamersParadise,electronics,OPPO Reno11 5G,20.0,USD,ID,gopay,Midtrans,13.3,product_not_as_described
+5a6a7e42-e158-4509-a03d-22d83a26a7b7,2026-02-01T21:20:22,M006,ElectroShop VN,accessories,Screen Protector 3-Pack,28.34,USD,PH,gopay,Midtrans,13.1,product_not_received
+51272be0-2c92-44ca-be30-cb011c390f0d,2026-02-08T14:59:20,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,384.62,USD,VN,ovo,Midtrans,12.6,duplicate_processing
+d7cca893-6bdd-442b-95b2-3a5c24b9ccf5,2026-02-20T04:51:36,M005,AccessoryWorld,gaming,SteelSeries Arctis Headset,22.31,USD,ID,mastercard,Stripe,13.2,subscription_cancelled
+39582a96-a791-480e-b757-320717387187,2026-02-05T07:28:22,M002,GadgetHub ID,electronics,Xiaomi 14 Pro,102.3,USD,PH,gopay,Midtrans,10.2,fraud
+a8aa3c39-f7c0-4f14-90e0-cfeef5ed3905,2026-02-02T14:43:42,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,65.69,USD,ID,mastercard,Stripe,10.5,fraud
+a9e56a03-06e8-471f-a6b2-19956c734498,2026-02-25T22:54:27,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,40.27,USD,ID,mastercard,Stripe,13.1,product_not_received
+e95003a0-d80c-4a3e-b039-9680e108edfe,2026-02-23T14:47:26,M008,PhoneMax ID,accessories,TWS Bluetooth Earbuds,91.28,USD,TH,visa,Stripe,13.1,product_not_received
+a8292d99-06a3-4f2c-9545-ccc17153bcd7,2026-01-31T16:21:04,M002,GadgetHub ID,electronics,"LG 55"" OLED TV",13.73,USD,VN,mastercard,Stripe,10.4,fraud
+c94d36e3-8a61-4d22-b69b-e338560ef994,2026-02-02T17:31:02,M003,GamersParadise,electronics,iPad Air M2,42.21,USD,ID,mastercard,Checkout.com,10.2,fraud
+d719a8ed-d427-4144-af58-eb3421ba4c6c,2026-02-21T20:53:40,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,25.19,USD,TH,visa,Stripe,10.5,fraud
+05ae4a8c-5579-4317-b254-e8e27dc6f1af,2026-01-27T02:38:47,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,93.48,USD,PH,visa,Stripe,10.2,fraud
+b7591d64-2445-472b-9c40-3b69ac17968d,2026-02-07T08:10:37,M002,GadgetHub ID,electronics,Samsung Galaxy S24,54.4,USD,PH,mastercard,Checkout.com,10.4,fraud
+5672e562-38b1-4f3c-ab11-20c9bea0975e,2026-02-04T11:03:18,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,22.86,USD,VN,gopay,Midtrans,10.2,fraud
+aae56c06-4547-452d-a989-f4006bb2213a,2026-02-15T10:52:54,M002,GadgetHub ID,electronics,iPad Air M2,36.43,USD,TH,mastercard,Stripe,13.1,product_not_received
+e1553424-156d-46df-b94c-020170b4d239,2026-02-22T09:23:49,M006,ElectroShop VN,accessories,TWS Bluetooth Earbuds,24.99,USD,VN,visa,Adyen,13.1,product_not_received
+e5b76148-b411-4de5-a13c-99a5a4c90b21,2026-02-22T19:44:53,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,20.0,USD,VN,truemoney,Omise,10.4,fraud
+0f129b0a-4fea-4ef7-a154-af31b16b124f,2026-02-07T14:56:38,M039,SmartMart VN,home_appliances,Rice Cooker 1.8 L,67.32,USD,ID,visa,Checkout.com,10.4,fraud
+24c34039-a532-49fa-a507-f384115339af,2026-02-18T04:05:27,M003,GamersParadise,electronics,Xiaomi 14 Pro,18.85,USD,TH,visa,Adyen,10.4,fraud
+c7ff1f86-e9ec-4520-aa83-e49cd6be6982,2026-02-11T02:19:42,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,115.6,USD,TH,visa,Checkout.com,10.4,fraud
+c2a765d9-2c96-4d50-8bc6-47a5c521c57e,2026-02-01T04:54:47,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,20.0,USD,ID,visa,Adyen,13.1,product_not_received
+d9f4eff9-2628-420f-8378-c1e287dd4df9,2026-01-30T16:13:45,M002,GadgetHub ID,electronics,Sony WH-1000XM5,55.13,USD,ID,ovo,Midtrans,13.3,product_not_as_described
+c8e2007b-4248-4a3b-be3a-92e275aefae2,2026-02-23T18:11:28,M041,GadgetMall PH,accessories,Smart Watch Band Set,28.28,USD,ID,visa,Stripe,13.3,product_not_as_described
+716be0f2-c287-4336-8728-feaec02853eb,2026-02-09T03:29:07,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,30.94,USD,ID,bank_transfer,Xendit,10.2,fraud
+963d10b8-8b3e-4b05-a46a-d2d20ba5a15e,2026-02-06T14:38:47,M014,ElectraBuy PH,electronics,iPad Air M2,29.2,USD,TH,mastercard,Adyen,13.1,product_not_received
+5be0db0b-e78c-408a-b115-dda55a2551f8,2026-02-02T15:43:23,M007,QuickGadgets,accessories,Screen Protector 3-Pack,368.54,USD,TH,truemoney,Omise,12.6,duplicate_processing
+610477b3-322a-4a6b-a9cc-73bf829060a0,2026-01-30T18:06:47,M002,GadgetHub ID,electronics,OPPO Reno11 5G,21.65,USD,ID,mastercard,Checkout.com,10.5,fraud
+27ac2257-e869-480f-9a0c-3836e021bb8d,2026-02-19T18:37:17,M007,QuickGadgets,accessories,Smart Watch Band Set,25.15,USD,ID,ovo,Midtrans,13.1,product_not_received
+c8128ca1-f16e-4e41-b0f7-abd705b62e9a,2026-02-20T15:31:14,M003,GamersParadise,electronics,OPPO Reno11 5G,384.45,USD,TH,visa,Stripe,10.2,fraud
+3e6f18b7-4416-43e6-8657-a97e4ae7ce6d,2026-02-08T09:39:39,M003,GamersParadise,electronics,Xiaomi 14 Pro,41.54,USD,TH,visa,Checkout.com,13.1,product_not_received
+94447306-8467-4bba-a5f0-66e4944287e5,2026-02-05T08:34:21,M021,AccessHub PH,accessories,"Laptop Sleeve 15""",25.61,USD,VN,mastercard,Adyen,13.1,product_not_received
+190732d8-c005-49ac-89a7-4743dcc929b4,2026-02-08T14:29:02,M016,MobileHub TH,mobile_phones,iPhone 15 Pro,46.93,USD,TH,gcash,PayMaya,10.2,fraud
+4bc13455-4bb7-43ae-a0f1-704da4d8ce89,2026-01-31T03:36:43,M007,QuickGadgets,accessories,TWS Bluetooth Earbuds,39.35,USD,TH,mastercard,Checkout.com,10.5,fraud
+9335be1f-7e69-4fd4-bb45-b3bb807ab27f,2026-02-12T18:24:39,M003,GamersParadise,electronics,Lenovo Tab P12,35.47,USD,ID,visa,Adyen,10.4,fraud
+a93d9366-3a3c-42a2-9749-1a288c8d9164,2026-02-22T18:01:48,M003,GamersParadise,electronics,Lenovo Tab P12,24.55,USD,PH,ovo,Midtrans,10.5,fraud
+00926c48-04a5-461a-8c45-10fa7ca689b9,2026-02-03T02:58:44,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,29.45,USD,ID,visa,Adyen,10.4,fraud
+3b68df9a-6d9d-4412-ac16-57769d14dd97,2026-02-10T16:57:26,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,317.42,USD,ID,mastercard,Stripe,13.1,product_not_received
+b974c307-2627-40de-8e98-07d54f9b5156,2026-02-14T22:43:13,M006,ElectroShop VN,accessories,Slim Phone Case,61.28,USD,TH,mastercard,Checkout.com,13.1,product_not_received
+bdf99489-d1d8-41c2-b6cc-cf980f5642dd,2026-02-07T20:54:50,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,53.28,USD,PH,visa,Stripe,12.6,duplicate_processing
+ee1a056a-792d-4b40-99b0-3ed5ef5bc1ce,2026-02-21T02:45:54,M007,QuickGadgets,accessories,"Laptop Sleeve 15""",12.72,USD,ID,ovo,Midtrans,10.5,fraud
+e8b8f503-1eb4-4a7d-9a7f-95d8eb333a5f,2026-02-16T09:27:42,M002,GadgetHub ID,electronics,Lenovo Tab P12,23.63,USD,PH,mastercard,Checkout.com,13.3,product_not_as_described
+6a65fdf1-71da-4a4e-9bcf-7471ee4314a7,2026-02-24T05:36:31,M003,GamersParadise,electronics,Sony WH-1000XM5,42.72,USD,TH,gopay,Midtrans,10.5,fraud
+f7137bc2-2e4e-451a-a9f3-57b32a40468b,2026-02-21T13:59:36,M043,GameHub VN,mobile_phones,iPhone 15 Pro,61.15,USD,ID,ovo,Midtrans,13.1,product_not_received
+009d6d41-13dc-48b8-b8c6-56d982cb407b,2026-02-23T02:40:13,M005,AccessoryWorld,gaming,SteelSeries Arctis Headset,20.0,USD,ID,visa,Adyen,13.1,product_not_received
+9697cbef-3b77-47b5-b8f9-0bbe9ae80d83,2026-02-08T00:15:51,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,54.54,USD,PH,visa,Stripe,10.5,fraud
+379e974d-436c-4708-badb-ff5f7630529e,2026-02-02T08:50:51,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,28.09,USD,ID,visa,Adyen,10.2,fraud
+6cd26b3d-2697-4073-a213-a6ab74ac860d,2026-01-28T19:19:55,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,55.36,USD,PH,visa,Stripe,12.6,duplicate_processing
+08fd85cf-9967-4ae7-aa8b-1b87f7ec9dee,2026-02-03T03:33:42,M003,GamersParadise,electronics,iPad Air M2,26.58,USD,ID,ovo,Midtrans,10.5,fraud
+9d8a3b4c-3177-4d6a-959f-4df6e9a36d9c,2026-02-21T13:13:09,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,20.0,USD,VN,visa,Stripe,13.1,product_not_received
+cd2cf636-c910-4feb-b7b0-577357789f86,2026-02-11T03:20:34,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,20.0,USD,ID,gopay,Midtrans,13.1,product_not_received
+b391141d-6abf-4b04-b59f-24d46bad4ad2,2026-02-22T19:02:53,M006,ElectroShop VN,accessories,Smart Watch Band Set,41.53,USD,VN,gopay,Midtrans,13.1,product_not_received
+d8e6a56a-7c74-4d00-aae9-4d35e8b54f0a,2026-02-16T21:07:34,M005,AccessoryWorld,gaming,Xbox Game Pass 3-Month,46.66,USD,ID,visa,Stripe,13.2,subscription_cancelled
+4cb23039-e265-4dcd-8317-f4273cc4c7ab,2026-02-05T14:40:20,M004,MobileKing TH,health_beauty,Aromatherapy Essential Oil Kit,24.6,USD,ID,truemoney,Omise,10.5,fraud
+c7e54d7f-9f01-413d-80db-8020488833b5,2026-02-25T03:52:10,M007,QuickGadgets,accessories,Smart Watch Band Set,57.47,USD,ID,gopay,Midtrans,13.3,product_not_as_described
+0fbfc034-1d36-4acc-97ca-2a94ce9551a9,2026-02-20T20:28:50,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,250.02,USD,ID,gopay,Midtrans,10.4,fraud
+a8da8570-02ac-40c3-8dff-a891b0a7d141,2026-02-23T10:28:30,M003,GamersParadise,electronics,OPPO Reno11 5G,20.0,USD,TH,mastercard,Stripe,10.5,fraud
+9e01d3b5-47d2-4b4d-9a59-7cd501aa1fab,2026-02-07T18:14:01,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,39.0,USD,PH,truemoney,Omise,10.4,fraud
+9620d9c4-b709-48a6-999d-313e2eadc4b2,2026-02-04T12:39:27,M021,AccessHub PH,accessories,"Laptop Sleeve 15""",20.78,USD,ID,visa,Stripe,13.3,product_not_as_described
+d8852c7c-7a21-4504-9556-091e56e8169d,2026-01-27T14:52:43,M016,MobileHub TH,mobile_phones,OPPO A78 5G,17.99,USD,ID,mastercard,Stripe,13.3,product_not_as_described
+3cadb868-29df-49df-9be9-2cb27a01af2e,2026-01-31T06:52:18,M033,GadgetStore ID,mobile_phones,Samsung Galaxy A54,28.26,USD,PH,visa,Adyen,10.4,fraud
+882fdafb-6b0a-4a9f-a710-c29eddb7377b,2026-02-03T11:37:43,M005,AccessoryWorld,gaming,SteelSeries Arctis Headset,14.56,USD,VN,bank_transfer,Xendit,13.1,product_not_received
+fa238f7a-f23a-42ba-8a5f-d5d0a154694b,2026-02-09T03:35:03,M054,ElectroStore PH,gaming,PlayStation Store $50 Gift Card,41.52,USD,ID,visa,Stripe,13.3,product_not_as_described
+5a5b6f69-aaa2-4dab-8ee5-67769ee75e93,2026-02-05T04:57:35,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,25.2,USD,ID,gopay,Midtrans,13.2,subscription_cancelled
+12abe7a2-5498-43d3-a68f-88d88ad936e3,2026-01-29T04:16:07,M017,GearUp PH,electronics,Lenovo Tab P12,231.97,USD,VN,mastercard,Stripe,10.2,fraud
+669a7079-930d-4553-802d-b41e8ef650fd,2026-02-05T08:33:20,M007,QuickGadgets,accessories,TWS Bluetooth Earbuds,32.74,USD,ID,visa,Stripe,12.6,duplicate_processing
+d17d7116-7f3a-4aae-90b9-1ec33be5f0bc,2026-01-28T05:02:30,M008,PhoneMax ID,accessories,Slim Phone Case,70.35,USD,PH,visa,Adyen,10.5,fraud
+bd3c6de6-64b2-463f-b56a-70cd1fe86e8f,2026-02-18T03:54:46,M006,ElectroShop VN,accessories,Screen Protector 3-Pack,29.45,USD,ID,mastercard,Stripe,13.1,product_not_received
+970158f7-b75d-4c73-8aa7-bfd8eee6dbca,2026-02-22T18:13:37,M041,GadgetMall PH,accessories,USB-C 65W Fast Charger,64.05,USD,PH,truemoney,Omise,10.4,fraud
+29092fbe-4dd1-4ca4-837d-b378477e3fd3,2026-02-17T09:43:43,M008,PhoneMax ID,accessories,USB-C 65W Fast Charger,21.73,USD,PH,visa,Adyen,10.5,fraud
+0b890c2d-e305-48aa-a011-132c2d819e6e,2026-02-10T14:40:17,M002,GadgetHub ID,electronics,Samsung Galaxy S24,54.13,USD,ID,gopay,Midtrans,13.3,product_not_as_described
+d148f52f-4cce-42fc-a0d2-268d7c4c4471,2026-02-25T06:55:03,M055,SmartGear VN,home_appliances,Rice Cooker 1.8 L,89.38,USD,ID,mastercard,Adyen,13.2,subscription_cancelled
+3c2397f7-90ad-42af-a2b9-d0d35830236f,2026-02-01T12:05:01,M005,AccessoryWorld,gaming,Xbox Game Pass 3-Month,20.0,USD,TH,ovo,Midtrans,10.2,fraud
+25df25ae-7ca0-453c-b975-8dc6e5e68b8a,2026-01-31T13:47:51,M050,TechMall ID,electronics,iPad Air M2,26.09,USD,PH,mastercard,Stripe,10.2,fraud
+0f49440f-36a6-4aec-827f-db382b447f9c,2026-02-12T12:30:17,M006,ElectroShop VN,accessories,"Laptop Sleeve 15""",55.56,USD,ID,mastercard,Stripe,13.1,product_not_received
+d9f21423-8565-4cbe-9c89-f38f350eaa10,2026-02-16T10:29:43,M007,QuickGadgets,accessories,Screen Protector 3-Pack,36.17,USD,TH,visa,Stripe,13.1,product_not_received
+58bd3014-3137-4116-9993-42d0cbd999c4,2026-01-29T04:08:43,M007,QuickGadgets,accessories,Slim Phone Case,49.61,USD,PH,mastercard,Stripe,12.6,duplicate_processing
+4b4637ed-8857-4ca2-b627-a8e42e6b6de6,2026-02-12T03:29:42,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,29.01,USD,PH,mastercard,Checkout.com,10.4,fraud
+d234267c-0fbc-437d-8c56-3970e4a65d05,2026-02-01T01:05:26,M008,PhoneMax ID,accessories,Smart Watch Band Set,42.42,USD,PH,gcash,PayMaya,13.1,product_not_received
+eb5c0ab4-7c87-4fe3-b04b-245157265617,2026-02-06T05:13:11,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,37.13,USD,PH,truemoney,Omise,13.2,subscription_cancelled
+bffc96b8-66a7-4700-8ff1-925f9584c9e3,2026-02-08T15:29:44,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,76.88,USD,VN,visa,Checkout.com,10.2,fraud
+b3ed778f-5293-438a-9ac1-fb694d51b25d,2026-02-18T12:51:19,M006,ElectroShop VN,accessories,USB-C 65W Fast Charger,46.52,USD,ID,gopay,Midtrans,13.1,product_not_received
+eca94aba-9f5e-4bc3-8955-4d0f68bff49b,2026-02-23T04:41:15,M004,MobileKing TH,health_beauty,Aromatherapy Essential Oil Kit,48.7,USD,VN,mastercard,Checkout.com,10.4,fraud
+1c750c1d-5255-4901-831f-c79436453420,2026-01-31T05:57:09,M008,PhoneMax ID,accessories,Smart Watch Band Set,32.25,USD,VN,visa,Stripe,10.4,fraud
+f3df7afd-6097-41c7-8678-57350e86919c,2026-02-03T12:03:21,M046,ElectroHub PH,accessories,USB-C 65W Fast Charger,19.87,USD,PH,mastercard,Stripe,10.5,fraud
+5f1f06a0-ffd3-4628-add0-13b01d8bb774,2026-02-19T15:25:31,M047,SmartZone VN,accessories,"Laptop Sleeve 15""",30.93,USD,PH,visa,Checkout.com,13.1,product_not_received
+460d2d93-7393-4a68-a1e8-ff589f62f4b8,2026-02-12T17:04:17,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,31.88,USD,ID,mastercard,Checkout.com,10.2,fraud
+4d8ab741-6709-46a8-8dda-f93a7c457074,2026-01-27T15:22:28,M007,QuickGadgets,accessories,Screen Protector 3-Pack,50.25,USD,PH,ovo,Midtrans,10.2,fraud
+44fdd6d2-e91e-4a29-8ab7-f52f5aa2554f,2026-02-17T23:45:24,M054,ElectroStore PH,gaming,SteelSeries Arctis Headset,32.09,USD,TH,truemoney,Omise,13.1,product_not_received
+4d9121aa-1993-4bd8-b9b9-613a9dabb194,2026-02-15T02:42:30,M019,GameStop VN,electronics,OPPO Reno11 5G,47.44,USD,ID,gopay,Midtrans,10.4,fraud
+573e15fb-bae7-4e2e-8c13-bb385ea9994b,2026-02-05T00:22:56,M040,MobileStore TH,home_appliances,Rice Cooker 1.8 L,126.66,USD,ID,mastercard,Checkout.com,10.4,fraud
+b09cf22c-9b31-4964-a049-ab28678cf6e0,2026-02-09T17:14:31,M030,ElectroGo PH,fashion,UV400 Polarised Sunglasses,65.31,USD,TH,visa,Adyen,10.2,fraud
+4375ba59-2055-48a0-b6d9-c63b48970c43,2026-02-23T21:06:45,M003,GamersParadise,electronics,Samsung Galaxy S24,33.81,USD,PH,mastercard,Stripe,10.4,fraud
+16eb51c7-79bf-47ec-bdbe-71f757febd75,2026-02-15T17:02:32,M048,MobileGear TH,home_appliances,Smart WiFi Plug 4-Pack,78.31,USD,ID,bank_transfer,Xendit,13.1,product_not_received
+c3ab196b-86cf-42a5-ba64-ae3559c0abe1,2026-02-18T23:55:06,M005,AccessoryWorld,gaming,Xbox Game Pass 3-Month,32.32,USD,ID,mastercard,Adyen,13.1,product_not_received
+a474364b-053a-4ebf-90e8-36aaf8cb9365,2026-02-09T15:21:18,M037,AccessMart PH,home_appliances,Compact Air Purifier H13,13.21,USD,TH,visa,Stripe,13.3,product_not_as_described
+26da4f1d-fc41-4cba-8a2d-9b17d3822da2,2026-02-21T13:58:26,M007,QuickGadgets,accessories,TWS Bluetooth Earbuds,20.0,USD,PH,ovo,Midtrans,10.4,fraud
+7a27632b-7c73-4499-9638-b93b24587128,2026-02-18T02:21:20,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,23.23,USD,ID,bank_transfer,Xendit,13.3,product_not_as_described
+7de875fa-1461-4759-8d0b-6be13a5e62e6,2026-02-25T01:40:45,M051,GameMart VN,electronics,iPad Air M2,20.0,USD,VN,bank_transfer,Xendit,13.1,product_not_received
+53adca18-cc02-49cf-bd60-b2030e29fb60,2026-02-22T04:44:25,M009,DigiStore PH,health_beauty,Aromatherapy Essential Oil Kit,33.34,USD,VN,mastercard,Checkout.com,10.2,fraud
+accff406-66d5-4902-bd57-6b88016a7081,2026-02-24T06:56:19,M006,ElectroShop VN,accessories,USB-C 65W Fast Charger,283.62,USD,TH,gopay,Midtrans,13.1,product_not_received
+858cc33d-e1f5-4252-b698-1042c4dfa4d5,2026-02-12T00:01:56,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,40.86,USD,ID,gopay,Midtrans,10.2,fraud
+0fbfb291-18b2-4e42-8e06-7321f4d6c682,2026-02-19T20:32:22,M002,GadgetHub ID,electronics,Xiaomi 14 Pro,362.74,USD,ID,mastercard,Stripe,10.2,fraud
+ed67818f-7596-4a51-8283-a630f33892fd,2026-02-06T18:36:45,M038,ElectroZone ID,electronics,Sony WH-1000XM5,101.7,USD,ID,ovo,Midtrans,13.2,subscription_cancelled
+3eae689f-a454-46e3-b093-609b602e4022,2026-01-30T11:29:06,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,48.42,USD,TH,mastercard,Adyen,10.4,fraud
+e23b88eb-8b17-48ca-9d80-e2f234ae50c4,2026-02-11T21:33:25,M003,GamersParadise,electronics,"LG 55"" OLED TV",35.86,USD,PH,visa,Checkout.com,10.5,fraud
+a3501f3c-59cd-45db-abd8-53fd44869f85,2026-02-25T13:52:10,M053,AccessGear ID,electronics,OPPO Reno11 5G,63.83,USD,PH,ovo,Midtrans,13.2,subscription_cancelled
+fa38b5c8-4935-4ad7-bc4b-2096d5d9a019,2026-02-23T14:30:02,M041,GadgetMall PH,accessories,Smart Watch Band Set,20.0,USD,PH,gopay,Midtrans,13.1,product_not_received
+45974bc8-7c24-4b69-aaa9-315074bfcd66,2026-02-14T03:23:19,M006,ElectroShop VN,accessories,Slim Phone Case,46.04,USD,PH,mastercard,Adyen,13.1,product_not_received
+58635871-b2f3-4afa-bc7b-bea43cc09349,2026-01-28T09:13:11,M035,GameZone VN,gaming,SteelSeries Arctis Headset,336.88,USD,ID,visa,Adyen,13.2,subscription_cancelled
+17b604e6-d4a6-41a3-9458-f06d069d5717,2026-02-14T12:30:53,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,61.8,USD,ID,visa,Checkout.com,10.5,fraud
+c6bbe7f7-9fb7-4abc-8312-067fd231e4ae,2026-02-10T02:51:39,M051,GameMart VN,electronics,"LG 55"" OLED TV",20.0,USD,VN,ovo,Midtrans,10.2,fraud
+dd9cdc7f-6c09-472d-98e8-c9bc0cb88db8,2026-02-19T05:45:01,M008,PhoneMax ID,accessories,"Laptop Sleeve 15""",75.87,USD,TH,visa,Stripe,10.2,fraud
+fc525f81-e26f-4606-89e8-999fa9d04a55,2026-02-02T01:36:33,M002,GadgetHub ID,electronics,Sony WH-1000XM5,48.72,USD,PH,mastercard,Adyen,13.2,subscription_cancelled
+4024d747-6931-4c77-bf59-73d6e70090d6,2026-01-27T22:53:56,M003,GamersParadise,electronics,Dell Inspiron 15,15.47,USD,ID,visa,Checkout.com,10.4,fraud
+7795cdb7-62bd-4741-87b1-c145f64d33d9,2026-02-06T16:20:24,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,21.72,USD,PH,mastercard,Stripe,13.1,product_not_received
+2c116cc3-529a-4b68-a519-d6080198a179,2026-01-31T05:03:39,M002,GadgetHub ID,electronics,Lenovo Tab P12,32.19,USD,TH,mastercard,Stripe,10.5,fraud
+dd5321c8-3db6-4d6b-9548-bf5fcdd4aa36,2026-02-09T03:03:12,M003,GamersParadise,electronics,Sony WH-1000XM5,57.28,USD,PH,visa,Stripe,12.6,duplicate_processing
+8aa49fc5-b6ab-42a1-bfbf-67b1f600c3a9,2026-01-28T02:30:01,M026,TechGo PH,accessories,TWS Bluetooth Earbuds,141.02,USD,VN,mastercard,Adyen,10.5,fraud
+a515bd2c-40be-4fed-a146-30c484f24c80,2026-02-03T04:19:36,M002,GadgetHub ID,electronics,"LG 55"" OLED TV",44.7,USD,TH,gopay,Midtrans,13.3,product_not_as_described
+62207abe-b53c-4759-98f1-f99e4a0d6194,2026-02-21T17:28:02,M003,GamersParadise,electronics,Samsung Galaxy S24,46.36,USD,VN,bank_transfer,Xendit,10.2,fraud
+0aaf2ce6-5cfd-48d5-9937-3e5f157b7827,2026-01-28T19:16:53,M009,DigiStore PH,health_beauty,Aromatherapy Essential Oil Kit,31.42,USD,TH,mastercard,Adyen,13.2,subscription_cancelled
+cdc52d35-f039-42f0-8caf-f568c05ad40c,2026-02-05T04:46:35,M002,GadgetHub ID,electronics,iPad Air M2,25.35,USD,ID,gopay,Midtrans,10.2,fraud
+7953fa7c-49d4-4966-8e7a-265dc9f2fe44,2026-02-04T08:15:42,M049,GadgetZone PH,gaming,Razer DeathAdder Mouse,63.86,USD,PH,gopay,Midtrans,13.2,subscription_cancelled
+fb3ad81f-3335-48b3-9390-e3d04e57e996,2026-02-16T00:57:00,M017,GearUp PH,electronics,OPPO Reno11 5G,25.26,USD,VN,gopay,Midtrans,12.6,duplicate_processing
+1ead13c1-9460-4315-8ae0-e5fb114e9347,2026-02-13T21:28:43,M002,GadgetHub ID,electronics,Xiaomi 14 Pro,42.07,USD,TH,gcash,PayMaya,10.5,fraud
+e49ead3f-6c00-498f-b991-566288209262,2026-01-30T14:00:14,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,31.1,USD,TH,bank_transfer,Xendit,13.1,product_not_received
+c363108b-4544-4fd5-97f8-59f62cbae8dc,2026-02-21T15:23:02,M005,AccessoryWorld,gaming,Razer DeathAdder Mouse,52.64,USD,TH,visa,Checkout.com,13.1,product_not_received
+2be8190c-2120-44fe-9fd8-698ac4a7ffed,2026-01-30T15:10:35,M007,QuickGadgets,accessories,Screen Protector 3-Pack,48.59,USD,PH,mastercard,Checkout.com,12.6,duplicate_processing
+e51bdb56-620b-4ea7-84d6-ca52b0cf2677,2026-02-19T18:54:14,M003,GamersParadise,electronics,iPad Air M2,71.57,USD,TH,visa,Checkout.com,10.2,fraud
+712c14b2-7883-4bc1-9449-c276fafb5b2a,2026-02-17T13:41:43,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,30.55,USD,ID,mastercard,Stripe,13.1,product_not_received
+04ebbff3-e350-4265-bd92-0a13076f3ed1,2026-02-11T23:14:03,M008,PhoneMax ID,accessories,Slim Phone Case,34.87,USD,PH,ovo,Midtrans,10.4,fraud
+5db23227-464f-4301-9d35-0d69eb26f725,2026-01-29T23:14:44,M006,ElectroShop VN,accessories,TWS Bluetooth Earbuds,23.61,USD,VN,ovo,Midtrans,13.1,product_not_received
+3813b97b-9d9c-4561-9418-be1e13e0ce16,2026-02-16T13:51:01,M002,GadgetHub ID,electronics,Lenovo Tab P12,31.68,USD,ID,visa,Stripe,13.1,product_not_received
+3684f4a5-e9e9-4956-9408-9c41107adb9d,2026-02-22T02:49:38,M012,CoolPhone TH,health_beauty,Aromatherapy Essential Oil Kit,49.78,USD,PH,ovo,Midtrans,10.4,fraud
+23e8c8a6-bbd3-49c1-907e-f365945f1577,2026-02-08T02:50:08,M011,TechMart VN,health_beauty,Vitamin C Brightening Serum,61.33,USD,PH,gcash,PayMaya,10.2,fraud
+081e9611-adf9-4f6c-93aa-7c769d5460dc,2026-01-30T09:54:24,M002,GadgetHub ID,electronics,"LG 55"" OLED TV",18.53,USD,ID,mastercard,Checkout.com,13.1,product_not_received
+c38c5f20-e483-4be5-8332-058687db94b7,2026-02-21T03:21:41,M008,PhoneMax ID,accessories,Smart Watch Band Set,24.36,USD,PH,gopay,Midtrans,10.2,fraud
+cf6a0f73-1429-4299-a56e-7609cd22e945,2026-01-27T06:57:36,M002,GadgetHub ID,electronics,OPPO Reno11 5G,65.25,USD,ID,visa,Stripe,13.1,product_not_received
+f71ef21b-c866-4a67-9da8-7bc90ed71a66,2026-02-01T01:08:19,M037,AccessMart PH,home_appliances,Touch-Dimmer LED Desk Lamp,85.25,USD,TH,ovo,Midtrans,10.5,fraud
+c67af6b9-f3c6-4341-af41-1d8ef71c4a91,2026-01-31T09:23:00,M003,GamersParadise,electronics,OPPO Reno11 5G,15.1,USD,TH,gopay,Midtrans,10.5,fraud
+5603883a-e861-4cd1-9522-b229c93757f2,2026-02-16T10:12:42,M004,MobileKing TH,health_beauty,Aromatherapy Essential Oil Kit,50.77,USD,VN,ovo,Midtrans,12.6,duplicate_processing
+a8547c4c-d72f-4527-a37f-adb0f5a34b8f,2026-02-06T01:31:14,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,113.55,USD,TH,mastercard,Stripe,10.2,fraud
+20c7aead-1be3-4b23-9335-b1305f4854f9,2026-02-19T23:24:13,M008,PhoneMax ID,accessories,TWS Bluetooth Earbuds,26.43,USD,VN,ovo,Midtrans,13.3,product_not_as_described
+7d62e3b0-03ec-4c18-8ba7-3a30109942a1,2026-02-13T06:40:37,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,207.42,USD,ID,visa,Adyen,10.4,fraud
+9157fe52-23e9-4938-8866-a23de8fc4bcc,2026-02-01T05:12:01,M055,SmartGear VN,home_appliances,Compact Air Purifier H13,20.4,USD,VN,mastercard,Adyen,10.2,fraud
+4bf627b1-9df2-483e-bd80-1693f0ebef2d,2026-02-06T07:23:51,M002,GadgetHub ID,electronics,Lenovo Tab P12,20.0,USD,VN,visa,Checkout.com,13.2,subscription_cancelled
+9812148c-071b-4b4f-9cee-8a51d4f4a1a1,2026-01-30T06:12:34,M013,AccessPro ID,fashion,Genuine Leather Wallet,92.1,USD,ID,bank_transfer,Xendit,10.2,fraud
+ec2ba714-6262-4cfc-9b08-d613a83cd289,2026-02-20T17:18:50,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,57.97,USD,ID,visa,Stripe,13.1,product_not_received
+93a453e0-4662-4574-98d3-4cf57548f888,2026-02-24T15:50:42,M046,ElectroHub PH,accessories,"Laptop Sleeve 15""",15.12,USD,TH,ovo,Midtrans,13.1,product_not_received
+6acabea7-ffe7-4c1b-bb68-e864469d33ee,2026-02-06T15:45:31,M003,GamersParadise,electronics,Dell Inspiron 15,39.23,USD,PH,mastercard,Checkout.com,13.3,product_not_as_described
+168aa600-9e0d-4e8e-8393-70f375328783,2026-02-10T09:27:56,M004,MobileKing TH,health_beauty,Aromatherapy Essential Oil Kit,47.18,USD,VN,mastercard,Stripe,12.6,duplicate_processing
+2f94b66c-bece-445f-a87c-1ee13674b72a,2026-02-20T11:14:37,M003,GamersParadise,electronics,Samsung Galaxy S24,21.78,USD,PH,mastercard,Stripe,10.5,fraud
+e9e5d79d-9a85-436b-89ed-9fcdeb49f119,2026-02-07T12:01:11,M007,QuickGadgets,accessories,TWS Bluetooth Earbuds,155.27,USD,PH,visa,Stripe,13.3,product_not_as_described
+23f1963f-3caf-4396-9ea0-16fb06337fad,2026-02-21T03:04:23,M002,GadgetHub ID,electronics,Samsung Galaxy S24,43.43,USD,ID,visa,Checkout.com,10.5,fraud
+ca4fc24a-6452-4a17-a662-518f8965f0b6,2026-02-02T22:47:34,M005,AccessoryWorld,gaming,Razer DeathAdder Mouse,274.87,USD,TH,bank_transfer,Xendit,13.3,product_not_as_described
+931f5ba6-d97e-4c5b-b3c8-690a2a5d2535,2026-01-27T04:55:25,M050,TechMall ID,electronics,Sony WH-1000XM5,42.96,USD,TH,mastercard,Stripe,13.1,product_not_received
+e2941170-cce9-449d-b63a-56718a6bdefb,2026-02-19T02:20:54,M008,PhoneMax ID,accessories,Screen Protector 3-Pack,60.29,USD,VN,visa,Stripe,13.3,product_not_as_described
+a19aada8-dab3-4f4a-8e49-f02a2584253b,2026-02-07T09:47:00,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,52.7,USD,TH,truemoney,Omise,10.4,fraud
+e0070bba-85b0-4c34-b616-1ad7f2354579,2026-02-20T10:37:01,M007,QuickGadgets,accessories,"Laptop Sleeve 15""",45.75,USD,VN,mastercard,Adyen,13.3,product_not_as_described
+8e683abf-b5f7-4d54-8560-06626d4e982b,2026-02-08T17:24:12,M007,QuickGadgets,accessories,TWS Bluetooth Earbuds,15.97,USD,PH,mastercard,Stripe,10.4,fraud
+74a52611-8ecd-480d-957f-df8c5890930c,2026-01-28T00:11:12,M003,GamersParadise,electronics,Xiaomi 14 Pro,26.19,USD,ID,gopay,Midtrans,13.3,product_not_as_described
+26bb81aa-3f6a-400f-adcf-842932a5e0aa,2026-02-10T05:20:55,M002,GadgetHub ID,electronics,"LG 55"" OLED TV",52.42,USD,VN,mastercard,Adyen,10.2,fraud
+18cc36ff-838a-4c3d-afd4-abdac8a4b694,2026-02-08T04:55:13,M002,GadgetHub ID,electronics,iPad Air M2,113.88,USD,TH,gcash,PayMaya,12.6,duplicate_processing
+3debde10-7662-4e56-a875-ff527d67bca8,2026-02-14T14:17:12,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,84.77,USD,PH,gopay,Midtrans,10.2,fraud
+b247b90b-2f9d-4bd7-a1a4-2bfca357e98b,2026-02-06T14:29:36,M042,TechStore ID,health_beauty,Vitamin C Brightening Serum,97.15,USD,ID,truemoney,Omise,12.6,duplicate_processing
+8e710db7-bbed-47b0-9b24-163c0d8be202,2026-02-21T05:26:15,M054,ElectroStore PH,gaming,Xbox Game Pass 3-Month,30.53,USD,TH,gopay,Midtrans,10.5,fraud
+9eed64a8-14d4-4cf3-a278-16dc3e8978ce,2026-02-18T01:15:56,M020,PhoneZone TH,accessories,Screen Protector 3-Pack,23.47,USD,PH,mastercard,Stripe,13.1,product_not_received
+f5d448ef-daee-498f-b38b-6ed2f186a053,2026-02-25T17:07:23,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,37.74,USD,PH,bank_transfer,Xendit,13.1,product_not_received
+0e386c2d-19c5-4b23-a56d-57405545fb19,2026-02-02T02:40:44,M005,AccessoryWorld,gaming,SteelSeries Arctis Headset,41.71,USD,TH,mastercard,Adyen,13.1,product_not_received
+cc3e9885-9aeb-4d7f-87d8-acad7af06e4a,2026-01-30T21:47:29,M005,AccessoryWorld,gaming,SteelSeries Arctis Headset,73.83,USD,ID,visa,Checkout.com,13.3,product_not_as_described
+b9bce69c-e8a6-44eb-9e4f-786840c497bc,2026-01-31T05:10:53,M037,AccessMart PH,home_appliances,Smart WiFi Plug 4-Pack,20.0,USD,ID,visa,Adyen,10.2,fraud
+3b8bb375-520b-4aff-8dcc-37c31f4008c8,2026-01-29T08:09:28,M019,GameStop VN,electronics,Lenovo Tab P12,93.81,USD,TH,visa,Checkout.com,13.1,product_not_received
+a21fbbd2-4541-407a-ac14-06505621be33,2026-02-22T21:45:42,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,37.08,USD,ID,mastercard,Adyen,13.1,product_not_received
+2a166199-7345-49ef-9992-298a3bf1ce91,2026-02-20T07:12:05,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,31.98,USD,VN,visa,Stripe,10.4,fraud
+342d924e-0d53-4eed-a0c7-c74449d2370c,2026-02-03T21:10:46,M002,GadgetHub ID,electronics,OPPO Reno11 5G,328.13,USD,TH,visa,Stripe,13.2,subscription_cancelled
+24231ca8-6249-46b8-82dd-8e0c61e67856,2026-02-09T11:20:11,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,23.18,USD,ID,visa,Stripe,10.4,fraud
+623f1163-63f5-41ab-a297-49f6221b42ab,2026-02-17T11:02:04,M002,GadgetHub ID,electronics,Sony WH-1000XM5,20.0,USD,TH,gopay,Midtrans,13.3,product_not_as_described
+517af10b-fdcd-4ede-9ca7-77edee255e56,2026-02-01T10:40:44,M045,AccessStore ID,gaming,SteelSeries Arctis Headset,63.61,USD,VN,visa,Checkout.com,10.4,fraud
+a8fded12-ed3d-4ee9-bcf3-263895caae43,2026-02-23T00:38:58,M006,ElectroShop VN,accessories,"Laptop Sleeve 15""",42.11,USD,PH,visa,Checkout.com,13.1,product_not_received
+9656b42e-1cb3-4f1e-aff2-67282f1a6b9c,2026-02-03T03:19:15,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,20.0,USD,PH,ovo,Midtrans,10.4,fraud
+77b62b7a-0920-4c74-87bc-f115b79a2085,2026-02-02T01:15:59,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,20.0,USD,PH,visa,Stripe,10.4,fraud
+282cc043-c49e-4b22-b0b2-99c8f4f73d81,2026-02-12T09:48:01,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,33.63,USD,ID,mastercard,Adyen,13.3,product_not_as_described
+eb93ed60-1a6e-4546-b824-764d8d7fb80e,2026-02-21T19:55:24,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,101.29,USD,PH,gopay,Midtrans,13.1,product_not_received
+2b4ad7e4-08f0-4351-ae0c-3d51f4278c39,2026-01-28T06:08:05,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,35.07,USD,TH,visa,Adyen,13.1,product_not_received
+1e32d8e5-4834-4550-9532-62331a3464ea,2026-02-19T06:15:27,M007,QuickGadgets,accessories,Screen Protector 3-Pack,20.0,USD,ID,visa,Checkout.com,13.1,product_not_received
+5504cc79-166b-41b0-8075-1bb6d8b762ab,2026-02-04T11:25:24,M021,AccessHub PH,accessories,Screen Protector 3-Pack,35.33,USD,PH,mastercard,Checkout.com,12.6,duplicate_processing
+fc04e0eb-6abd-44da-9839-7713a8d5bf66,2026-01-27T02:48:58,M039,SmartMart VN,home_appliances,Rice Cooker 1.8 L,34.81,USD,ID,mastercard,Checkout.com,13.3,product_not_as_described
+7fc1f56e-6d46-4506-8bae-b19aa62489b2,2026-02-05T19:30:04,M008,PhoneMax ID,accessories,Slim Phone Case,20.0,USD,PH,mastercard,Adyen,13.1,product_not_received
+8b8d2366-fd37-4078-be2e-4dabd308162c,2026-02-11T12:47:23,M006,ElectroShop VN,accessories,TWS Bluetooth Earbuds,39.26,USD,PH,mastercard,Checkout.com,13.1,product_not_received
+2b9c2993-7acb-4764-9f83-7831ad8a77b6,2026-02-25T05:12:48,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,35.62,USD,TH,bank_transfer,Xendit,10.2,fraud
+41576c13-de6a-4fb2-af60-f104b86725d8,2026-02-18T12:59:27,M049,GadgetZone PH,gaming,Xbox Game Pass 3-Month,59.32,USD,ID,visa,Stripe,10.2,fraud
+2be09f19-2561-460f-9182-8837fd98a4d0,2026-02-18T19:29:43,M010,GamingGear ID,electronics,OPPO Reno11 5G,111.82,USD,PH,visa,Checkout.com,13.1,product_not_received
+6f030a2c-dfe3-4ddd-90b0-03ed9b41d2d0,2026-02-16T22:37:57,M002,GadgetHub ID,electronics,Xiaomi 14 Pro,75.16,USD,ID,mastercard,Stripe,13.3,product_not_as_described
+98f2cfcd-a1fc-47ab-a38e-e8a26e2a2da6,2026-02-18T21:56:24,M025,GadgetPro ID,fashion,UV400 Polarised Sunglasses,34.89,USD,TH,bank_transfer,Xendit,10.4,fraud
+807db887-46ed-4ac1-8207-db1e3a888b41,2026-02-22T23:25:44,M006,ElectroShop VN,accessories,Slim Phone Case,242.1,USD,PH,ovo,Midtrans,13.1,product_not_received
+a9bb8331-241d-4742-91cc-6a71ec28131d,2026-02-12T13:10:11,M035,GameZone VN,gaming,Razer DeathAdder Mouse,22.01,USD,ID,visa,Stripe,13.1,product_not_received
+9f9250df-85fe-4fe3-9d4c-1b26b4e698d7,2026-02-10T06:03:47,M002,GadgetHub ID,electronics,OPPO Reno11 5G,166.56,USD,ID,visa,Stripe,13.1,product_not_received
+ce824f62-cbf2-4c83-ab29-6dc9f98bb225,2026-02-23T02:24:07,M002,GadgetHub ID,electronics,iPad Air M2,8.42,USD,ID,visa,Stripe,13.1,product_not_received
+fa4b4212-a6b1-4b8a-86c7-c7355f1e4e80,2026-02-20T01:06:13,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,41.79,USD,ID,gopay,Midtrans,13.2,subscription_cancelled
+a666cf69-f7ea-479e-a0c6-4cad2453b1ec,2026-02-15T10:20:52,M006,ElectroShop VN,accessories,Screen Protector 3-Pack,40.76,USD,TH,mastercard,Stripe,13.1,product_not_received
+928a1494-b2b4-48cf-a8b8-79feef4f2518,2026-02-21T22:25:46,M030,ElectroGo PH,fashion,Casual Slip-On Sneakers,230.72,USD,PH,mastercard,Checkout.com,10.4,fraud
+e6eeaef3-d468-493c-8312-a009a7071f49,2026-02-12T20:52:20,M008,PhoneMax ID,accessories,USB-C 65W Fast Charger,39.91,USD,VN,visa,Checkout.com,13.1,product_not_received
+948b651f-c8c7-4d2a-8037-6b330adf94d3,2026-02-15T02:22:27,M004,MobileKing TH,health_beauty,Aromatherapy Essential Oil Kit,45.1,USD,VN,ovo,Midtrans,10.2,fraud
+faf87775-15a5-4404-a29f-e3bea411356c,2026-02-18T18:50:54,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,37.36,USD,TH,mastercard,Stripe,10.2,fraud
+03b487d4-7f24-4dff-8350-8b32b94ece81,2026-02-01T15:42:34,M038,ElectroZone ID,electronics,Sony WH-1000XM5,29.5,USD,ID,bank_transfer,Xendit,13.3,product_not_as_described
+8b62f7e4-204a-4664-ab2f-342a28f1fba5,2026-02-01T12:49:17,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,29.94,USD,TH,visa,Checkout.com,12.6,duplicate_processing
+dc8faf2c-fca3-441b-a35b-717224811429,2026-01-29T07:59:36,M008,PhoneMax ID,accessories,"Laptop Sleeve 15""",12.81,USD,VN,visa,Checkout.com,13.3,product_not_as_described
+f7894d8b-589e-4a2b-b07e-39b341f079b1,2026-02-21T09:05:07,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,39.73,USD,PH,visa,Adyen,10.2,fraud
+bc1f5dd2-8140-4480-912a-21eb3847a96f,2026-02-07T12:36:47,M045,AccessStore ID,gaming,PlayStation Store $50 Gift Card,30.0,USD,PH,visa,Adyen,10.5,fraud
+566eacd3-6aec-4c30-b5cf-9348e0b1fb7f,2026-02-20T04:33:42,M029,AccessZone ID,health_beauty,Gentle Foam Cleanser Set,8.13,USD,VN,gopay,Midtrans,10.4,fraud
+9c94b5ae-8856-4aa4-8b93-6e7004390014,2026-02-22T04:38:18,M027,GameWorld VN,health_beauty,Gentle Foam Cleanser Set,27.33,USD,TH,gopay,Midtrans,10.2,fraud
+68efe148-9f4a-4802-85d6-95f5db29cccc,2026-02-04T15:40:53,M002,GadgetHub ID,electronics,Sony WH-1000XM5,42.89,USD,TH,gopay,Midtrans,13.2,subscription_cancelled
+3cdecb57-739d-415f-b7a5-b09bb73af124,2026-01-31T23:59:51,M030,ElectroGo PH,fashion,Casual Slip-On Sneakers,35.15,USD,ID,visa,Adyen,13.3,product_not_as_described
+a36e3774-7f7b-4260-b5e0-d5b57fedb79f,2026-02-22T00:35:25,M028,PhoneMart TH,health_beauty,Whey Protein Powder 1 kg,92.5,USD,PH,gcash,PayMaya,13.1,product_not_received
+90a1f6f8-5c2b-42c7-9806-0a855156c0a2,2026-02-05T17:25:06,M005,AccessoryWorld,gaming,Xbox Game Pass 3-Month,20.0,USD,TH,visa,Adyen,13.1,product_not_received
+ea6021b0-d57c-4533-a0f1-9139db88a248,2026-02-14T09:57:09,M003,GamersParadise,electronics,Sony WH-1000XM5,73.72,USD,TH,gopay,Midtrans,10.5,fraud
+ea77299d-fb06-4e18-b8bc-bfd6438816a8,2026-01-30T04:24:27,M045,AccessStore ID,gaming,Xbox Game Pass 3-Month,80.27,USD,ID,bank_transfer,Xendit,13.1,product_not_received
+42e49bc2-caf9-488e-b1d4-3979cafd4917,2026-02-12T04:40:46,M016,MobileHub TH,mobile_phones,OPPO A78 5G,20.0,USD,ID,mastercard,Stripe,13.1,product_not_received
+2f762a27-659e-4c0e-9e11-00ecfa5ef8fd,2026-02-16T21:42:05,M003,GamersParadise,electronics,Dell Inspiron 15,33.5,USD,TH,ovo,Midtrans,10.2,fraud
+1b342905-d872-40c1-8006-9ee7da79bf50,2026-01-27T15:41:42,M006,ElectroShop VN,accessories,"Laptop Sleeve 15""",32.97,USD,PH,visa,Checkout.com,13.1,product_not_received
+0ea87d80-7221-4825-95ce-1fe9a0141380,2026-02-21T20:44:27,M002,GadgetHub ID,electronics,iPad Air M2,20.0,USD,ID,mastercard,Adyen,13.1,product_not_received
+a8cb4dfa-687d-4df8-a44a-b608eb18082c,2026-02-08T16:31:04,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,26.37,USD,ID,mastercard,Checkout.com,10.4,fraud
+384112cc-78c3-4f6d-89ed-935841a57f0f,2026-01-27T03:02:08,M003,GamersParadise,electronics,Sony WH-1000XM5,21.96,USD,ID,ovo,Midtrans,13.1,product_not_received
+c5dd1761-74e1-4a60-991a-1c7c2f92e02a,2026-02-12T05:27:42,M002,GadgetHub ID,electronics,Samsung Galaxy S24,106.03,USD,ID,bank_transfer,Xendit,10.2,fraud
+9e9fa9d7-7551-4951-a082-766d25eb401f,2026-02-14T11:38:34,M003,GamersParadise,electronics,Sony WH-1000XM5,67.67,USD,TH,visa,Adyen,10.4,fraud
+f55f5e2d-4d7f-4993-834c-21a0d0fc636a,2026-02-05T04:38:35,M003,GamersParadise,electronics,Sony WH-1000XM5,81.4,USD,ID,visa,Checkout.com,12.6,duplicate_processing
+1fcc6f36-6538-49ff-8764-0377d40c5db2,2026-02-04T12:29:05,M005,AccessoryWorld,gaming,Razer DeathAdder Mouse,60.15,USD,VN,bank_transfer,Xendit,10.2,fraud
+0379b746-9a99-4d97-92ef-5f75e31f3fbe,2026-02-16T11:36:42,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,21.74,USD,PH,visa,Adyen,13.1,product_not_received
+35f62545-e7f4-47f0-a1ea-1a2358b8d8bd,2026-02-08T02:17:07,M036,PhoneHub TH,home_appliances,Smart WiFi Plug 4-Pack,30.31,USD,PH,gopay,Midtrans,10.2,fraud
+fd8c7946-aa04-493f-b4b3-477200fc0fe4,2026-02-20T07:17:00,M006,ElectroShop VN,accessories,USB-C 65W Fast Charger,52.94,USD,VN,gcash,PayMaya,13.1,product_not_received
+91531a4b-2081-4094-a338-8510d01f69ea,2026-02-01T18:52:51,M016,MobileHub TH,mobile_phones,OPPO A78 5G,12.88,USD,PH,truemoney,Omise,10.2,fraud
+b4635a41-be99-4668-8fe1-2568e10ccbce,2026-02-24T12:11:22,M002,GadgetHub ID,electronics,"LG 55"" OLED TV",20.65,USD,ID,visa,Adyen,10.2,fraud
+d4e65f5b-0082-4083-aab6-4fc9069d55b4,2026-02-17T23:17:03,M003,GamersParadise,electronics,Lenovo Tab P12,59.87,USD,ID,mastercard,Checkout.com,10.5,fraud
+a8ff1338-44a6-4978-979b-7db24ec0ce4a,2026-02-10T16:18:17,M020,PhoneZone TH,accessories,TWS Bluetooth Earbuds,35.44,USD,TH,ovo,Midtrans,13.2,subscription_cancelled
+44c28209-e14b-4cbc-b4b5-12da251bbf73,2026-02-05T02:40:05,M002,GadgetHub ID,electronics,Xiaomi 14 Pro,32.91,USD,VN,visa,Adyen,13.1,product_not_received
+232d6391-8df3-4d8c-9460-01727b5079df,2026-02-13T00:27:43,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,59.8,USD,ID,ovo,Midtrans,12.6,duplicate_processing
+fba1bfe3-2da1-48ae-a670-c53f57e63455,2026-02-25T13:44:34,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,51.64,USD,TH,visa,Checkout.com,13.3,product_not_as_described
+2e2f7a02-dcf5-4c98-9f34-38c667cc21c9,2026-02-17T07:11:04,M003,GamersParadise,electronics,Lenovo Tab P12,33.16,USD,PH,ovo,Midtrans,13.3,product_not_as_described
+01ab3ab5-0b5e-4541-9bf8-d8f39e5947d8,2026-02-07T21:15:53,M003,GamersParadise,electronics,Xiaomi 14 Pro,76.53,USD,PH,visa,Stripe,12.6,duplicate_processing
+a7e6070f-6b0a-41d9-8354-cc54f2c9c038,2026-02-02T20:32:52,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,22.32,USD,VN,bank_transfer,Xendit,12.6,duplicate_processing
+ea9831e0-e459-4349-9316-2f79709b0a65,2026-02-06T11:56:46,M008,PhoneMax ID,accessories,Screen Protector 3-Pack,56.76,USD,ID,visa,Stripe,10.5,fraud
+361d6a15-fe1b-43b6-9774-d3c82c3ef9c9,2026-02-09T04:49:42,M003,GamersParadise,electronics,iPad Air M2,56.05,USD,ID,mastercard,Stripe,10.5,fraud
+1c679b46-ecf6-49bb-93ae-889779d1d6ad,2026-02-13T14:42:53,M003,GamersParadise,electronics,Dell Inspiron 15,34.12,USD,ID,visa,Stripe,13.3,product_not_as_described
+c602171a-3e94-46ef-b5c1-f39de24ab4a5,2026-01-30T12:26:47,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,48.39,USD,ID,visa,Adyen,10.5,fraud
+59add5c7-8975-4cdb-8ad1-0618f160f06c,2026-01-30T21:45:08,M026,TechGo PH,accessories,Slim Phone Case,20.33,USD,TH,mastercard,Stripe,13.1,product_not_received
+4751fa0c-88bc-4f3b-b105-71749fb0bf8b,2026-02-21T16:00:49,M002,GadgetHub ID,electronics,Sony WH-1000XM5,19.62,USD,PH,visa,Checkout.com,10.2,fraud
+9397a714-180d-45b0-b0e1-f86a96e12c0f,2026-02-05T13:15:39,M008,PhoneMax ID,accessories,Screen Protector 3-Pack,67.24,USD,ID,visa,Stripe,10.4,fraud
+64fa9069-9893-4154-acd1-a4c182cb8fb2,2026-02-03T15:45:50,M053,AccessGear ID,electronics,Xiaomi 14 Pro,36.54,USD,PH,mastercard,Adyen,13.1,product_not_received
+efb1ed3f-0a79-43f7-8e06-c823860db7b7,2026-02-16T04:25:02,M046,ElectroHub PH,accessories,Slim Phone Case,30.34,USD,VN,visa,Stripe,13.1,product_not_received
+d5176fb2-1d25-4bcc-8540-0d7fab6264ba,2026-02-23T09:44:40,M002,GadgetHub ID,electronics,Sony WH-1000XM5,72.02,USD,PH,mastercard,Adyen,10.2,fraud
+f6dab433-d725-4116-b87a-105fef07a6be,2026-02-05T11:45:26,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,27.46,USD,ID,visa,Adyen,10.4,fraud
+0814181b-7b4a-4dac-bfaf-5b3623f321dc,2026-02-02T19:06:27,M006,ElectroShop VN,accessories,Screen Protector 3-Pack,20.0,USD,PH,visa,Stripe,13.1,product_not_received
+fe6a3f7b-274c-45bd-aeca-26386ab1d37f,2026-02-17T10:23:47,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,20.0,USD,PH,gcash,PayMaya,13.1,product_not_received
+8c355fa4-c4e1-4042-a24a-e66c2db11c7b,2026-02-14T04:40:47,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,442.08,USD,VN,truemoney,Omise,10.4,fraud
+1b820423-0ff0-4deb-a1b0-18430916928b,2026-01-29T09:46:30,M015,SmartGadgets VN,fashion,Casual Slip-On Sneakers,56.45,USD,ID,gopay,Midtrans,13.2,subscription_cancelled
+bc9626cb-ee26-4800-8718-ed8a24d87978,2026-02-24T17:22:57,M005,AccessoryWorld,gaming,Razer DeathAdder Mouse,20.0,USD,TH,gcash,PayMaya,12.6,duplicate_processing
+d5182be1-d98f-4b34-83f5-240835de8f3f,2026-02-01T04:18:02,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,106.18,USD,TH,gopay,Midtrans,13.1,product_not_received
+4b73b8fb-39c3-487a-bb20-8530855d8752,2026-02-01T17:49:24,M002,GadgetHub ID,electronics,"LG 55"" OLED TV",20.0,USD,ID,mastercard,Adyen,10.4,fraud
+df33b4a4-5197-45d0-b904-b154470706e5,2026-02-24T16:45:46,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,102.83,USD,ID,mastercard,Checkout.com,12.6,duplicate_processing
+8f0ed838-8e30-4c2f-b55a-78b0af1947d6,2026-02-03T01:40:09,M003,GamersParadise,electronics,iPad Air M2,45.42,USD,ID,visa,Adyen,10.2,fraud
+f776f57d-47bd-4b77-8ca4-05195ec81b54,2026-02-13T20:38:23,M022,ElectroMall ID,fashion,UV400 Polarised Sunglasses,17.88,USD,PH,gopay,Midtrans,10.5,fraud
+cab3cb26-7795-4274-ae3e-de3069dd9185,2026-02-06T00:52:22,M027,GameWorld VN,health_beauty,Gentle Foam Cleanser Set,38.35,USD,ID,gopay,Midtrans,13.2,subscription_cancelled
+93490930-1686-49e5-b0ab-c0c255dfba0e,2026-02-19T20:16:55,M002,GadgetHub ID,electronics,Sony WH-1000XM5,29.97,USD,ID,mastercard,Stripe,13.3,product_not_as_described
+522a103e-eb35-4352-92ed-f170dc1403cb,2026-01-31T13:23:09,M007,QuickGadgets,accessories,TWS Bluetooth Earbuds,10.54,USD,ID,ovo,Midtrans,10.4,fraud
+9405a939-a281-401f-ac23-071c4f91a531,2026-02-16T05:52:25,M003,GamersParadise,electronics,Sony WH-1000XM5,9.01,USD,ID,visa,Checkout.com,10.5,fraud
+fbc74f6f-b877-4341-87c1-9491a1ed2864,2026-02-19T03:24:24,M003,GamersParadise,electronics,Samsung Galaxy S24,8.19,USD,TH,visa,Adyen,10.4,fraud
+2b99b5c1-e561-44a3-8d3f-66e38461ec67,2026-02-04T00:50:00,M002,GadgetHub ID,electronics,Xiaomi 14 Pro,50.38,USD,TH,gopay,Midtrans,10.4,fraud
+fd567546-ced9-4126-8c6a-b90e94e11ee1,2026-02-22T04:15:03,M008,PhoneMax ID,accessories,"Laptop Sleeve 15""",39.62,USD,PH,visa,Adyen,10.4,fraud
+242792f5-23c6-435b-9392-2fc7b7218827,2026-02-13T13:09:00,M015,SmartGadgets VN,fashion,Casual Slip-On Sneakers,306.78,USD,ID,mastercard,Checkout.com,10.5,fraud
+7b7bcfe7-39db-4d20-ae54-76b72c370432,2026-02-17T03:31:10,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,74.2,USD,VN,gcash,PayMaya,12.6,duplicate_processing
+2adbb353-58a2-4e43-a44c-b14920144e3b,2026-01-30T02:57:02,M006,ElectroShop VN,accessories,"Laptop Sleeve 15""",43.07,USD,PH,bank_transfer,Xendit,13.1,product_not_received
+4368c2fd-cb66-4ac0-aa2a-6f9615bdcf1a,2026-02-24T09:22:56,M003,GamersParadise,electronics,Xiaomi 14 Pro,43.93,USD,PH,visa,Stripe,10.5,fraud
+7be29ea2-aed3-4a7d-b246-6e920e06853d,2026-02-21T04:49:41,M054,ElectroStore PH,gaming,Xbox Game Pass 3-Month,33.12,USD,ID,visa,Checkout.com,10.5,fraud
+c69fd230-20ab-4818-b13a-4c669247bc2e,2026-02-14T04:05:20,M016,MobileHub TH,mobile_phones,Samsung Galaxy A54,39.2,USD,ID,ovo,Midtrans,10.5,fraud
+a1419334-4d33-4b12-b7d2-c573e7fc923f,2026-02-15T20:58:15,M007,QuickGadgets,accessories,TWS Bluetooth Earbuds,47.91,USD,PH,visa,Checkout.com,13.1,product_not_received
+6276d5cc-b300-416e-ab31-b3ffb1e95dd9,2026-02-08T16:36:49,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,20.0,USD,ID,gopay,Midtrans,10.4,fraud
+c29b7107-5590-4d2f-8ea8-d7307137c689,2026-02-07T03:03:58,M010,GamingGear ID,electronics,Lenovo Tab P12,20.0,USD,TH,bank_transfer,Xendit,10.5,fraud
+36061349-1a67-4d4d-81d1-1742df1ca5fb,2026-02-03T23:08:07,M007,QuickGadgets,accessories,Smart Watch Band Set,60.87,USD,ID,visa,Adyen,10.2,fraud
+5fc18ab2-8827-4106-adcf-77e4ca8d00b6,2026-01-28T02:30:53,M032,MobileZone VN,accessories,"Laptop Sleeve 15""",44.43,USD,ID,gopay,Midtrans,13.3,product_not_as_described
+7763d54a-43b0-4edc-85a9-f83bcbc10e95,2026-01-27T04:48:11,M002,GadgetHub ID,electronics,Dell Inspiron 15,36.55,USD,TH,ovo,Midtrans,13.1,product_not_received
+78d4c9c1-b097-4d15-88cb-5259b874fb58,2026-02-10T09:07:09,M006,ElectroShop VN,accessories,USB-C 65W Fast Charger,40.86,USD,ID,gopay,Midtrans,13.1,product_not_received
+92756b39-e603-46d0-90d7-76b85d24d863,2026-02-17T22:53:16,M007,QuickGadgets,accessories,"Laptop Sleeve 15""",48.97,USD,TH,mastercard,Stripe,13.2,subscription_cancelled
+8b58aaf2-7150-4b47-a9bf-8d1449c373a9,2026-02-12T23:13:25,M002,GadgetHub ID,electronics,Samsung Galaxy S24,30.06,USD,ID,bank_transfer,Xendit,10.2,fraud
+b04eaaf6-715e-4c34-a423-db29262df491,2026-02-16T05:03:51,M006,ElectroShop VN,accessories,Slim Phone Case,26.36,USD,ID,gcash,PayMaya,13.1,product_not_received
+98563dd0-4ee5-47d1-8a4b-17463f83f2ad,2026-01-27T03:04:13,M006,ElectroShop VN,accessories,"Laptop Sleeve 15""",427.42,USD,ID,visa,Adyen,13.1,product_not_received
+a9b2a668-ddd2-4ca2-8a5f-389e15775e98,2026-02-14T15:02:03,M002,GadgetHub ID,electronics,Lenovo Tab P12,12.32,USD,VN,mastercard,Stripe,10.5,fraud
+ac7f7b43-8b62-43f0-b34d-1ca214b5cd69,2026-02-20T04:44:43,M006,ElectroShop VN,accessories,USB-C 65W Fast Charger,45.05,USD,VN,visa,Checkout.com,13.1,product_not_received
+f028229d-d66a-4022-b0b7-b81907b64677,2026-01-27T18:55:54,M003,GamersParadise,electronics,Samsung Galaxy S24,23.62,USD,ID,mastercard,Stripe,13.1,product_not_received
+6045d5d7-7a6b-4613-8ea2-ddf31134b766,2026-02-18T21:41:09,M014,ElectraBuy PH,electronics,OPPO Reno11 5G,50.63,USD,PH,visa,Checkout.com,10.2,fraud
+c388ff09-a2e6-4ee8-acb0-f89e20d18d99,2026-02-10T11:39:54,M006,ElectroShop VN,accessories,TWS Bluetooth Earbuds,378.19,USD,TH,visa,Adyen,13.1,product_not_received
+86a69f99-0160-437e-98db-e548e68a1bc0,2026-01-29T15:06:51,M047,SmartZone VN,accessories,USB-C 65W Fast Charger,20.0,USD,VN,mastercard,Checkout.com,13.2,subscription_cancelled
+5416e9e8-a928-4cce-9a09-b1bf159618d2,2026-02-06T02:17:36,M008,PhoneMax ID,accessories,Slim Phone Case,71.24,USD,ID,visa,Checkout.com,10.5,fraud
+145f20b0-4756-440b-9405-b69be686e6c5,2026-02-04T04:07:36,M008,PhoneMax ID,accessories,TWS Bluetooth Earbuds,414.75,USD,PH,mastercard,Checkout.com,13.3,product_not_as_described
+95165496-4ad7-49fd-80e3-3ee3c13661a0,2026-02-07T14:16:56,M006,ElectroShop VN,accessories,Smart Watch Band Set,444.36,USD,ID,mastercard,Adyen,13.1,product_not_received
+e7b0bfce-d61f-4620-90d1-42973cfbd7ee,2026-02-05T02:14:24,M002,GadgetHub ID,electronics,Dell Inspiron 15,52.45,USD,ID,mastercard,Stripe,10.2,fraud
+db4988f4-0036-498c-9efb-f95ab8e049d7,2026-01-30T12:49:27,M008,PhoneMax ID,accessories,Screen Protector 3-Pack,46.56,USD,ID,ovo,Midtrans,10.2,fraud
+485c1491-3ae8-45a4-8599-c3406182260e,2026-01-30T04:30:09,M008,PhoneMax ID,accessories,Smart Watch Band Set,69.44,USD,PH,visa,Checkout.com,10.5,fraud
+d08ccdb6-174f-4372-8343-1d481dc74f69,2026-02-21T01:13:55,M006,ElectroShop VN,accessories,USB-C 65W Fast Charger,101.09,USD,TH,mastercard,Stripe,13.1,product_not_received
+6e24d796-fbce-4255-be84-398119cf3d5a,2026-01-31T09:55:45,M002,GadgetHub ID,electronics,Dell Inspiron 15,70.66,USD,PH,mastercard,Checkout.com,10.5,fraud
+00fc8e82-30e3-44f7-a8b4-c04a751c4cd0,2026-01-29T09:10:12,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,20.0,USD,PH,mastercard,Checkout.com,12.6,duplicate_processing
+b2629e79-2983-42f0-8600-758b5f15dad8,2026-02-07T00:35:50,M036,PhoneHub TH,home_appliances,Compact Air Purifier H13,17.35,USD,PH,mastercard,Stripe,13.3,product_not_as_described
+26d250f7-3fc2-46bb-9446-b1c7e1e7eae9,2026-02-25T03:50:43,M008,PhoneMax ID,accessories,TWS Bluetooth Earbuds,20.01,USD,TH,gcash,PayMaya,10.4,fraud
+fbb2f040-6b2c-4212-a75b-6e6d913631e8,2026-01-28T13:44:34,M002,GadgetHub ID,electronics,OPPO Reno11 5G,28.68,USD,ID,bank_transfer,Xendit,10.4,fraud
+1cd86f63-7baa-4ce8-a7bb-8b900bf1097e,2026-01-27T09:57:19,M045,AccessStore ID,gaming,Nintendo Switch Carry Case,41.03,USD,ID,visa,Stripe,10.2,fraud
+4ff33190-9f85-4633-8568-4fc4b0436373,2026-02-09T13:33:48,M035,GameZone VN,gaming,Razer DeathAdder Mouse,10.46,USD,PH,gcash,PayMaya,10.2,fraud
+dde2b7b8-7b63-4be6-a881-63444f379e8b,2026-02-08T21:27:40,M007,QuickGadgets,accessories,Slim Phone Case,53.77,USD,VN,gopay,Midtrans,10.4,fraud
+44cf837e-a226-411d-bc15-0554bd62f9a3,2026-01-29T13:06:31,M015,SmartGadgets VN,fashion,Premium Cotton T-Shirt 3-Pack,27.14,USD,PH,gopay,Midtrans,13.1,product_not_received
+eba124f6-7e57-4729-b694-cd14c0509abd,2026-02-03T03:12:54,M022,ElectroMall ID,fashion,Genuine Leather Wallet,44.82,USD,ID,mastercard,Stripe,13.3,product_not_as_described
+ef83c50a-06df-4d25-91b3-22c8d2a727fd,2026-02-18T11:50:14,M050,TechMall ID,electronics,iPad Air M2,26.7,USD,TH,mastercard,Stripe,13.3,product_not_as_described
+1e8f88c7-1768-4911-a293-b028bed3a1fc,2026-02-24T00:09:50,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,28.89,USD,PH,visa,Checkout.com,12.6,duplicate_processing
+ba9b0a7c-dbb7-4680-9cc2-346b1e2bb9ae,2026-02-03T19:41:25,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,20.0,USD,PH,mastercard,Adyen,13.1,product_not_received
+8a673887-3abe-4fff-9314-d3777630a6c1,2026-02-08T13:14:06,M020,PhoneZone TH,accessories,Smart Watch Band Set,24.34,USD,PH,mastercard,Checkout.com,13.3,product_not_as_described
+f1e357e5-64ae-4505-b1b3-4468c214f8d1,2026-02-25T10:13:05,M049,GadgetZone PH,gaming,PlayStation Store $50 Gift Card,202.88,USD,TH,mastercard,Adyen,10.4,fraud
+a394b1f6-403f-40e8-adee-e362b6a091d5,2026-02-14T04:29:40,M002,GadgetHub ID,electronics,Lenovo Tab P12,20.0,USD,TH,ovo,Midtrans,10.5,fraud
+f09ed15c-c27a-442a-b20c-b0690c878a4f,2026-02-19T08:42:03,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,10.01,USD,ID,ovo,Midtrans,13.3,product_not_as_described
+70a7e4b6-157f-4662-b1b6-9f305b0dc0ca,2026-01-30T05:05:04,M002,GadgetHub ID,electronics,Dell Inspiron 15,23.65,USD,VN,visa,Adyen,10.5,fraud
+b3978411-c21a-4074-b618-3f7c486bb496,2026-02-09T02:13:43,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,72.2,USD,ID,bank_transfer,Xendit,10.4,fraud
+fb6e7c6e-ebee-4116-9618-1af9062f8bcc,2026-02-24T19:54:02,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,23.99,USD,VN,mastercard,Stripe,10.2,fraud
+b1ebfdea-5a7c-4efb-80a5-3e96f571b11e,2026-02-01T03:12:38,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,172.05,USD,PH,visa,Adyen,10.4,fraud
+3e0009fe-195c-4c8c-a972-6d2566ecf2e7,2026-02-24T07:05:46,M016,MobileHub TH,mobile_phones,Samsung Galaxy A54,53.05,USD,PH,visa,Adyen,10.5,fraud
+db8aad28-e086-400b-b5bf-bc9c67d19960,2026-02-05T13:32:25,M050,TechMall ID,electronics,Sony WH-1000XM5,44.78,USD,ID,ovo,Midtrans,13.1,product_not_received
+720c847c-a370-44bd-ba89-6541afdf394e,2026-02-01T15:27:56,M005,AccessoryWorld,gaming,SteelSeries Arctis Headset,25.23,USD,TH,bank_transfer,Xendit,13.1,product_not_received
+3781b96b-f717-49cc-b3ba-0995be512912,2026-02-02T20:52:04,M007,QuickGadgets,accessories,TWS Bluetooth Earbuds,59.45,USD,ID,mastercard,Checkout.com,13.1,product_not_received
+45523940-d9b9-4e2f-a0f3-785dfb3fa7f3,2026-02-15T16:22:25,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,19.33,USD,PH,gopay,Midtrans,13.3,product_not_as_described
+ce0258bf-b780-48a6-9156-a2faaf705c26,2026-02-17T10:07:00,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,29.47,USD,TH,visa,Adyen,10.5,fraud
+50e64c80-8aec-44f6-bae1-ea4e0ad962d3,2026-02-24T09:38:13,M006,ElectroShop VN,accessories,"Laptop Sleeve 15""",43.25,USD,PH,visa,Checkout.com,13.1,product_not_received
+39c85e7a-14ed-4a00-918c-bc8eea447fb3,2026-02-17T10:12:12,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,165.35,USD,PH,visa,Stripe,13.3,product_not_as_described
+4a634b52-578a-480c-a318-040880fe49c8,2026-02-01T07:36:01,M008,PhoneMax ID,accessories,Slim Phone Case,395.83,USD,PH,mastercard,Adyen,13.1,product_not_received
+b43faa44-680b-450b-89dc-f0acba5a714d,2026-01-28T01:21:41,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,9.33,USD,TH,bank_transfer,Xendit,12.6,duplicate_processing
+0ae54225-28cb-467f-9bdb-ef3919dbb0f5,2026-02-08T15:39:03,M006,ElectroShop VN,accessories,TWS Bluetooth Earbuds,38.37,USD,VN,ovo,Midtrans,13.1,product_not_received
+367a02b5-19c9-4ff0-8901-60c0bf73a701,2026-01-30T00:08:06,M048,MobileGear TH,home_appliances,Rice Cooker 1.8 L,76.1,USD,TH,visa,Adyen,10.4,fraud
+b5ac0a6b-53ba-4b85-b26f-421fe1309778,2026-02-22T22:55:03,M006,ElectroShop VN,accessories,Slim Phone Case,27.47,USD,ID,bank_transfer,Xendit,13.1,product_not_received
+c69f181d-67cb-4ea0-8454-bcde6f035952,2026-02-18T08:44:10,M006,ElectroShop VN,accessories,Screen Protector 3-Pack,39.68,USD,ID,ovo,Midtrans,13.1,product_not_received
+f07cd0ef-7005-40a3-a19b-5a1450414efa,2026-02-16T16:15:36,M035,GameZone VN,gaming,SteelSeries Arctis Headset,107.12,USD,VN,visa,Stripe,13.1,product_not_received
+f54142f7-659d-4a70-8c5a-1459bf974c7e,2026-02-20T17:53:55,M005,AccessoryWorld,gaming,Xbox Game Pass 3-Month,28.65,USD,TH,visa,Adyen,10.2,fraud
+823c43bd-f0a2-4c31-84b4-f775266c6d12,2026-01-28T14:52:24,M008,PhoneMax ID,accessories,Screen Protector 3-Pack,109.6,USD,ID,gopay,Midtrans,10.5,fraud
+ca8ed618-bcec-4a68-a22c-ececcf8de84f,2026-01-31T04:14:58,M050,TechMall ID,electronics,Lenovo Tab P12,59.7,USD,PH,visa,Checkout.com,13.3,product_not_as_described
+b93134ad-d33e-48d2-b18e-c5b3bbe40d6a,2026-01-29T09:55:36,M021,AccessHub PH,accessories,Smart Watch Band Set,14.45,USD,ID,visa,Adyen,10.4,fraud
+badb20db-524a-429c-ae50-c29c73a6d318,2026-02-01T16:28:22,M008,PhoneMax ID,accessories,Slim Phone Case,15.7,USD,ID,mastercard,Adyen,10.4,fraud
+c3a78d03-cdcd-4586-b15f-8e82fe59ac11,2026-02-12T11:06:03,M007,QuickGadgets,accessories,Smart Watch Band Set,29.69,USD,VN,mastercard,Adyen,10.5,fraud
+1d77a8eb-5a4e-40ca-9fbd-a34d514a7a23,2026-02-15T16:27:06,M003,GamersParadise,electronics,Samsung Galaxy S24,57.27,USD,VN,gopay,Midtrans,10.4,fraud
+c596c742-d10e-47fc-963b-4bd4551cf65c,2026-02-14T03:17:14,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,69.06,USD,ID,visa,Checkout.com,10.2,fraud
+eba57d9e-9978-4fa8-9dad-9cdfc0bf6d6e,2026-02-01T09:45:38,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,56.94,USD,ID,visa,Checkout.com,13.1,product_not_received
+8e2efb46-afb0-489c-87a9-f727d23495af,2026-02-03T05:11:21,M053,AccessGear ID,electronics,Dell Inspiron 15,20.0,USD,ID,gopay,Midtrans,10.5,fraud
+75995c7e-db2d-4893-8853-e0ab9afcf4b0,2026-02-04T00:38:22,M003,GamersParadise,electronics,Dell Inspiron 15,27.11,USD,PH,visa,Adyen,12.6,duplicate_processing
+5a29872a-7f40-41c2-b121-1544e43b7568,2026-02-14T07:33:32,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,35.3,USD,TH,visa,Adyen,13.1,product_not_received
+1addcab8-c6dd-4692-8e0d-374761ddeeda,2026-02-10T17:16:42,M030,ElectroGo PH,fashion,Genuine Leather Wallet,38.82,USD,PH,visa,Stripe,13.1,product_not_received
+c9f504c7-3d7e-4457-ae46-2aeafe6e78d7,2026-02-20T19:30:07,M042,TechStore ID,health_beauty,Whey Protein Powder 1 kg,56.9,USD,TH,gcash,PayMaya,13.1,product_not_received
+9feb28f7-444b-49f0-8314-c308e147d63f,2026-02-17T00:15:36,M023,SmartStore VN,fashion,Genuine Leather Wallet,44.6,USD,TH,visa,Adyen,13.2,subscription_cancelled
+3e5982b4-e73a-4865-9dc3-1c2339a2cfb4,2026-02-24T14:56:33,M005,AccessoryWorld,gaming,Xbox Game Pass 3-Month,20.0,USD,TH,mastercard,Stripe,13.1,product_not_received
+05601422-984d-49c0-8a3d-9971b10487de,2026-02-05T22:21:53,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,49.85,USD,TH,mastercard,Checkout.com,10.5,fraud
+fe5704ca-afe4-42b1-92d7-065e5a1c09f6,2026-02-11T21:09:33,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,56.59,USD,TH,visa,Stripe,12.6,duplicate_processing
+c2e29c30-e9c0-436c-8326-8c6a891deb83,2026-01-27T18:07:03,M005,AccessoryWorld,gaming,SteelSeries Arctis Headset,55.03,USD,PH,visa,Checkout.com,13.1,product_not_received
+8ec5d5ca-758a-4305-b9fd-4b2a41271300,2026-02-07T16:42:49,M003,GamersParadise,electronics,OPPO Reno11 5G,73.29,USD,TH,ovo,Midtrans,13.3,product_not_as_described
+7fc41195-0f2a-4e6d-b0d7-ee7a8bd7c428,2026-02-05T11:15:51,M002,GadgetHub ID,electronics,"LG 55"" OLED TV",63.99,USD,VN,mastercard,Adyen,10.5,fraud
+4b2f1f7c-ae07-4faf-a422-d8772f9391d5,2026-02-05T10:51:37,M047,SmartZone VN,accessories,Screen Protector 3-Pack,52.07,USD,ID,mastercard,Adyen,10.5,fraud
+5a0e5828-1db1-4aa5-87e2-2c493faee4d5,2026-02-05T20:29:34,M005,AccessoryWorld,gaming,Xbox Game Pass 3-Month,38.92,USD,VN,mastercard,Stripe,10.4,fraud
+cb9f4b07-4252-4b60-bd36-d1d0b9eedfb4,2026-02-18T22:22:29,M008,PhoneMax ID,accessories,Slim Phone Case,20.0,USD,PH,bank_transfer,Xendit,10.5,fraud
+2884fa59-a950-484d-b090-b79c3683f8c5,2026-02-20T19:58:19,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,51.23,USD,ID,ovo,Midtrans,13.1,product_not_received
+4b25807f-b0d1-4547-ac6b-7a9e81739336,2026-01-31T16:29:53,M034,TechHub PH,fashion,Premium Cotton T-Shirt 3-Pack,11.78,USD,VN,visa,Adyen,10.5,fraud
+75954ab8-2cc8-4975-8f58-591fb94f1815,2026-02-14T01:07:47,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,45.34,USD,TH,visa,Adyen,10.2,fraud
+db5f6a78-947a-4d92-a4ab-dfea472470cb,2026-02-13T07:57:43,M003,GamersParadise,electronics,OPPO Reno11 5G,46.96,USD,ID,mastercard,Adyen,13.3,product_not_as_described
+103bdf05-6f82-425b-aa08-e57afc4b4fdb,2026-01-30T03:33:06,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,20.04,USD,PH,visa,Checkout.com,10.5,fraud
+17092aee-c002-433a-b327-2ca700f3c639,2026-02-05T07:53:54,M002,GadgetHub ID,electronics,iPad Air M2,22.32,USD,TH,bank_transfer,Xendit,13.1,product_not_received
+1cf69d51-ee80-4219-813e-8c6cf4d33c88,2026-02-01T07:10:32,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,72.19,USD,ID,ovo,Midtrans,10.2,fraud
+b07034d6-3263-486a-8dde-9dedeacd5a81,2026-02-08T14:26:52,M005,AccessoryWorld,gaming,SteelSeries Arctis Headset,39.58,USD,ID,ovo,Midtrans,10.2,fraud
+a40dc13e-ca50-4553-983e-44ad89443dca,2026-01-28T19:28:02,M005,AccessoryWorld,gaming,Razer DeathAdder Mouse,58.84,USD,PH,truemoney,Omise,13.1,product_not_received
+e338d27e-a37b-4130-9fc0-a0034fb4a3ed,2026-02-07T06:22:57,M003,GamersParadise,electronics,"LG 55"" OLED TV",41.08,USD,ID,gcash,PayMaya,10.5,fraud
+318c93f6-08cf-4c4c-a23b-cc358f46f366,2026-02-10T08:50:48,M006,ElectroShop VN,accessories,Smart Watch Band Set,41.11,USD,ID,ovo,Midtrans,13.1,product_not_received
+17594961-8be1-4986-9833-3cde462b2ce5,2026-02-17T16:49:42,M047,SmartZone VN,accessories,"Laptop Sleeve 15""",67.77,USD,TH,gopay,Midtrans,10.2,fraud
+4fb883e8-c52f-41e8-b2b3-f81c69de1724,2026-01-29T05:14:06,M007,QuickGadgets,accessories,Smart Watch Band Set,21.08,USD,PH,gcash,PayMaya,10.2,fraud
+9212fc84-780b-4c3d-8157-0d8ee402b5e4,2026-02-24T12:48:26,M015,SmartGadgets VN,fashion,Premium Cotton T-Shirt 3-Pack,11.51,USD,ID,ovo,Midtrans,12.6,duplicate_processing
+04a55e55-84d9-4d4d-94af-37f404c1b298,2026-02-16T10:06:44,M047,SmartZone VN,accessories,TWS Bluetooth Earbuds,30.45,USD,VN,bank_transfer,Xendit,13.3,product_not_as_described
+6b48e464-9ad0-4fb7-855d-77c236a83f10,2026-02-17T05:27:52,M008,PhoneMax ID,accessories,"Laptop Sleeve 15""",42.64,USD,ID,visa,Checkout.com,10.4,fraud
+24836110-902d-4e60-9af1-fd39bd5b0d37,2026-02-02T00:23:49,M002,GadgetHub ID,electronics,"LG 55"" OLED TV",31.37,USD,VN,visa,Stripe,10.4,fraud
+36288b3a-6d36-4068-a132-f37305a5119f,2026-02-02T15:32:22,M008,PhoneMax ID,accessories,Slim Phone Case,31.85,USD,PH,mastercard,Adyen,13.3,product_not_as_described
+8caa4444-6c1e-4237-87b7-f9758909caba,2026-02-23T16:19:06,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,34.12,USD,ID,visa,Checkout.com,10.5,fraud
+8593cc69-14b1-4ce7-ab12-19d243b6596a,2026-02-25T11:04:55,M005,AccessoryWorld,gaming,Xbox Game Pass 3-Month,45.7,USD,ID,mastercard,Checkout.com,13.3,product_not_as_described
+c2541330-d84e-4559-98eb-6e0e4c37441e,2026-02-12T17:44:57,M048,MobileGear TH,home_appliances,Smart WiFi Plug 4-Pack,31.08,USD,VN,gopay,Midtrans,10.2,fraud
+c80816cb-33c9-4008-b9ed-951158fb3c0b,2026-02-09T01:08:13,M006,ElectroShop VN,accessories,"Laptop Sleeve 15""",80.69,USD,ID,visa,Checkout.com,13.1,product_not_received
+6f5a5984-66dc-4ca9-80d9-fe16ae3d731b,2026-02-21T22:53:48,M002,GadgetHub ID,electronics,Samsung Galaxy S24,24.73,USD,ID,bank_transfer,Xendit,12.6,duplicate_processing
+d3146c46-ef0e-4110-8eac-8eec875f431a,2026-01-31T01:31:32,M039,SmartMart VN,home_appliances,Compact Air Purifier H13,36.5,USD,PH,visa,Stripe,10.4,fraud
+6c95a730-2221-4b7e-b5b3-fcaaf41d6ec4,2026-01-27T17:38:55,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,31.76,USD,TH,ovo,Midtrans,13.3,product_not_as_described
+fb4f6df4-43ab-440b-bf9d-96782297b995,2026-02-18T17:08:07,M007,QuickGadgets,accessories,TWS Bluetooth Earbuds,16.62,USD,VN,gopay,Midtrans,10.4,fraud
+abaf3c58-25b9-4865-b9f8-4f0eaf22e4d4,2026-02-03T07:26:47,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,89.64,USD,ID,mastercard,Checkout.com,10.4,fraud
+8dfeb1c3-29ee-43f0-aff9-4769646cc277,2026-01-28T01:20:22,M013,AccessPro ID,fashion,Casual Slip-On Sneakers,45.06,USD,ID,visa,Stripe,10.5,fraud
+e3255909-2027-4df3-b18f-98860789451d,2026-01-29T15:45:47,M002,GadgetHub ID,electronics,Lenovo Tab P12,71.34,USD,VN,mastercard,Stripe,10.2,fraud
+10b4be30-3d96-493b-9df0-f14466313780,2026-02-20T07:33:57,M006,ElectroShop VN,accessories,Slim Phone Case,20.0,USD,PH,gcash,PayMaya,13.1,product_not_received
+23582d9a-4de8-4b71-9cdb-971bcc6c21d7,2026-02-18T02:13:58,M007,QuickGadgets,accessories,Screen Protector 3-Pack,46.85,USD,PH,mastercard,Stripe,13.2,subscription_cancelled
+b257b44e-d88e-4d8d-bc82-d98d86c76fed,2026-01-28T20:48:29,M003,GamersParadise,electronics,Xiaomi 14 Pro,409.08,USD,ID,gopay,Midtrans,13.2,subscription_cancelled
+90112eb8-94f5-4e1c-b6f2-ece03267ec71,2026-01-28T15:01:55,M014,ElectraBuy PH,electronics,"LG 55"" OLED TV",65.98,USD,ID,gopay,Midtrans,10.5,fraud
+ee86d970-7927-4598-91e0-447ded8e1f47,2026-02-13T17:48:22,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,42.32,USD,TH,visa,Stripe,10.5,fraud
+63030b39-e8ad-4339-93d3-fb3adb6fc2c8,2026-02-02T19:27:55,M046,ElectroHub PH,accessories,TWS Bluetooth Earbuds,72.68,USD,VN,visa,Adyen,13.3,product_not_as_described
+f064e0da-d4c8-4118-abb4-8b0f65cb54de,2026-02-23T13:36:46,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,30.43,USD,ID,mastercard,Stripe,13.2,subscription_cancelled
+d3dc59be-7702-496b-96f1-e6778b467711,2026-01-31T21:17:05,M024,MobilePro TH,electronics,Sony WH-1000XM5,87.81,USD,ID,visa,Checkout.com,13.3,product_not_as_described
+bd0dc60f-1df0-4941-8cc7-38b78f96e0b9,2026-02-07T20:51:49,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,276.72,USD,TH,visa,Stripe,10.4,fraud
+76221362-59b0-414c-8d67-0f942e3a2b98,2026-02-10T11:30:40,M001,TechZone PH,health_beauty,Gentle Foam Cleanser Set,143.22,USD,PH,visa,Adyen,10.5,fraud
+1fe4fcd4-95f6-4230-92bf-1e80b8293514,2026-02-06T08:49:50,M044,PhoneStore TH,gaming,Razer DeathAdder Mouse,33.13,USD,PH,mastercard,Adyen,13.2,subscription_cancelled
+1fbe6b76-c73f-4b94-a83f-08cbaf373ed4,2026-02-03T21:32:55,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,31.66,USD,ID,visa,Checkout.com,10.4,fraud
+62864e5f-561b-41b1-bd41-2fc83a318000,2026-02-04T11:34:45,M005,AccessoryWorld,gaming,PlayStation Store $50 Gift Card,89.96,USD,ID,gcash,PayMaya,10.2,fraud
+4c1879e8-2361-4b32-82d7-ccde036aff5b,2026-02-03T21:26:04,M002,GadgetHub ID,electronics,"LG 55"" OLED TV",96.42,USD,ID,mastercard,Stripe,10.2,fraud
+3ef8608a-1695-49de-99da-4e32c1574beb,2026-02-09T09:39:01,M030,ElectroGo PH,fashion,Casual Slip-On Sneakers,30.34,USD,ID,mastercard,Adyen,12.6,duplicate_processing
+b1cf5d4a-5319-4953-85c7-2b47fc5913b8,2026-02-21T23:32:50,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,32.1,USD,ID,gopay,Midtrans,10.2,fraud
+52cfa74d-1353-49bc-b2d1-d46336ec5b11,2026-02-20T02:59:14,M033,GadgetStore ID,mobile_phones,Vivo V29,34.64,USD,PH,visa,Checkout.com,13.2,subscription_cancelled
+b4bc78b6-67eb-4b3f-8063-89dad439ace4,2026-02-23T19:30:42,M002,GadgetHub ID,electronics,Dell Inspiron 15,20.0,USD,ID,ovo,Midtrans,12.6,duplicate_processing
+aa1c6c07-3303-47ac-85dc-c8fde60b680b,2026-02-03T03:44:15,M006,ElectroShop VN,accessories,TWS Bluetooth Earbuds,24.4,USD,VN,ovo,Midtrans,13.1,product_not_received
+d282f20a-55fe-47c5-91d8-5972d5507a27,2026-02-25T07:28:50,M002,GadgetHub ID,electronics,"LG 55"" OLED TV",23.28,USD,TH,mastercard,Adyen,10.2,fraud
+17bffe65-a764-4a17-84a8-46cc37163d2a,2026-02-17T08:50:18,M007,QuickGadgets,accessories,Slim Phone Case,26.52,USD,ID,visa,Stripe,13.1,product_not_received
+1a027e2d-efcc-40a0-a667-120770ba67cb,2026-02-24T05:07:26,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,39.68,USD,TH,mastercard,Stripe,10.2,fraud
+12038ff6-a3a3-4715-8fb5-d9beb4569c7b,2026-02-22T02:08:32,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,46.01,USD,ID,gopay,Midtrans,10.2,fraud
+c5184a3b-a632-490f-82d3-fc4d9680e491,2026-01-30T10:37:38,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,18.11,USD,ID,gcash,PayMaya,10.5,fraud
+6f4f40ce-2640-432d-9402-85d5e4cd68cb,2026-02-10T15:44:08,M049,GadgetZone PH,gaming,Xbox Game Pass 3-Month,94.9,USD,PH,mastercard,Checkout.com,13.3,product_not_as_described
+b70b65ad-63eb-44f5-baf4-6eaf882378f7,2026-02-14T14:24:20,M001,TechZone PH,health_beauty,Aromatherapy Essential Oil Kit,23.36,USD,TH,gopay,Midtrans,13.1,product_not_received
+ebd78d31-a759-4aac-a3b0-36097b2ca2ab,2026-02-06T16:37:32,M008,PhoneMax ID,accessories,TWS Bluetooth Earbuds,69.5,USD,ID,mastercard,Adyen,10.4,fraud
+0b2b69a0-240f-4e8a-aead-939311673740,2026-02-09T19:20:06,M004,MobileKing TH,health_beauty,Whey Protein Powder 1 kg,35.96,USD,ID,mastercard,Stripe,13.1,product_not_received
+7b663c36-b793-4ca6-8a1d-691f0cdc9699,2026-02-05T19:48:06,M003,GamersParadise,electronics,Sony WH-1000XM5,39.36,USD,ID,visa,Adyen,13.2,subscription_cancelled
+3dad4c40-868e-46ee-8eb7-3be3a38c775d,2026-02-24T00:31:53,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,58.62,USD,ID,ovo,Midtrans,13.1,product_not_received
+5c7d83d6-0305-426f-810d-52da2b6ee3d2,2026-02-05T03:28:56,M008,PhoneMax ID,accessories,TWS Bluetooth Earbuds,21.81,USD,ID,gopay,Midtrans,12.6,duplicate_processing
+106b517a-8b3c-49d2-90d7-c4daf2e16a81,2026-02-07T07:46:04,M016,MobileHub TH,mobile_phones,Xiaomi Redmi Note 13,49.92,USD,ID,ovo,Midtrans,13.3,product_not_as_described
+75c7f0dd-1cb2-43c7-8b4a-7570e1b133ce,2026-02-24T22:50:33,M029,AccessZone ID,health_beauty,Whey Protein Powder 1 kg,44.32,USD,PH,mastercard,Checkout.com,12.6,duplicate_processing
+6992edc3-f1d5-476b-996b-2a6d71ea498e,2026-01-27T07:43:12,M049,GadgetZone PH,gaming,Razer DeathAdder Mouse,53.03,USD,PH,mastercard,Adyen,10.2,fraud
+13e17e83-4670-4e24-acfa-6dc0fa272fe0,2026-02-02T16:54:46,M003,GamersParadise,electronics,Sony WH-1000XM5,216.82,USD,PH,visa,Adyen,13.1,product_not_received
+3ceee703-d254-4083-84cc-0d96e4083932,2026-02-15T20:22:30,M005,AccessoryWorld,gaming,Nintendo Switch Carry Case,47.42,USD,ID,mastercard,Stripe,10.4,fraud
+07c353a4-4832-4deb-872e-c96b12db8283,2026-02-11T19:22:34,M051,GameMart VN,electronics,Dell Inspiron 15,156.09,USD,ID,gopay,Midtrans,13.1,product_not_received
+f1370bda-984f-4cdd-a6fa-dbbbfd4cba07,2026-02-03T14:20:42,M029,AccessZone ID,health_beauty,Vitamin C Brightening Serum,28.48,USD,ID,visa,Adyen,13.1,product_not_received
+a1c0d3f9-1680-4dfc-b833-2c9d12257da0,2026-02-15T09:17:32,M040,MobileStore TH,home_appliances,Compact Air Purifier H13,30.2,USD,TH,visa,Adyen,10.2,fraud
+28f07ed7-2e28-4e50-b0f6-9d8b8957462a,2026-02-17T14:27:25,M025,GadgetPro ID,fashion,UV400 Polarised Sunglasses,28.71,USD,ID,mastercard,Checkout.com,10.4,fraud
+2adc35b8-8c7e-47be-8561-38fe4281c13f,2026-02-05T05:34:13,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,29.8,USD,PH,visa,Stripe,13.1,product_not_received
+601e2640-cbd3-474d-a945-fbce15783dd7,2026-02-19T22:21:58,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,28.49,USD,PH,mastercard,Checkout.com,10.4,fraud
+42199f49-141d-4d9c-9cae-c5b793ddfc5e,2026-02-13T17:25:55,M006,ElectroShop VN,accessories,Smart Watch Band Set,77.79,USD,TH,visa,Stripe,13.1,product_not_received
+876db073-bdcb-4850-a507-68f4e599c8d1,2026-01-27T16:06:32,M004,MobileKing TH,health_beauty,Aromatherapy Essential Oil Kit,88.35,USD,ID,visa,Stripe,10.5,fraud
+c4717b6f-f21e-41da-9e96-ca4e782234e9,2026-01-28T12:41:25,M004,MobileKing TH,health_beauty,Gentle Foam Cleanser Set,29.55,USD,VN,visa,Adyen,10.4,fraud
+d04e3803-78b2-48d2-a8ab-6da12160ae13,2026-01-27T19:58:09,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,25.59,USD,TH,gcash,PayMaya,10.2,fraud
+91d15abe-1b86-4c85-8278-53f4c539e894,2026-02-09T08:29:12,M029,AccessZone ID,health_beauty,Vitamin C Brightening Serum,52.42,USD,TH,visa,Stripe,13.1,product_not_received
+20949855-bb95-433d-9fb4-43b1452862ca,2026-02-03T15:18:58,M002,GadgetHub ID,electronics,Sony WH-1000XM5,29.85,USD,VN,mastercard,Checkout.com,13.2,subscription_cancelled
+e4a239ca-6c45-4bb9-837d-ec94beb9590f,2026-02-18T00:25:49,M043,GameHub VN,mobile_phones,Samsung Galaxy A54,57.29,USD,PH,visa,Adyen,10.2,fraud
+4096c212-9bbb-42b8-8fee-66dd1126d7ef,2026-02-21T17:10:13,M003,GamersParadise,electronics,Dell Inspiron 15,45.22,USD,ID,visa,Stripe,10.2,fraud
+a2bac041-c968-48a8-aae5-b5a72f50ff42,2026-02-19T01:49:31,M042,TechStore ID,health_beauty,Whey Protein Powder 1 kg,20.0,USD,TH,ovo,Midtrans,13.3,product_not_as_described
+af90fac7-6015-4235-8f1d-b0f4e3adb9eb,2026-02-23T17:50:31,M007,QuickGadgets,accessories,"Laptop Sleeve 15""",94.74,USD,VN,gopay,Midtrans,10.5,fraud
+b25ca739-38e1-4830-ada3-ad2dbad3a006,2026-02-12T23:05:58,M008,PhoneMax ID,accessories,USB-C 65W Fast Charger,108.61,USD,ID,ovo,Midtrans,13.1,product_not_received
+3007d58e-88b7-4b7e-a843-df82502db036,2026-02-01T03:02:56,M002,GadgetHub ID,electronics,"LG 55"" OLED TV",28.87,USD,PH,gcash,PayMaya,10.4,fraud
+3555d341-8745-42c2-ae57-b282b21880b6,2026-02-09T13:18:46,M044,PhoneStore TH,gaming,Razer DeathAdder Mouse,32.68,USD,PH,visa,Stripe,10.2,fraud
+e665575f-6976-43c9-86de-df43becdbe76,2026-02-05T19:45:23,M003,GamersParadise,electronics,iPad Air M2,47.33,USD,ID,visa,Stripe,13.1,product_not_received
+6b13a995-665b-4ddd-a7b6-a1ca06acdf56,2026-01-27T15:04:00,M008,PhoneMax ID,accessories,Slim Phone Case,48.62,USD,ID,visa,Adyen,10.2,fraud
+4ab3c5ce-50e1-4fcf-843b-321e8d5f3d64,2026-01-28T02:22:40,M002,GadgetHub ID,electronics,Sony WH-1000XM5,58.1,USD,ID,mastercard,Adyen,13.1,product_not_received
+da0fe418-a471-4c9e-a9e7-993d7c0cc0ec,2026-02-14T12:59:16,M007,QuickGadgets,accessories,"Laptop Sleeve 15""",122.19,USD,TH,visa,Adyen,13.1,product_not_received
+decf4d73-eb49-46a4-9cd5-b4e93174996f,2026-02-04T04:51:33,M004,MobileKing TH,health_beauty,Aromatherapy Essential Oil Kit,36.7,USD,TH,mastercard,Checkout.com,10.2,fraud
+9d342764-1b4d-4e41-8bc9-34f6fe648053,2026-02-02T06:05:59,M008,PhoneMax ID,accessories,"Laptop Sleeve 15""",26.07,USD,ID,ovo,Midtrans,10.5,fraud
+f7d38f90-8cca-4e69-8339-68058b88ae29,2026-01-31T21:30:20,M001,TechZone PH,health_beauty,Whey Protein Powder 1 kg,20.0,USD,ID,mastercard,Checkout.com,10.5,fraud
+f8624daa-8d06-424d-b4b0-547c468c50ca,2026-02-18T16:20:33,M007,QuickGadgets,accessories,USB-C 65W Fast Charger,27.06,USD,TH,visa,Adyen,13.1,product_not_received
+c9093038-192f-4b6d-b162-30670345538f,2026-02-13T08:43:07,M036,PhoneHub TH,home_appliances,Touch-Dimmer LED Desk Lamp,39.72,USD,ID,gopay,Midtrans,13.1,product_not_received
+4270f8d6-9c78-46cd-9e56-7954a2319b30,2026-02-19T06:24:23,M031,SmartHub TH,mobile_phones,Samsung Galaxy A54,108.53,USD,VN,gopay,Midtrans,13.1,product_not_received
+0cc93bf6-b948-488a-9eb9-0bec33950fa4,2026-01-27T11:58:16,M004,MobileKing TH,health_beauty,Vitamin C Brightening Serum,30.43,USD,ID,visa,Stripe,13.1,product_not_received
+70edd125-078c-4372-b2b3-dfd71482446c,2026-02-04T00:55:45,M005,AccessoryWorld,gaming,SteelSeries Arctis Headset,45.75,USD,PH,bank_transfer,Xendit,13.1,product_not_received
+abce7e95-de31-4a50-8c20-3a364a8ebed3,2026-01-28T22:09:45,M002,GadgetHub ID,electronics,OPPO Reno11 5G,40.08,USD,ID,gopay,Midtrans,10.4,fraud
+caf7c959-d4c5-4647-aba6-7d6c192099af,2026-02-06T06:41:39,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,77.76,USD,TH,mastercard,Stripe,10.2,fraud
+9f7ee5ec-326b-40cd-b726-4c5d792d6e63,2026-02-12T13:53:42,M006,ElectroShop VN,accessories,Smart Watch Band Set,10.7,USD,TH,gopay,Midtrans,10.2,fraud
+8a66c244-540e-46f5-9737-2591a29a4cc2,2026-02-10T22:32:26,M003,GamersParadise,electronics,OPPO Reno11 5G,162.36,USD,TH,gopay,Midtrans,10.5,fraud
+8b4ea542-537d-4e76-bfff-fa5448967262,2026-01-30T22:05:36,M006,ElectroShop VN,accessories,TWS Bluetooth Earbuds,20.85,USD,ID,mastercard,Adyen,13.1,product_not_received
+accdacb9-9cb3-4f84-bb2b-908736e67616,2026-02-20T20:23:29,M001,TechZone PH,health_beauty,Vitamin C Brightening Serum,30.21,USD,VN,visa,Stripe,10.2,fraud

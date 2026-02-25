@@ -1,0 +1,911 @@
+chargeback_id,date,merchant_id,merchant_name,merchant_category,country,reason_category,reason_code,payment_method,amount_usd,status
+ec5c31dd-fde7-4537-9cce-4e8faa5f4638,2025-12-18,M005,AccessoryWorld,accessories,ID,product_not_received,13.1,mastercard,51.78,lost
+e9a5d28e-e9a0-4736-87c8-b5a969f00d35,2025-12-23,M023,SmartStore,mobile_phones,TH,product_not_received,13.1,gopay,29.24,lost
+f48967a4-3ef3-44b9-9281-8b5b21331642,2025-12-13,M006,ElectroShop VN,accessories,VN,fraud,10.5,visa,59.32,open
+3974c082-da3f-495b-bc25-c784ae30fddc,2025-12-11,M005,AccessoryWorld,accessories,ID,fraud,10.2,mastercard,130.42,lost
+f976ba13-6b7c-4b06-9d9b-3cc08ef65df5,2025-11-29,M008,PhoneMax ID,electronics,VN,duplicate_processing,12.6,mastercard,26.82,open
+ca847d73-6c15-4ca3-86a8-7ea8b36141fb,2025-12-17,M002,GadgetHub ID,electronics,TH,duplicate_processing,12.6,gopay,26.82,open
+56cefe66-bb6b-404f-96c4-42e6134221ff,2025-12-15,M002,GadgetHub ID,electronics,VN,subscription_cancelled,13.2,bank_transfer,137.18,won
+15916138-2e0b-4bb4-b249-8a6d77b87a8c,2025-12-22,M005,AccessoryWorld,accessories,PH,product_not_as_described,13.3,visa,66.07,lost
+21f3a6cf-0682-435f-9aef-dc4ca15ac013,2025-12-22,M004,MobileKing TH,accessories,ID,fraud,10.4,gcash,21.7,open
+e9cd6b73-7af2-4fad-b4cf-1b94105bc985,2025-12-26,M002,GadgetHub ID,electronics,PH,fraud,10.2,truemoney,53.96,lost
+37440a46-e0dc-4672-9250-83ae4c3d4d38,2025-12-13,M002,GadgetHub ID,electronics,ID,subscription_cancelled,13.2,visa,21.82,open
+8cb8036b-3661-4c86-bde7-3269db1695b1,2025-12-17,M005,AccessoryWorld,accessories,PH,product_not_as_described,13.3,visa,21.78,won
+1e94ac8b-00bf-4f72-8830-4ce2706dda8d,2025-12-19,M005,AccessoryWorld,accessories,TH,product_not_received,13.1,truemoney,41.17,open
+bdc1bce9-7b33-4399-9a57-c2bb5a95623b,2025-12-16,M002,GadgetHub ID,electronics,PH,product_not_received,13.1,gcash,8.0,open
+2c343a6a-baf9-48c3-b08b-b10f175ac1bd,2025-12-25,M002,GadgetHub ID,electronics,TH,product_not_received,13.1,visa,8.0,lost
+196226a7-32f2-446e-88e9-9ab6c4f63231,2025-12-26,M003,GamersParadise,gaming,TH,fraud,10.2,visa,19.96,lost
+8e17f1f7-aa6c-4b1b-a459-de6125eef4d8,2025-12-11,M002,GadgetHub ID,electronics,PH,product_not_received,13.1,visa,13.31,open
+5828d0f1-6149-4c37-8fcf-771611d42f0f,2025-12-21,M002,GadgetHub ID,electronics,TH,fraud,10.5,mastercard,43.94,open
+174ccf25-da84-443c-a43d-7f7ccf61ea0f,2025-12-12,M007,QuickGadgets,electronics,ID,fraud,10.4,visa,14.63,open
+8580678b-1d1b-4610-8079-0daa82964b97,2025-12-15,M001,TechZone PH,electronics,VN,fraud,10.4,mastercard,9.29,won
+514e2028-2a47-413d-b8e4-f3a70193d624,2025-12-25,M008,PhoneMax ID,electronics,TH,product_not_as_described,13.3,truemoney,123.85,won
+f47fca31-487c-4bc6-86ce-418481c031fe,2025-12-20,M008,PhoneMax ID,electronics,ID,product_not_received,13.1,visa,27.03,open
+68824f4c-345e-4d51-a179-d6a4f59744e3,2025-11-29,M046,ElectroHub VN,accessories,ID,subscription_cancelled,13.2,visa,35.19,lost
+47b84cb2-2052-4465-8d7e-97f8c8fbbdbe,2025-12-14,M042,TechStore,gaming,PH,product_not_as_described,13.3,visa,9.19,open
+fd169879-831c-4cc0-88a6-7093efdeff78,2025-12-26,M034,TechHub PH,gaming,ID,fraud,10.4,visa,20.29,open
+5d5ff61c-4226-4e7c-bee1-0e61da387e2a,2025-12-04,M006,ElectroShop VN,accessories,PH,product_not_received,13.1,gopay,36.59,lost
+4daa9e23-fdae-4c43-a80d-a62153944734,2025-12-27,M005,AccessoryWorld,accessories,ID,product_not_received,13.1,visa,11.75,won
+d8c2dae9-528e-4f6f-8e53-64630e23d592,2025-12-04,M002,GadgetHub ID,electronics,PH,product_not_as_described,13.3,visa,46.44,open
+a932a018-b968-4cf3-8119-dffe02420797,2025-12-12,M032,MobileZone ID,electronics,VN,product_not_received,13.1,truemoney,19.29,open
+1f8514ba-49b9-4df6-bba2-baf9cbb4032e,2025-12-15,M001,TechZone PH,electronics,VN,product_not_as_described,13.3,gopay,25.47,won
+084ec026-02dc-4b26-8148-6329713c2a0a,2025-12-02,M002,GadgetHub ID,electronics,VN,fraud,10.2,visa,19.27,lost
+69a2eeda-73dd-4904-ac60-514933699b4d,2025-12-06,M005,AccessoryWorld,accessories,ID,fraud,10.2,visa,175.4,won
+b8c3cdd1-1742-48df-9634-bcf7586dfbe9,2025-12-02,M001,TechZone PH,electronics,PH,duplicate_processing,12.6,visa,32.72,open
+45d35d41-0c21-4238-8ff0-712d4c6d169a,2025-12-26,M001,TechZone PH,electronics,PH,product_not_received,13.1,visa,12.78,open
+d41fa613-d5f7-4acc-addd-0953fdff88a3,2025-11-29,M003,GamersParadise,gaming,TH,product_not_received,13.1,mastercard,69.43,open
+2eca5e54-4ee1-4d2b-a332-2f7d8e34309b,2025-12-15,M002,GadgetHub ID,electronics,ID,fraud,10.4,gcash,11.04,open
+e55139d0-4b39-4d33-a965-0d875aac289f,2025-12-23,M024,MobilePro VN,gaming,TH,duplicate_processing,12.6,bank_transfer,39.96,lost
+53c60f8d-b241-4f99-91fb-7393beb4bc0a,2025-12-25,M007,QuickGadgets,electronics,TH,product_not_as_described,13.3,visa,8.0,lost
+77601bcb-2fee-4537-9f75-54fce154455c,2025-12-05,M001,TechZone PH,electronics,TH,product_not_as_described,13.3,visa,10.02,lost
+8ab1e872-8c6f-43ff-80f7-b7c4790e9d8a,2025-12-04,M023,SmartStore,mobile_phones,TH,fraud,10.5,visa,39.53,open
+dd5bbb28-6be9-4d2e-ad82-98c5faad13ae,2025-12-24,M007,QuickGadgets,electronics,VN,fraud,10.5,gcash,64.37,won
+4d694804-d03e-4daf-9982-f37af885a815,2025-12-17,M005,AccessoryWorld,accessories,VN,product_not_received,13.1,visa,38.64,open
+6b0809cf-9908-4fc2-88f6-3743954fe384,2025-12-20,M004,MobileKing TH,accessories,VN,product_not_received,13.1,mastercard,29.84,open
+2f37723d-c170-498e-a0fe-9ffa878251e6,2025-12-19,M006,ElectroShop VN,accessories,ID,product_not_received,13.1,mastercard,25.25,won
+d814913e-bfce-4019-a445-5bf4647b40b2,2025-12-04,M005,AccessoryWorld,accessories,TH,product_not_as_described,13.3,mastercard,8.75,won
+7d0fcceb-d14f-40cc-81c5-087a66b89182,2025-12-24,M005,AccessoryWorld,accessories,VN,product_not_received,13.1,gopay,17.32,open
+cb46a9a1-7e94-449f-b6d5-f9c93fdf13c4,2025-12-12,M006,ElectroShop VN,accessories,TH,fraud,10.5,visa,21.88,won
+4b9b88c4-eaf1-49d0-89c0-13c73a0a735d,2025-12-14,M051,GameMart VN,mobile_phones,VN,product_not_received,13.1,ovo,85.75,open
+65fe6173-0095-41cb-9a19-2dfe948ef7f4,2025-12-04,M005,AccessoryWorld,accessories,VN,product_not_received,13.1,visa,45.12,open
+12057a05-35ed-4910-81f4-e5fb9e05da3d,2025-12-26,M013,AccessPro,accessories,PH,fraud,10.4,visa,8.0,won
+bdbe7bcf-4c3f-4241-bb25-4fc0ff6a7ed9,2025-11-28,M003,GamersParadise,gaming,ID,product_not_received,13.1,gopay,44.33,won
+5caa5f46-d3c3-4c42-9f3f-a4dba1519504,2025-11-29,M053,AccessGear,mobile_phones,ID,duplicate_processing,12.6,ovo,23.42,won
+874de33b-62f1-4e6c-b617-d176bc71bcc2,2025-12-26,M006,ElectroShop VN,accessories,TH,product_not_received,13.1,mastercard,18.01,lost
+2daa2b24-7e6c-425e-b737-abc0266fa2c9,2025-12-12,M056,MobileMall TH,gaming,PH,product_not_received,13.1,gcash,57.43,lost
+bfcbfc88-05fa-4e36-bd8c-aa92eefd138b,2025-12-06,M040,MobileStore PH,electronics,ID,fraud,10.4,gcash,83.76,won
+8c9576d9-82eb-43af-82cc-de7b20100224,2025-12-05,M014,ElectraBuy,accessories,ID,product_not_received,13.1,visa,76.57,open
+dbd7c753-1898-43c4-a6bc-f4212cf21e52,2025-12-04,M008,PhoneMax ID,electronics,ID,fraud,10.4,gopay,15.56,open
+c6b56a7e-3c59-4e14-a065-9aded5a34984,2025-12-09,M007,QuickGadgets,electronics,PH,product_not_as_described,13.3,truemoney,25.07,won
+2325ff0b-6093-4b49-a8cf-ed4696a0a3cb,2025-12-06,M004,MobileKing TH,accessories,VN,fraud,10.5,gcash,44.62,won
+4271597e-6913-458b-93ad-63e074fc6a9c,2025-12-12,M055,SmartGear VN,accessories,TH,product_not_received,13.1,mastercard,79.68,open
+fa8dca79-40db-4aeb-9e32-24aca72d748f,2025-12-02,M002,GadgetHub ID,electronics,PH,duplicate_processing,12.6,truemoney,21.51,won
+7fb64b0a-7b2f-4ee4-a821-4063830ef501,2025-12-26,M006,ElectroShop VN,accessories,ID,duplicate_processing,12.6,visa,28.02,open
+c1acea0c-ab49-425e-8153-556e67d59aae,2025-12-09,M001,TechZone PH,electronics,ID,fraud,10.5,visa,12.23,lost
+b60fa642-afe3-45aa-924e-2b32ac51010b,2025-11-28,M024,MobilePro VN,gaming,TH,fraud,10.4,ovo,11.28,open
+6e6c2b63-608a-4857-9cb5-083d93b39b0f,2025-12-06,M004,MobileKing TH,accessories,TH,product_not_received,13.1,visa,68.8,won
+da6bcca1-05bd-4029-97fd-0855ff9d1be3,2025-12-01,M003,GamersParadise,gaming,VN,product_not_as_described,13.3,gopay,112.24,lost
+651cfdaa-9355-4b8b-8df4-816d9cf14a64,2025-12-20,M004,MobileKing TH,accessories,VN,product_not_received,13.1,mastercard,31.04,open
+d13218cf-3220-4174-99d0-712e63feb5d5,2025-12-23,M047,SmartZone,gaming,TH,product_not_as_described,13.3,visa,81.71,lost
+5ba5a8a5-d31a-43b3-ad28-daa0dbffa1e1,2025-12-11,M006,ElectroShop VN,accessories,PH,subscription_cancelled,13.2,visa,45.85,open
+7759d704-2ce4-4043-9c61-9ad1f723f286,2025-12-11,M038,ElectroZone ID,electronics,ID,product_not_as_described,13.3,mastercard,18.53,lost
+68e364f7-f02c-455a-9189-05421d43f0c6,2025-12-12,M043,GameHub ID,accessories,ID,fraud,10.2,bank_transfer,45.84,lost
+a50ce6a9-3e5a-49c6-9d06-80b66ad326f0,2025-12-05,M026,TechGo ID,accessories,ID,product_not_received,13.1,visa,132.19,lost
+6fdecfac-4002-4c35-b25c-d4916f76eba2,2025-12-23,M008,PhoneMax ID,electronics,PH,product_not_as_described,13.3,visa,32.06,open
+398f0b44-05a7-4b59-90f5-9846d2b96181,2025-12-04,M001,TechZone PH,electronics,TH,fraud,10.5,gcash,135.39,won
+c6a1ca47-62d7-480f-a879-ed5776a80265,2025-12-13,M008,PhoneMax ID,electronics,PH,fraud,10.2,mastercard,8.0,won
+b89a56f7-e092-4562-bb79-3d905aa24897,2025-12-09,M005,AccessoryWorld,accessories,ID,product_not_received,13.1,visa,69.39,won
+413a0656-2c9b-4472-a9ce-bf59252a5b12,2025-12-06,M008,PhoneMax ID,electronics,TH,product_not_received,13.1,mastercard,35.81,open
+bf24ec62-b65f-4122-92bb-448e2679bc9c,2025-12-21,M003,GamersParadise,gaming,ID,fraud,10.2,visa,25.3,open
+6d7436b3-c703-44bf-8652-1d4857ffab79,2025-11-28,M006,ElectroShop VN,accessories,TH,product_not_received,13.1,bank_transfer,35.97,open
+41fb4a2b-8bb2-453d-9e17-1aa0b71c2803,2025-12-22,M003,GamersParadise,gaming,VN,product_not_as_described,13.3,visa,8.0,won
+38c0b017-14df-4e81-ac08-c89f8390042c,2025-12-06,M003,GamersParadise,gaming,PH,product_not_received,13.1,mastercard,27.17,lost
+b5a2f111-72a1-457b-98b3-ee3c88a4c1e6,2025-12-23,M001,TechZone PH,electronics,ID,subscription_cancelled,13.2,visa,45.67,open
+796c31ac-ed4f-495b-a524-ff557aa0ba15,2025-12-23,M007,QuickGadgets,electronics,ID,product_not_received,13.1,visa,125.22,won
+b4770876-6d7c-4701-b464-50fbe2b50974,2025-12-17,M036,PhoneHub VN,electronics,PH,product_not_received,13.1,mastercard,20.77,open
+83ad82a0-c861-4c25-a5b4-0349f12068c4,2025-12-03,M005,AccessoryWorld,accessories,TH,fraud,10.2,visa,16.0,won
+2c96a714-5cc1-4448-85c0-341b1939c399,2025-12-05,M008,PhoneMax ID,electronics,ID,fraud,10.2,visa,21.08,open
+d2fbbff5-b2cc-452e-a948-2c300ef1ffac,2025-12-18,M005,AccessoryWorld,accessories,PH,fraud,10.5,gopay,75.48,lost
+32f69f58-488f-4d1e-b517-ced5fbd1387b,2025-11-30,M005,AccessoryWorld,accessories,PH,product_not_received,13.1,mastercard,44.52,lost
+b371846c-5f82-433d-a129-5a2a0982a75f,2025-12-20,M037,AccessMart,mobile_phones,TH,fraud,10.5,mastercard,20.56,open
+40c443ae-9318-4848-a23c-4b8b7658fb72,2025-12-26,M002,GadgetHub ID,electronics,PH,fraud,10.5,truemoney,52.56,won
+9ece9e0b-2329-4c46-a35b-d8339bbd0918,2025-12-19,M001,TechZone PH,electronics,ID,product_not_received,13.1,gopay,36.14,lost
+758272cd-e202-49f3-8a9b-83d82da15f1b,2025-12-03,M008,PhoneMax ID,electronics,ID,product_not_as_described,13.3,ovo,79.18,lost
+f501e868-e7f1-49df-a75c-b1baf2bd0d03,2025-12-08,M006,ElectroShop VN,accessories,PH,subscription_cancelled,13.2,gopay,17.6,open
+072e6a05-5a71-4391-ba71-41e2073b36ec,2025-12-15,M007,QuickGadgets,electronics,TH,product_not_received,13.1,visa,24.66,lost
+60ed4891-8c8c-4fce-bdcf-c4d260a39649,2025-12-24,M034,TechHub PH,gaming,ID,fraud,10.4,visa,23.27,lost
+9262e1e9-e7ca-430d-b3bb-61bb02b081a3,2025-12-22,M008,PhoneMax ID,electronics,ID,subscription_cancelled,13.2,mastercard,8.87,won
+2b505dcc-ddf5-42fb-a3dd-a8e0be865cce,2025-12-18,M008,PhoneMax ID,electronics,VN,fraud,10.5,mastercard,43.23,open
+29615df2-54fd-4e1c-9898-e05b64d0eb88,2025-12-24,M007,QuickGadgets,electronics,ID,product_not_received,13.1,gopay,41.89,open
+fda82af5-5472-4f5a-a846-2831d21d9ad2,2025-12-06,M005,AccessoryWorld,accessories,PH,duplicate_processing,12.6,truemoney,33.27,won
+106f0981-f2cf-4996-a9e2-93ad78833c77,2025-12-17,M007,QuickGadgets,electronics,ID,product_not_received,13.1,bank_transfer,26.81,open
+280a8b87-5281-47d4-893f-29378257841f,2025-12-23,M035,GameZone,gaming,ID,product_not_received,13.1,gcash,9.26,open
+5dc7a161-0768-40aa-89c1-b4139a2c1513,2025-12-12,M008,PhoneMax ID,electronics,ID,product_not_received,13.1,visa,22.68,lost
+df55ae44-e7e1-4ae1-aaee-350e43101e8e,2025-12-20,M006,ElectroShop VN,accessories,TH,product_not_received,13.1,visa,24.33,lost
+a27d550e-319f-4239-b0f5-c3ec70e173e3,2025-12-23,M008,PhoneMax ID,electronics,TH,fraud,10.5,visa,16.09,lost
+0f0e8464-c27b-4258-86fc-ba546d7caff3,2025-12-16,M001,TechZone PH,electronics,TH,fraud,10.2,ovo,28.64,open
+f06cabdf-1dd9-40ef-8410-7eed771f7de5,2025-12-02,M008,PhoneMax ID,electronics,PH,fraud,10.4,gcash,47.64,open
+946f691a-7784-4fac-88b2-4553bc9425b7,2025-12-25,M007,QuickGadgets,electronics,TH,product_not_received,13.1,visa,180.83,won
+d3670942-0398-4482-89a7-f481d8afd14f,2025-11-29,M008,PhoneMax ID,electronics,ID,fraud,10.2,gcash,38.75,lost
+271f68a5-4ee4-4d7a-adc8-98cd7607b960,2025-12-01,M056,MobileMall TH,gaming,VN,product_not_received,13.1,gopay,41.75,open
+789468ab-9020-44f0-adf4-30daee532bed,2025-11-29,M011,TechMart VN,electronics,TH,product_not_as_described,13.3,mastercard,30.97,open
+55b9290f-607d-4161-9a6f-2c583220572a,2025-11-30,M003,GamersParadise,gaming,ID,fraud,10.5,mastercard,8.0,open
+af78f79f-a1b5-44e4-a05b-ea55de57153c,2025-12-18,M018,TechPulse ID,accessories,ID,product_not_received,13.1,gopay,32.33,open
+38a566fd-bde7-419e-b0c6-4bd4af333d68,2025-12-03,M005,AccessoryWorld,accessories,VN,fraud,10.5,gopay,34.96,won
+ce5c46c8-0443-4109-bcfd-e38a26997d2a,2025-12-25,M053,AccessGear,mobile_phones,ID,fraud,10.5,bank_transfer,303.97,open
+2aef0849-7b6e-485f-bb1d-d1c271549891,2025-12-20,M006,ElectroShop VN,accessories,ID,fraud,10.5,gcash,27.85,won
+c8562fd9-3256-4fae-9309-043e4b7aaa60,2025-11-29,M058,TechPro VN,accessories,ID,fraud,10.2,mastercard,43.44,lost
+ed758163-f694-4e7f-a7f8-b47ba3767956,2025-12-09,M023,SmartStore,mobile_phones,VN,duplicate_processing,12.6,gcash,32.1,won
+553a753d-2d93-4abb-b952-9a0cf3399f7a,2025-12-02,M051,GameMart VN,mobile_phones,TH,fraud,10.4,gopay,11.57,won
+4fbea10e-a103-488e-83fa-49b6af6da40b,2025-12-07,M003,GamersParadise,gaming,PH,product_not_received,13.1,visa,92.62,open
+9d42da2c-084f-4d60-90c6-3feab8a15da6,2025-12-27,M006,ElectroShop VN,accessories,ID,fraud,10.5,visa,65.15,won
+47330103-9a58-443a-862f-2e1195f122a8,2025-12-08,M005,AccessoryWorld,accessories,TH,fraud,10.4,visa,67.49,lost
+83a1bc4a-9041-4f89-ae1a-6172b83ac11e,2025-12-10,M052,PhonePro ID,gaming,ID,product_not_as_described,13.3,bank_transfer,14.61,lost
+c76ea894-5fc7-440d-8650-67a4b6712de1,2025-12-19,M002,GadgetHub ID,electronics,ID,subscription_cancelled,13.2,visa,117.04,won
+b77dece4-625d-4f16-b5ec-c2e5c9480503,2025-12-13,M015,SmartGadgets,electronics,TH,product_not_as_described,13.3,mastercard,9.38,won
+b48ac7f5-2a90-4dda-bc99-22f3ce163a0f,2025-12-07,M008,PhoneMax ID,electronics,PH,fraud,10.2,visa,56.16,lost
+123ea6b4-87d6-4a4a-a1e5-b098ad8a79e3,2025-12-05,M008,PhoneMax ID,electronics,VN,product_not_received,13.1,visa,237.8,open
+1bee7012-698f-4506-bd6c-be2109aa68c0,2025-12-11,M053,AccessGear,mobile_phones,ID,duplicate_processing,12.6,mastercard,13.58,lost
+14f38143-36ba-410c-8351-d64ec05662ec,2025-12-06,M048,MobileGear ID,electronics,TH,product_not_received,13.1,gcash,19.89,open
+96b656d7-fccc-441f-aec6-f9dbe4e623c3,2025-12-19,M006,ElectroShop VN,accessories,PH,fraud,10.5,visa,36.22,open
+51d6fae7-73d8-4a03-b7c9-c1ba266b6359,2025-12-24,M002,GadgetHub ID,electronics,ID,fraud,10.2,mastercard,21.05,lost
+fc83e006-10c2-4f78-a018-228bef762687,2025-12-02,M006,ElectroShop VN,accessories,PH,product_not_received,13.1,gopay,8.2,open
+bc12447c-576b-45b2-832f-f079f7a5e498,2025-12-05,M004,MobileKing TH,accessories,TH,product_not_as_described,13.3,visa,35.22,lost
+a5ac9299-1c14-422b-ad3e-c1e1c9d66bf3,2025-12-15,M003,GamersParadise,gaming,PH,fraud,10.4,ovo,12.73,lost
+3dcd19a2-e2f9-4bf1-af30-3b4a5875da67,2025-12-05,M006,ElectroShop VN,accessories,VN,fraud,10.4,visa,50.72,lost
+7d217124-2d49-4e30-9da5-8b1e3ac32caa,2025-11-30,M042,TechStore,gaming,ID,product_not_received,13.1,visa,14.48,open
+229467fe-1947-4c51-94ef-5908447e464e,2025-12-27,M001,TechZone PH,electronics,ID,product_not_received,13.1,mastercard,133.61,lost
+55513bec-6291-41d5-ab9e-602424be40a8,2026-01-10,M008,PhoneMax ID,electronics,VN,duplicate_processing,12.6,mastercard,16.36,lost
+cc1fa7d3-b8b4-424e-90e1-6367cc9c0756,2025-12-30,M029,AccessZone,electronics,PH,product_not_received,13.1,gopay,24.78,won
+d97822d8-5d71-418c-9d90-330fe63426f4,2026-01-16,M005,AccessoryWorld,accessories,PH,fraud,10.2,gopay,68.87,won
+0391d869-20b9-40d4-b74b-f805e6e81d3e,2026-01-10,M055,SmartGear VN,accessories,TH,product_not_received,13.1,gcash,10.94,lost
+fcadee3f-61b5-46bf-a3b7-5ef4ae8e1119,2026-01-07,M002,GadgetHub ID,electronics,TH,product_not_received,13.1,mastercard,40.64,open
+0514964a-70ff-4dbd-8753-ea26b11207f9,2025-12-30,M002,GadgetHub ID,electronics,TH,product_not_received,13.1,bank_transfer,107.39,lost
+fcbd54c6-e0c9-42ef-b5b5-1964123dc72b,2026-01-10,M006,ElectroShop VN,accessories,PH,product_not_received,13.1,ovo,8.0,won
+7b07a07d-6dfb-4ec8-a5ae-549e51254871,2026-01-16,M012,CoolPhone TH,electronics,PH,fraud,10.2,truemoney,39.1,lost
+51d5974b-324b-4617-8ec2-3ff2d0f44728,2026-01-08,M004,MobileKing TH,accessories,ID,fraud,10.4,mastercard,41.84,lost
+cfa8140b-5bd5-47b0-b757-087dd7b068cc,2026-01-21,M007,QuickGadgets,electronics,ID,product_not_as_described,13.3,visa,66.93,lost
+66aa6a10-449c-4f8b-a04f-39e0a8b76e53,2026-01-19,M001,TechZone PH,electronics,TH,product_not_as_described,13.3,gopay,10.88,open
+9bfb6883-aa9a-462d-99e1-0def152804e2,2026-01-20,M007,QuickGadgets,electronics,ID,product_not_as_described,13.3,mastercard,10.09,open
+e8c8b373-0490-402b-86b6-d5e9eb6ca5c6,2026-01-08,M008,PhoneMax ID,electronics,PH,product_not_received,13.1,visa,52.97,open
+256114b3-a10a-43c4-b55b-a52eef9baf3f,2026-01-21,M001,TechZone PH,electronics,PH,fraud,10.5,ovo,43.26,open
+171b1806-a29c-4345-b8ca-db716e29abd4,2026-01-03,M008,PhoneMax ID,electronics,TH,product_not_received,13.1,visa,41.49,open
+4cbe9981-8073-40a4-ae79-64f60754a575,2026-01-06,M008,PhoneMax ID,electronics,ID,product_not_as_described,13.3,visa,45.23,won
+83b94ba9-3e63-4725-b8d2-080df900f13f,2026-01-21,M004,MobileKing TH,accessories,ID,fraud,10.5,bank_transfer,17.96,lost
+fde78f2e-65c8-423c-93b2-0ed5d8ef7df6,2026-01-19,M003,GamersParadise,gaming,PH,fraud,10.5,visa,40.81,open
+f8f978b9-2675-4663-aff6-10e86324e258,2026-01-11,M001,TechZone PH,electronics,TH,fraud,10.2,gcash,43.11,open
+adf2e769-04e7-4a2d-a57b-4ee9888504bf,2026-01-09,M007,QuickGadgets,electronics,PH,duplicate_processing,12.6,mastercard,17.41,open
+fefd8712-733b-4ee3-a2e4-f010d6e63b3f,2026-01-24,M006,ElectroShop VN,accessories,VN,fraud,10.5,visa,177.54,open
+408e154a-14bb-4f26-b994-2373a9a06dc1,2026-01-04,M005,AccessoryWorld,accessories,PH,fraud,10.5,mastercard,50.73,lost
+e5e48aaa-4c80-4830-b141-40b823ea0978,2026-01-08,M004,MobileKing TH,accessories,PH,fraud,10.4,visa,11.33,lost
+841fe754-1191-4292-b88b-d12544400ddf,2026-01-01,M004,MobileKing TH,accessories,ID,fraud,10.2,ovo,59.79,open
+47a3ab81-da19-49bc-8de7-07f904dd761c,2026-01-25,M008,PhoneMax ID,electronics,TH,product_not_as_described,13.3,visa,13.77,won
+46589c3e-aaf7-4ac4-94ea-af3522620d98,2026-01-17,M002,GadgetHub ID,electronics,PH,product_not_received,13.1,gcash,67.25,won
+fa2e579e-5790-4e4e-a743-41bac42d74fc,2025-12-29,M008,PhoneMax ID,electronics,ID,fraud,10.5,mastercard,93.95,won
+e5a06e37-1609-4c66-9bb1-8819d694a723,2026-01-09,M048,MobileGear ID,electronics,VN,fraud,10.5,visa,15.82,won
+8f442a3f-33ab-46bc-9d3f-4eafe961a725,2026-01-13,M006,ElectroShop VN,accessories,TH,product_not_received,13.1,mastercard,78.81,won
+c16b6684-8233-4398-bf66-36e1db4eb705,2026-01-17,M054,ElectroStore PH,gaming,TH,fraud,10.4,mastercard,48.01,open
+cd6c8374-4b33-4576-ab24-7581c28bb2b2,2026-01-26,M003,GamersParadise,gaming,VN,fraud,10.4,gopay,69.4,open
+3235f489-2545-48d7-8727-e5a0101e1c93,2025-12-31,M006,ElectroShop VN,accessories,TH,fraud,10.5,ovo,182.57,open
+9e589783-fb00-4b91-86f4-0ecbafa2d2c6,2026-01-15,M003,GamersParadise,gaming,TH,product_not_received,13.1,visa,26.55,open
+1dd7aac5-96be-468a-8c09-3b23464ad1f0,2025-12-30,M003,GamersParadise,gaming,TH,product_not_received,13.1,visa,16.8,won
+38e51457-7c09-4662-a57e-9da966f53686,2026-01-10,M002,GadgetHub ID,electronics,ID,fraud,10.5,gopay,14.87,won
+402a0ad6-26d9-43f7-a205-4d0ec0e8ae2f,2026-01-01,M008,PhoneMax ID,electronics,ID,product_not_received,13.1,mastercard,15.89,open
+b9061494-c3cb-49c3-89c0-fed59d97f6a8,2025-12-29,M056,MobileMall TH,gaming,ID,fraud,10.5,gcash,30.9,lost
+b27ae948-1095-4de4-9086-ec50ef3328cf,2025-12-29,M003,GamersParadise,gaming,ID,product_not_received,13.1,mastercard,45.02,lost
+8d0e87b3-4999-4f2d-951d-e0187e970a7d,2026-01-14,M059,GameStore PH,gaming,PH,product_not_received,13.1,bank_transfer,42.48,open
+92868dca-03d2-4735-b631-d410d52e970a,2026-01-06,M008,PhoneMax ID,electronics,ID,fraud,10.5,truemoney,69.72,won
+c8d2a76d-2d72-4e42-82a2-aaff7b4997d5,2025-12-29,M017,GearUp PH,mobile_phones,TH,product_not_as_described,13.3,bank_transfer,33.51,lost
+056fd09b-2ed6-43ae-accb-5db035c4f093,2026-01-21,M016,MobileHub,accessories,ID,product_not_received,13.1,mastercard,122.51,open
+ec5fa631-ef95-4fe4-83b8-525ccf907144,2026-01-25,M004,MobileKing TH,accessories,ID,fraud,10.5,truemoney,26.1,lost
+2fba2a59-d54c-481f-b909-736670372812,2026-01-08,M007,QuickGadgets,electronics,ID,fraud,10.4,mastercard,383.04,lost
+5b90f8a2-18ac-43c8-91cc-9481b6d01604,2026-01-06,M003,GamersParadise,gaming,TH,fraud,10.5,truemoney,58.15,open
+39ed6a7d-88ff-4dff-92e5-8c4b9a33fe65,2026-01-25,M008,PhoneMax ID,electronics,ID,duplicate_processing,12.6,gopay,15.31,won
+1f21fbda-2cfd-4a19-9958-da010e6c0b80,2025-12-31,M047,SmartZone,gaming,ID,fraud,10.5,visa,12.63,won
+1ad1c190-4f93-4eba-8f8e-e1304b98853a,2026-01-23,M008,PhoneMax ID,electronics,ID,product_not_as_described,13.3,visa,51.12,open
+f8adb586-a0c4-408d-aae7-a53c621e9a71,2026-01-16,M005,AccessoryWorld,accessories,PH,duplicate_processing,12.6,gopay,27.08,open
+9da57b9b-1336-4f94-ab7c-d4a2c857501d,2026-01-13,M006,ElectroShop VN,accessories,TH,fraud,10.2,mastercard,62.97,open
+20de87df-3af5-4491-a59b-019d6769b370,2025-12-28,M006,ElectroShop VN,accessories,PH,product_not_received,13.1,mastercard,50.7,open
+9cb26158-ce4a-42db-94fd-0f9c46580b71,2026-01-08,M006,ElectroShop VN,accessories,TH,fraud,10.4,visa,31.01,open
+dfc76315-aa08-4ad6-b1a1-7ff10f06a02e,2026-01-22,M039,SmartMart TH,mobile_phones,TH,product_not_received,13.1,gcash,15.45,won
+292ef866-1c46-41c9-aeb8-fe59abd87241,2026-01-25,M001,TechZone PH,electronics,PH,fraud,10.2,ovo,8.47,lost
+225eeea1-d5ee-4f67-b7d2-b621a332c5df,2026-01-17,M005,AccessoryWorld,accessories,VN,fraud,10.5,mastercard,22.16,open
+fb88b46f-0632-4942-9fb7-27aa3363e98a,2026-01-08,M005,AccessoryWorld,accessories,ID,fraud,10.5,gcash,71.58,open
+cf836c6d-4a12-4070-b9d7-d66ad8035b8c,2026-01-12,M003,GamersParadise,gaming,VN,product_not_received,13.1,ovo,40.15,won
+abb54ddf-310c-4d54-af2f-90279b214068,2026-01-23,M007,QuickGadgets,electronics,ID,fraud,10.2,visa,10.79,won
+973e2dbc-0c05-4e37-80cd-0e326c410f06,2026-01-19,M005,AccessoryWorld,accessories,ID,fraud,10.5,visa,38.7,open
+32e11a25-dfdf-41f7-8316-6a4f693e7d48,2026-01-10,M031,SmartHub VN,mobile_phones,ID,product_not_received,13.1,mastercard,46.84,won
+b1c947f3-7744-4859-87e8-aed19fbd224a,2026-01-01,M003,GamersParadise,gaming,PH,fraud,10.4,visa,14.95,lost
+d4e746cc-4d47-4fed-8722-814a117e75d3,2026-01-15,M032,MobileZone ID,electronics,ID,product_not_as_described,13.3,visa,38.03,open
+999e1533-da05-4075-8dc8-75e2db798771,2026-01-13,M002,GadgetHub ID,electronics,VN,fraud,10.4,gopay,34.9,won
+389f0952-ff59-47f4-8644-e927760a2e51,2026-01-09,M003,GamersParadise,gaming,ID,fraud,10.5,gopay,11.84,won
+49a8aaf0-84c7-41a8-94a7-815ccfea27d8,2026-01-12,M005,AccessoryWorld,accessories,ID,duplicate_processing,12.6,visa,45.7,won
+5dead54e-f971-423b-b9b1-6a3360a8ee74,2026-01-22,M037,AccessMart,mobile_phones,PH,fraud,10.4,gcash,54.86,lost
+4c780da7-3731-4f7c-831b-16abe4fa1b83,2026-01-24,M005,AccessoryWorld,accessories,TH,product_not_received,13.1,gopay,87.77,lost
+86cff05c-9a8c-46f3-8a8f-14b9f7865e0f,2026-01-03,M041,GadgetMall VN,gaming,PH,fraud,10.2,truemoney,85.49,open
+7512b8e0-f8ed-4a0e-ab18-5a24356eefa8,2026-01-14,M006,ElectroShop VN,accessories,ID,product_not_as_described,13.3,ovo,9.58,won
+db6ffccb-e900-4145-b65e-d9b8bc9fbabd,2026-01-21,M008,PhoneMax ID,electronics,ID,fraud,10.4,visa,14.24,won
+413cb89e-d006-4dc0-8313-01cd3713fdc4,2026-01-08,M008,PhoneMax ID,electronics,ID,product_not_received,13.1,visa,52.64,won
+90b2c4f9-61c4-4950-a7fb-cc6ad568f2bd,2026-01-24,M036,PhoneHub VN,electronics,ID,fraud,10.2,gopay,52.58,won
+bc56235f-91ac-4515-a04f-633038180b5f,2026-01-13,M004,MobileKing TH,accessories,ID,fraud,10.4,mastercard,52.64,open
+0912f675-b566-46fd-8dd9-24023d9e8129,2026-01-16,M003,GamersParadise,gaming,PH,duplicate_processing,12.6,visa,450.0,won
+da274d68-1818-47d2-a357-f1fb8588eb09,2026-01-15,M006,ElectroShop VN,accessories,PH,product_not_received,13.1,mastercard,55.36,lost
+02922310-d09a-4165-80a7-f98150de3c6a,2026-01-21,M025,GadgetPro TH,gaming,VN,fraud,10.4,visa,92.02,won
+44cb220c-924c-4403-8ede-09217dd615f3,2026-01-22,M005,AccessoryWorld,accessories,PH,product_not_received,13.1,mastercard,78.15,won
+36d30c84-ed3f-44d4-b046-a82f63e8e6a2,2026-01-11,M008,PhoneMax ID,electronics,ID,product_not_as_described,13.3,visa,59.52,open
+90b41317-c9bc-450e-870c-ea518c696e94,2026-01-01,M006,ElectroShop VN,accessories,VN,fraud,10.2,visa,24.93,lost
+0d60d921-14ff-41ac-8158-ca0445609198,2025-12-29,M004,MobileKing TH,accessories,PH,product_not_as_described,13.3,visa,65.57,open
+5d98a548-a3dc-4d40-b51e-97d78a3910d6,2026-01-26,M019,GameStop VN,mobile_phones,PH,fraud,10.5,gcash,16.52,lost
+f55d0d2d-a62a-4d38-9e08-846497ef2aa7,2026-01-06,M038,ElectroZone ID,electronics,ID,product_not_received,13.1,visa,26.76,won
+f50de1f7-87f4-47f8-a77a-faf6bff1f138,2025-12-29,M022,ElectroMall,accessories,PH,product_not_received,13.1,truemoney,21.4,won
+48c86d7b-f10a-4c88-89cf-87233a4cf8d5,2026-01-24,M005,AccessoryWorld,accessories,TH,fraud,10.5,mastercard,35.65,won
+8560c04d-911d-413f-8af4-bca4c4e17585,2025-12-29,M032,MobileZone ID,electronics,TH,fraud,10.4,gcash,265.92,open
+26eed501-ebe1-4b3b-8388-1e3faf73ab4b,2026-01-05,M008,PhoneMax ID,electronics,ID,product_not_received,13.1,mastercard,8.0,lost
+229a9132-333e-4fe4-affc-697c67ddbd04,2026-01-08,M006,ElectroShop VN,accessories,ID,product_not_as_described,13.3,visa,61.41,won
+8d923bbf-948f-41e7-9259-fb696f4fbba3,2026-01-07,M001,TechZone PH,electronics,PH,product_not_as_described,13.3,gopay,8.0,open
+a1d656b2-282c-4f11-a7c3-1cf25d14e3c3,2026-01-16,M006,ElectroShop VN,accessories,VN,product_not_as_described,13.3,visa,21.66,open
+09fdbbd6-6227-4b31-86bd-416bc31e6c8c,2026-01-06,M008,PhoneMax ID,electronics,PH,product_not_as_described,13.3,mastercard,88.24,lost
+d89dad0b-3b2e-455d-97ae-0fae7ddd34c2,2026-01-25,M046,ElectroHub VN,accessories,TH,product_not_received,13.1,mastercard,35.09,open
+bfa060ee-e704-454e-a9ee-22bc7a8c73a0,2026-01-15,M004,MobileKing TH,accessories,ID,product_not_as_described,13.3,mastercard,12.55,lost
+089638a8-e305-45a1-8b42-bb00fcc37842,2026-01-11,M002,GadgetHub ID,electronics,TH,product_not_received,13.1,visa,17.4,open
+df1bf758-ec7d-4c15-a940-a828fc64f947,2026-01-20,M008,PhoneMax ID,electronics,ID,fraud,10.4,mastercard,61.05,lost
+6a8e047d-0c4d-47d0-b00f-fdf57d6e67eb,2026-01-07,M039,SmartMart TH,mobile_phones,PH,product_not_as_described,13.3,mastercard,17.16,won
+bb50fe48-1668-4f64-a033-0682bc4338bd,2026-01-03,M005,AccessoryWorld,accessories,ID,subscription_cancelled,13.2,truemoney,40.24,won
+f5212743-b0c5-4335-9ded-638e70622564,2026-01-19,M028,PhoneMart PH,gaming,ID,subscription_cancelled,13.2,mastercard,34.5,lost
+4e255480-ebe0-46e3-a48f-fe6faa2a6b94,2026-01-15,M005,AccessoryWorld,accessories,PH,fraud,10.2,mastercard,18.42,open
+ff858f36-29eb-4155-ae3c-69ef13b6d5c1,2026-01-06,M003,GamersParadise,gaming,ID,product_not_received,13.1,gcash,228.05,open
+11ec46e2-8eb8-4a34-936f-3598d14b88fe,2026-01-23,M008,PhoneMax ID,electronics,PH,subscription_cancelled,13.2,visa,58.59,open
+754062eb-a99c-4720-a08b-f586af5407ce,2026-01-25,M004,MobileKing TH,accessories,PH,product_not_received,13.1,visa,8.0,open
+c66d56ef-9e96-4d09-a4f6-7b40032e86e6,2026-01-01,M002,GadgetHub ID,electronics,PH,product_not_received,13.1,visa,39.17,won
+dc06e3f9-7f6b-44ce-80b2-2a4ae3413e00,2026-01-03,M008,PhoneMax ID,electronics,ID,fraud,10.2,bank_transfer,18.25,won
+639049d4-d5e1-4549-91d5-43c615df993d,2026-01-04,M014,ElectraBuy,accessories,PH,product_not_as_described,13.3,visa,71.32,won
+603c6aa4-6c4f-4046-9e4f-d71e89d6593e,2025-12-29,M020,PhoneZone TH,gaming,ID,product_not_received,13.1,truemoney,16.23,lost
+c4d051e6-2942-425d-a5e6-429a70ef9674,2025-12-28,M027,GameWorld,accessories,ID,subscription_cancelled,13.2,ovo,29.87,lost
+826f411f-d4ba-4dbf-8496-bb1d2232a254,2026-01-01,M008,PhoneMax ID,electronics,VN,fraud,10.2,visa,52.17,lost
+95cb4b98-1d2a-4c48-8d8f-1a7123149ecf,2026-01-19,M008,PhoneMax ID,electronics,TH,duplicate_processing,12.6,visa,72.18,won
+ca67294c-1725-42ef-835d-f23dca2c3bd4,2026-01-24,M004,MobileKing TH,accessories,ID,fraud,10.2,visa,11.24,open
+42869e59-40b2-44fb-8cc9-d9d734f2d398,2026-01-01,M002,GadgetHub ID,electronics,PH,product_not_received,13.1,gcash,24.51,open
+c330af56-a7e3-464d-b0f4-4b7ff9a4479c,2026-01-06,M005,AccessoryWorld,accessories,ID,product_not_received,13.1,visa,21.6,lost
+7f0d26a9-ff43-4d57-adba-c9c0661274ce,2026-01-02,M002,GadgetHub ID,electronics,ID,product_not_received,13.1,visa,18.39,won
+d2680193-baa0-4790-a570-64ce75f3d44f,2026-01-04,M032,MobileZone ID,electronics,PH,product_not_received,13.1,gopay,162.21,won
+78dbd593-8235-4ed9-b419-e0251d6bd362,2026-01-26,M007,QuickGadgets,electronics,TH,subscription_cancelled,13.2,visa,47.68,lost
+e555d9a8-5903-4ec3-9a16-864ccaf0ac1d,2026-01-13,M002,GadgetHub ID,electronics,TH,product_not_received,13.1,ovo,10.65,won
+0890c7d8-b9a8-4131-b7cd-eda14f7355d4,2026-01-14,M041,GadgetMall VN,gaming,ID,product_not_as_described,13.3,truemoney,75.65,open
+2db7ee42-8f70-49b3-b138-255e700b36ae,2026-01-13,M008,PhoneMax ID,electronics,PH,fraud,10.5,gcash,223.62,open
+f4227d0f-6a08-48f7-87fd-f2de9c93630e,2026-01-18,M001,TechZone PH,electronics,PH,product_not_received,13.1,mastercard,83.87,won
+3051e763-218a-45a0-9cf8-7437af1914af,2026-01-10,M046,ElectroHub VN,accessories,TH,product_not_as_described,13.3,mastercard,8.44,open
+9f8e6658-a17d-482f-975e-021dca6ae94d,2026-01-10,M039,SmartMart TH,mobile_phones,ID,fraud,10.4,mastercard,21.42,open
+48a74740-ffbb-4fb9-9b95-cf52caf9d21a,2026-01-25,M007,QuickGadgets,electronics,VN,fraud,10.4,ovo,103.57,open
+0bc46193-d55f-45c2-938d-4684853c24f9,2026-01-08,M003,GamersParadise,gaming,TH,fraud,10.5,mastercard,17.52,won
+7ef8b315-72be-4d09-8d54-75ca6486799f,2026-01-06,M009,DigiStore,mobile_phones,ID,fraud,10.2,mastercard,49.37,lost
+7de03cde-e457-41ec-9e13-32a0e29f7ef2,2026-01-03,M006,ElectroShop VN,accessories,TH,product_not_received,13.1,mastercard,66.5,open
+ba385ff3-a52a-404c-802a-2178954fd43d,2025-12-30,M001,TechZone PH,electronics,TH,subscription_cancelled,13.2,visa,14.38,open
+6694e9bb-1802-4b80-b175-684a9ea79085,2026-01-09,M024,MobilePro VN,gaming,TH,fraud,10.4,mastercard,31.39,lost
+dd20db1a-bf04-442f-95af-4b721d6b6d40,2026-01-26,M005,AccessoryWorld,accessories,TH,product_not_received,13.1,ovo,8.0,open
+061a8577-ac59-4b68-890e-1edf87eedd24,2026-01-01,M024,MobilePro VN,gaming,TH,product_not_as_described,13.3,mastercard,13.17,open
+179edd52-ecad-4695-a1b9-a21c6a0704dd,2026-01-10,M003,GamersParadise,gaming,ID,subscription_cancelled,13.2,mastercard,26.38,won
+9ece4f70-da84-4dde-af01-2e1a71d0cef3,2026-01-10,M006,ElectroShop VN,accessories,VN,product_not_received,13.1,bank_transfer,10.77,won
+de552c8b-72ab-4fee-bb5a-a94dfc26ac9f,2026-01-19,M004,MobileKing TH,accessories,PH,fraud,10.5,visa,143.91,open
+8ded495c-0481-49dc-a358-b26c040a7a90,2026-01-09,M044,PhoneStore TH,electronics,PH,fraud,10.5,truemoney,9.14,won
+483563bb-75d4-4878-822f-f757043b6a13,2026-01-20,M006,ElectroShop VN,accessories,ID,fraud,10.4,visa,22.29,open
+428dcac5-e9b4-4abe-8565-5b172393e4aa,2026-01-21,M002,GadgetHub ID,electronics,TH,product_not_as_described,13.3,visa,37.25,open
+e478b27e-9a70-4071-9250-f24da513334f,2026-01-03,M001,TechZone PH,electronics,VN,product_not_received,13.1,mastercard,121.16,open
+c940f22d-e442-4009-8a8a-d8553c33b63c,2026-01-03,M053,AccessGear,mobile_phones,TH,subscription_cancelled,13.2,ovo,9.09,won
+4e8d6997-0bb7-4653-bd4d-1d7023208610,2026-01-08,M006,ElectroShop VN,accessories,TH,fraud,10.4,mastercard,94.33,open
+205ca408-7ddd-4d45-a7a7-7d6837c16079,2026-01-26,M057,GadgetGear ID,gaming,TH,product_not_received,13.1,mastercard,33.42,lost
+d0fafaeb-7d3b-4e1c-a397-3142207bc577,2026-01-14,M003,GamersParadise,gaming,PH,fraud,10.5,mastercard,13.69,open
+9186cd09-53ef-4acd-b08d-0d3f3913bb03,2026-01-17,M004,MobileKing TH,accessories,ID,subscription_cancelled,13.2,visa,50.19,won
+26d350d0-64e5-40c1-bef3-089b60887d30,2026-01-11,M050,TechMall TH,electronics,TH,subscription_cancelled,13.2,visa,39.61,lost
+60c98733-677e-450d-bcd6-e7d777876df6,2026-01-23,M001,TechZone PH,electronics,TH,fraud,10.5,visa,19.29,won
+a7434568-261b-4726-9bb3-1866049913f6,2026-01-01,M023,SmartStore,mobile_phones,PH,product_not_as_described,13.3,ovo,35.26,open
+23a63e47-5008-45c2-8d75-9bbe6442373d,2025-12-28,M008,PhoneMax ID,electronics,ID,fraud,10.2,mastercard,23.41,won
+63d00dee-ed56-4a96-9269-6bc8475cfd2c,2025-12-28,M043,GameHub ID,accessories,ID,fraud,10.2,mastercard,36.68,lost
+0f12d447-d81b-4154-8a56-ad44348989e5,2026-01-04,M002,GadgetHub ID,electronics,VN,product_not_received,13.1,ovo,60.09,won
+dc12cc1e-ca02-435a-9af4-923d063397ba,2026-01-09,M014,ElectraBuy,accessories,ID,fraud,10.2,visa,138.02,open
+385aae6b-9a9f-4caa-8f1e-9c0548f6b1fc,2026-01-24,M002,GadgetHub ID,electronics,ID,product_not_received,13.1,bank_transfer,10.87,won
+39f1464b-8022-4cef-9e98-dee490e905a2,2026-01-19,M001,TechZone PH,electronics,ID,product_not_received,13.1,visa,225.82,won
+eb0666a4-feef-48c8-b496-9f504431516b,2026-01-26,M002,GadgetHub ID,electronics,PH,fraud,10.5,gcash,8.0,lost
+f5d55129-f4f6-4694-810c-3d295b41be3d,2025-12-30,M005,AccessoryWorld,accessories,TH,fraud,10.4,truemoney,28.89,open
+62214f95-fa1d-4769-8c79-77d3f5a0864f,2026-01-03,M006,ElectroShop VN,accessories,PH,product_not_received,13.1,gcash,56.23,open
+c906b757-b2de-4419-86d8-5bbe9c56b8a1,2026-01-14,M007,QuickGadgets,electronics,ID,product_not_received,13.1,truemoney,42.64,won
+22685e9e-ade5-4d3f-b621-5eeed512c7f9,2026-01-08,M041,GadgetMall VN,gaming,VN,fraud,10.2,visa,18.91,lost
+c37c4f6b-be9d-48e2-ad7a-ea81c2a7d55f,2026-01-07,M007,QuickGadgets,electronics,ID,fraud,10.5,visa,27.46,lost
+51b41fe7-28bd-4d76-8ed7-8b2bf54cd8f2,2026-01-18,M007,QuickGadgets,electronics,PH,fraud,10.5,ovo,21.25,open
+cf7ff074-9399-4dde-8a79-536feeac09e2,2026-01-05,M054,ElectroStore PH,gaming,PH,product_not_received,13.1,visa,19.48,open
+9dd8b157-69ab-49ab-a77f-4036cbe6cfef,2025-12-28,M006,ElectroShop VN,accessories,ID,fraud,10.2,ovo,71.14,open
+eac15b6e-a8f7-4ac3-bec6-d2734f34945f,2026-01-14,M003,GamersParadise,gaming,ID,subscription_cancelled,13.2,mastercard,45.66,open
+0f5a692e-3901-48aa-ad90-0b16d5aca039,2025-12-28,M006,ElectroShop VN,accessories,ID,product_not_received,13.1,visa,17.75,lost
+3e6f9803-e18c-49fd-8f38-c99e2cdc1fb7,2026-01-02,M004,MobileKing TH,accessories,TH,fraud,10.5,ovo,74.41,won
+250228d5-ee3e-45ab-86f7-ee061a558727,2026-01-05,M002,GadgetHub ID,electronics,ID,product_not_received,13.1,visa,43.67,open
+9cb6ea42-54db-4b53-a508-93ef891f7435,2026-01-16,M055,SmartGear VN,accessories,ID,product_not_received,13.1,ovo,68.83,won
+18995b91-0ec2-41a7-b050-b9de06690193,2026-01-09,M030,ElectroGo,electronics,ID,product_not_received,13.1,visa,58.36,lost
+d16aa638-9c55-4872-b9f5-e167596cef49,2026-01-01,M050,TechMall TH,electronics,PH,product_not_as_described,13.3,mastercard,15.7,lost
+6b256b14-46b1-477b-9b91-a9d5bf76ba10,2026-01-06,M007,QuickGadgets,electronics,ID,fraud,10.2,truemoney,20.0,lost
+9350df55-698b-46e7-8d68-14f6d5b497d5,2026-01-09,M005,AccessoryWorld,accessories,TH,product_not_as_described,13.3,bank_transfer,64.88,lost
+124e0106-8445-49c3-82c4-423765495ed3,2026-01-11,M001,TechZone PH,electronics,VN,fraud,10.2,visa,57.36,lost
+c55dc140-2b9a-40db-bc5d-55e8ec285d46,2026-01-01,M007,QuickGadgets,electronics,ID,subscription_cancelled,13.2,mastercard,32.5,won
+678d8051-c00e-4048-adbf-1f0ad3445730,2026-01-16,M007,QuickGadgets,electronics,ID,product_not_received,13.1,visa,36.8,open
+5afd655a-c656-47f6-aa47-480becad6a06,2026-01-22,M035,GameZone,gaming,VN,product_not_received,13.1,mastercard,104.57,won
+94e51dcc-4d10-4c44-a685-f132d6af1b68,2025-12-29,M003,GamersParadise,gaming,ID,subscription_cancelled,13.2,visa,19.44,won
+c9f2a38b-b608-41d3-8e15-06a521fd2c3e,2026-01-05,M015,SmartGadgets,electronics,ID,product_not_received,13.1,bank_transfer,54.18,open
+4367df63-61b1-4763-a04f-df95126e1240,2026-01-11,M008,PhoneMax ID,electronics,PH,fraud,10.2,mastercard,27.61,open
+dcdc508a-d8f4-488d-a614-abd98a5c4603,2025-12-30,M007,QuickGadgets,electronics,ID,product_not_as_described,13.3,visa,27.22,lost
+8f7fcadc-1520-4b95-bb56-d93ebf7cbb03,2026-01-08,M004,MobileKing TH,accessories,ID,fraud,10.2,visa,89.02,won
+df9980dc-fb0c-4446-af14-dc5d51eda543,2025-12-31,M001,TechZone PH,electronics,PH,product_not_received,13.1,ovo,69.61,lost
+9f3b0a26-0ee9-4693-a27a-b753a8342bfb,2026-01-14,M004,MobileKing TH,accessories,TH,fraud,10.5,gopay,68.87,won
+2d1d0f1a-49af-4f01-89fc-bf5ff693104a,2026-01-17,M049,GadgetZone PH,accessories,PH,fraud,10.2,mastercard,107.23,open
+efeb9adc-8ce1-42c2-911a-126b46f2625f,2026-01-19,M007,QuickGadgets,electronics,PH,product_not_received,13.1,visa,33.75,open
+99893ee8-ecb5-466d-aba6-83bb93c4fb12,2026-01-14,M002,GadgetHub ID,electronics,TH,fraud,10.5,ovo,61.18,lost
+3ca4eea3-3d7b-4eed-87c3-966be73c0162,2026-01-17,M008,PhoneMax ID,electronics,ID,fraud,10.5,visa,25.05,won
+abf26b3e-0afc-4ab6-85be-214a4b6f4582,2026-01-23,M008,PhoneMax ID,electronics,PH,fraud,10.5,gopay,44.33,won
+8b7e0453-6563-4fb0-9df2-addb5e94e12e,2026-01-06,M006,ElectroShop VN,accessories,PH,product_not_received,13.1,truemoney,29.46,open
+f9a81e17-513c-47c8-a2e7-4b7eee9efac1,2026-01-10,M003,GamersParadise,gaming,PH,fraud,10.5,gopay,36.14,won
+85d959f3-50a6-4e1c-be1e-cedfd04301ca,2026-01-12,M020,PhoneZone TH,gaming,VN,fraud,10.2,mastercard,56.58,won
+76b62d08-63ae-440d-9684-644ed1651d60,2026-01-12,M006,ElectroShop VN,accessories,PH,fraud,10.4,visa,15.86,lost
+88ff69a8-931a-43ca-a529-6f3f8b93d531,2026-01-23,M008,PhoneMax ID,electronics,PH,fraud,10.5,bank_transfer,217.71,open
+8c095aa3-c21f-4b9b-9877-2276c6b1a3a6,2026-01-04,M027,GameWorld,accessories,ID,product_not_received,13.1,visa,13.39,open
+4b810dad-7730-416b-89d5-0432ba3ae287,2025-12-31,M040,MobileStore PH,electronics,PH,product_not_received,13.1,ovo,11.1,won
+ec219fa5-4d4b-4362-8e27-6a65b2a6f52f,2026-01-11,M001,TechZone PH,electronics,TH,product_not_received,13.1,ovo,93.91,lost
+f499d3c3-f6e4-4768-8bd3-b2aba2ee54fd,2025-12-29,M028,PhoneMart PH,gaming,TH,product_not_received,13.1,visa,67.52,lost
+c825431a-6d25-4e72-993f-741e2eec22df,2026-01-04,M016,MobileHub,accessories,ID,product_not_received,13.1,gcash,58.07,lost
+fa2c8b46-3bb5-42ef-b8aa-7778df6f7d13,2026-01-01,M007,QuickGadgets,electronics,ID,fraud,10.2,mastercard,58.29,open
+8df51df2-2de9-4ab7-9fe5-ec32fdd77822,2026-01-19,M003,GamersParadise,gaming,PH,product_not_as_described,13.3,ovo,32.75,open
+0f4c5457-7fee-42ce-8dcd-5d1a483659d6,2026-01-01,M052,PhonePro ID,gaming,VN,fraud,10.2,visa,14.77,lost
+421616a9-e7c0-4690-8b74-1053bf076797,2026-01-01,M017,GearUp PH,mobile_phones,VN,subscription_cancelled,13.2,truemoney,35.45,lost
+94db1c14-ad3b-4dbe-b362-2d7f5642906d,2026-01-15,M034,TechHub PH,gaming,ID,fraud,10.2,visa,18.0,won
+995f1a7a-526d-4f20-b56b-da31b8285f24,2026-01-13,M058,TechPro VN,accessories,ID,product_not_received,13.1,mastercard,79.65,open
+14a0b749-21be-431b-8a51-9e963ed96e30,2026-01-11,M002,GadgetHub ID,electronics,PH,product_not_as_described,13.3,mastercard,29.01,lost
+2deebbdb-0c5d-4e5a-a339-37b280788f10,2026-01-12,M007,QuickGadgets,electronics,TH,product_not_received,13.1,gcash,15.75,lost
+c224aefc-46d1-4af2-b9d8-71b0ccccbb5a,2026-01-25,M008,PhoneMax ID,electronics,PH,fraud,10.5,visa,24.8,lost
+cc6c7c36-dfae-4341-88be-e2c671e78ac0,2026-01-24,M010,GamingGear PH,electronics,PH,product_not_received,13.1,visa,48.02,open
+410d143f-fa60-40c1-806f-55d5bde54b37,2026-01-06,M003,GamersParadise,gaming,VN,fraud,10.5,visa,19.94,lost
+22d8e7ad-b7f0-42b9-b5d7-29d7fdc112ed,2026-01-17,M003,GamersParadise,gaming,ID,fraud,10.5,visa,15.8,open
+ff8c7972-3998-43d8-b2ba-186c669664d9,2026-01-12,M002,GadgetHub ID,electronics,PH,fraud,10.2,ovo,41.24,open
+4992c653-15fc-48b3-b915-545df9ca0ca1,2026-01-24,M006,ElectroShop VN,accessories,TH,fraud,10.2,visa,41.28,lost
+25a3d3ca-cd83-456c-95a7-9dea390a794f,2026-01-08,M002,GadgetHub ID,electronics,ID,product_not_received,13.1,mastercard,20.98,open
+ff1ace74-cb22-4917-9f1b-4afca0d48003,2026-01-01,M050,TechMall TH,electronics,TH,duplicate_processing,12.6,mastercard,21.67,lost
+c227a231-ee48-4d2c-aa2b-c5db75e70b5e,2026-01-01,M004,MobileKing TH,accessories,TH,fraud,10.2,visa,40.81,won
+7de76998-2490-4957-87d9-2fcf65f6e497,2026-01-09,M002,GadgetHub ID,electronics,ID,duplicate_processing,12.6,gcash,9.0,won
+1165c018-d3f4-4e0d-bc7c-d749b5caaeb3,2026-01-16,M002,GadgetHub ID,electronics,ID,fraud,10.5,visa,9.33,open
+6231c26e-e238-488e-9f36-ec80516a8166,2026-01-03,M051,GameMart VN,mobile_phones,TH,product_not_received,13.1,ovo,17.35,lost
+dfae7fb2-fe4c-44e9-bcc0-c3714e1223db,2025-12-31,M004,MobileKing TH,accessories,ID,product_not_received,13.1,ovo,27.33,won
+d9f8c83e-f4b6-4a43-9b04-53e7c9da58fb,2026-01-01,M032,MobileZone ID,electronics,PH,fraud,10.2,mastercard,43.81,lost
+2998667a-fc14-4095-a9a9-b7e48428e7ea,2026-01-21,M008,PhoneMax ID,electronics,PH,fraud,10.2,mastercard,124.94,lost
+86fbbc43-0ea0-465d-b30d-873dba0e5aeb,2026-01-09,M001,TechZone PH,electronics,ID,fraud,10.2,visa,71.66,lost
+69cfed1e-6438-46a7-aec3-755ca2ae15e3,2026-01-06,M003,GamersParadise,gaming,PH,product_not_received,13.1,mastercard,28.68,open
+5d0c0b32-eca0-4e45-9f65-da54f486dbef,2026-01-10,M002,GadgetHub ID,electronics,ID,fraud,10.4,bank_transfer,32.55,open
+a80ad7d9-6afb-4e97-9375-c816f53d8312,2025-12-29,M008,PhoneMax ID,electronics,ID,product_not_as_described,13.3,visa,13.43,won
+1c69ca1e-5b27-4daf-b368-e1a896d142cf,2026-01-02,M003,GamersParadise,gaming,ID,fraud,10.2,gopay,32.57,lost
+05aa9510-89c5-4c90-bee6-9e38cdcb7188,2026-01-20,M019,GameStop VN,mobile_phones,TH,product_not_received,13.1,mastercard,25.54,open
+dbfb7676-af43-4003-9097-84d44927e51c,2026-01-05,M030,ElectroGo,electronics,ID,product_not_as_described,13.3,ovo,44.28,lost
+2e9695bd-de83-43e8-8419-8b0cfc64241b,2025-12-29,M008,PhoneMax ID,electronics,PH,product_not_received,13.1,gopay,15.73,won
+1138f714-afec-4011-9db2-7851bf89e973,2026-01-13,M002,GadgetHub ID,electronics,ID,product_not_received,13.1,mastercard,52.85,open
+25dd737c-3da4-4cdb-8964-3476e38a04dc,2026-01-24,M003,GamersParadise,gaming,PH,fraud,10.4,visa,131.56,open
+b60178af-3f7d-4432-88f9-f8e1278e3a37,2026-01-07,M007,QuickGadgets,electronics,PH,fraud,10.2,ovo,30.03,lost
+75b63cfa-5f08-4aee-9c87-00c31bb93126,2026-01-22,M001,TechZone PH,electronics,ID,fraud,10.4,mastercard,47.54,open
+aa383e08-d397-4b9a-9f18-5afba2d687f7,2026-01-06,M005,AccessoryWorld,accessories,ID,product_not_received,13.1,bank_transfer,61.63,lost
+1e37e6db-f529-4e7d-9302-162ed15caa74,2026-01-04,M005,AccessoryWorld,accessories,ID,fraud,10.2,mastercard,23.08,lost
+a8ebb356-158d-4c5c-9e60-0d9079348670,2026-01-04,M043,GameHub ID,accessories,TH,product_not_received,13.1,bank_transfer,40.52,lost
+526d9877-629c-4fef-89fe-764a47fde369,2025-12-28,M001,TechZone PH,electronics,PH,fraud,10.5,visa,33.49,lost
+00b32904-a478-4fb2-b574-77b637cf2bf7,2025-12-29,M004,MobileKing TH,accessories,TH,product_not_as_described,13.3,gcash,36.16,open
+af624484-f3ce-4a43-9824-0c1557bda60b,2026-01-25,M042,TechStore,gaming,ID,subscription_cancelled,13.2,gopay,16.52,open
+6b6d6ca9-cced-4060-94e5-3899e2001ac2,2026-01-15,M007,QuickGadgets,electronics,ID,fraud,10.2,visa,33.85,open
+fc72a737-30ee-48e2-802e-67a6daffd5a6,2026-01-09,M006,ElectroShop VN,accessories,ID,fraud,10.2,bank_transfer,51.84,lost
+3dbe8dd4-72c6-43ef-97de-097b355f0721,2026-01-21,M004,MobileKing TH,accessories,ID,product_not_as_described,13.3,visa,122.25,open
+1da4428d-cdde-4d36-bcce-9ab7abfaa996,2026-01-21,M002,GadgetHub ID,electronics,PH,product_not_received,13.1,visa,78.52,won
+3e81c0c8-f8ed-4c38-b561-971477e29416,2026-01-19,M005,AccessoryWorld,accessories,VN,fraud,10.5,mastercard,229.95,lost
+4a7c4a0e-144d-4606-8170-20f04026e15f,2026-01-09,M004,MobileKing TH,accessories,ID,product_not_received,13.1,gcash,16.6,lost
+b751f420-cce9-48e2-8fd7-c65b38a3b8a4,2026-01-14,M007,QuickGadgets,electronics,VN,product_not_received,13.1,visa,72.61,lost
+df60085e-7136-4675-967e-c0c99955cf50,2026-01-23,M016,MobileHub,accessories,ID,product_not_as_described,13.3,visa,39.06,open
+6a0999b3-d598-4d12-bd97-68564506d4e7,2026-01-05,M002,GadgetHub ID,electronics,TH,product_not_as_described,13.3,visa,237.66,won
+486346c4-6fe3-4de9-acd4-dbedcdb13164,2025-12-30,M037,AccessMart,mobile_phones,ID,duplicate_processing,12.6,visa,16.0,lost
+1830c44a-83fa-4b6e-88d8-cd834ae7c63f,2026-01-09,M007,QuickGadgets,electronics,VN,duplicate_processing,12.6,visa,15.55,lost
+e9158d9e-bc24-4980-9c7a-2a803007e7be,2026-01-11,M003,GamersParadise,gaming,ID,product_not_received,13.1,gopay,19.31,open
+200b44fa-e6ac-4aca-90da-81c85e67bd1c,2026-01-14,M008,PhoneMax ID,electronics,PH,duplicate_processing,12.6,gopay,8.0,open
+8c377a22-6068-4cda-8795-5af70987bf4d,2026-01-22,M004,MobileKing TH,accessories,ID,product_not_received,13.1,visa,20.63,won
+afa3a77d-ac48-4dd9-8a45-1ca094287177,2026-01-15,M008,PhoneMax ID,electronics,TH,product_not_received,13.1,bank_transfer,16.72,open
+b0ff4494-ca39-46e0-9355-5b86401ccba7,2026-01-21,M001,TechZone PH,electronics,ID,product_not_received,13.1,visa,37.92,lost
+76e66578-16d4-4eae-89fb-17fc5dc16461,2026-01-18,M019,GameStop VN,mobile_phones,TH,fraud,10.5,mastercard,45.04,open
+02d7b0fd-5140-414a-866a-e38cda976c0b,2026-01-22,M004,MobileKing TH,accessories,VN,fraud,10.2,ovo,179.21,won
+bbd5e2d1-3c5e-49e2-8d7d-6375c5995b90,2026-01-15,M053,AccessGear,mobile_phones,PH,fraud,10.4,visa,77.9,open
+f4273ef3-638c-4a24-b1a2-92a5f59f5c50,2026-01-22,M004,MobileKing TH,accessories,PH,fraud,10.2,mastercard,19.7,lost
+b7371d54-4823-49ad-889f-e6ca0311bde5,2026-01-04,M001,TechZone PH,electronics,ID,duplicate_processing,12.6,mastercard,14.75,open
+60bbd752-fc3f-461b-a25d-a00c73b27831,2026-01-02,M003,GamersParadise,gaming,VN,fraud,10.5,visa,51.56,open
+49f15841-2e17-4cf4-bdec-d1ba0cd32735,2026-01-24,M003,GamersParadise,gaming,ID,duplicate_processing,12.6,visa,10.09,lost
+ae87a0f2-0a21-4a6a-b18c-ed64a3dcd338,2026-01-07,M034,TechHub PH,gaming,ID,product_not_received,13.1,bank_transfer,172.14,won
+9749d752-6304-4482-a25a-8f9e07448107,2026-01-02,M008,PhoneMax ID,electronics,TH,fraud,10.4,bank_transfer,95.73,won
+26179ff7-dbaf-44ca-af78-82d31a730860,2026-01-06,M005,AccessoryWorld,accessories,PH,product_not_as_described,13.3,visa,21.71,lost
+1183817e-e966-4053-9e02-24cf51eea790,2026-01-07,M001,TechZone PH,electronics,TH,fraud,10.2,visa,8.0,open
+83f3f80b-b7bd-4e08-87c4-1623d755f6b4,2026-01-04,M006,ElectroShop VN,accessories,ID,duplicate_processing,12.6,gopay,112.0,lost
+ce5d8e0d-b907-49fd-bde8-e5eb902f7f20,2026-01-05,M006,ElectroShop VN,accessories,VN,fraud,10.5,visa,29.87,open
+ead71d6c-8a9e-4e6e-a966-659d7d27952a,2026-01-11,M001,TechZone PH,electronics,ID,fraud,10.2,visa,100.89,open
+c23077d8-d103-4f2b-ba64-a2a0e8b6dd8d,2026-01-12,M007,QuickGadgets,electronics,PH,product_not_as_described,13.3,gcash,8.0,open
+b519bf06-eefd-4b39-b08f-27994bd6867a,2026-01-05,M027,GameWorld,accessories,ID,product_not_as_described,13.3,visa,19.31,open
+90a4d711-142c-4422-966b-9a3c0b0ee9ba,2026-01-25,M002,GadgetHub ID,electronics,VN,subscription_cancelled,13.2,visa,33.27,won
+442cb77b-fc4f-4e87-a58f-97ecf70a219f,2026-01-17,M001,TechZone PH,electronics,PH,subscription_cancelled,13.2,mastercard,34.55,open
+33650f3b-d099-4714-94f8-6b3097d63182,2026-01-14,M004,MobileKing TH,accessories,ID,fraud,10.5,visa,22.09,open
+4a2752bd-ffea-4354-95f9-12e66524b257,2026-01-23,M007,QuickGadgets,electronics,ID,product_not_as_described,13.3,gopay,58.01,won
+07cc18c7-1ad2-462e-b1d5-f02df47d9a89,2025-12-28,M008,PhoneMax ID,electronics,PH,product_not_received,13.1,mastercard,12.67,open
+f13a0090-8928-4baf-97f8-1690465dd705,2026-01-12,M028,PhoneMart PH,gaming,ID,fraud,10.2,visa,29.13,lost
+f25a5357-caaa-474e-9162-2c0c42cb8b3c,2026-01-11,M007,QuickGadgets,electronics,PH,product_not_received,13.1,visa,36.9,open
+7096bc5e-a2df-4ee8-8e37-808430e1f637,2026-02-18,M001,TechZone PH,electronics,ID,fraud,10.5,mastercard,52.61,open
+adc46d6f-5d85-4cbf-a0aa-3eae2f35aa8b,2026-02-22,M004,MobileKing TH,accessories,TH,product_not_received,13.1,gopay,62.83,won
+df81ef41-3c37-4709-8636-640b74bf027f,2026-02-03,M039,SmartMart TH,mobile_phones,PH,fraud,10.2,mastercard,12.04,won
+db1660de-e95b-4f65-b8d5-63e87b8bdb38,2026-02-20,M003,GamersParadise,gaming,VN,product_not_received,13.1,mastercard,8.33,open
+c7b39d44-c49e-4f95-af00-086a068ae82f,2026-02-17,M007,QuickGadgets,electronics,TH,product_not_received,13.1,bank_transfer,104.58,open
+54633710-9ae0-44d3-a821-602293d32f85,2026-02-08,M060,PhoneGear TH,electronics,ID,product_not_received,13.1,gcash,44.66,open
+9c8e8374-ac2e-43af-ab27-7efc09b855c8,2026-02-15,M009,DigiStore,mobile_phones,PH,product_not_received,13.1,gcash,16.88,lost
+fce22085-9f81-4679-9f2d-de8b3a448b66,2026-02-14,M002,GadgetHub ID,electronics,ID,product_not_received,13.1,visa,133.76,lost
+1b690323-5413-45e3-aaac-df8aa33f7510,2026-02-11,M025,GadgetPro TH,gaming,VN,product_not_as_described,13.3,gcash,36.75,open
+68e3bfbb-7773-4ed0-acbd-dd0795463d8b,2026-02-24,M007,QuickGadgets,electronics,ID,product_not_received,13.1,visa,95.71,open
+d72a9f2a-ef96-402b-8996-3d1ce9b92708,2026-02-22,M006,ElectroShop VN,accessories,PH,duplicate_processing,12.6,visa,35.19,open
+f1b4e24e-8c57-480a-b438-efa77aa4ad4f,2026-02-03,M002,GadgetHub ID,electronics,PH,product_not_as_described,13.3,visa,211.59,lost
+583536ce-a447-489f-90b9-ffd5708c8a98,2026-01-29,M007,QuickGadgets,electronics,TH,fraud,10.2,mastercard,160.74,won
+2506519c-6d47-42d1-a3d8-b1686f2c94b4,2026-02-12,M006,ElectroShop VN,accessories,PH,fraud,10.4,truemoney,26.47,lost
+b77883cb-bd87-4ea8-afe7-869de5160692,2026-02-24,M001,TechZone PH,electronics,PH,product_not_as_described,13.3,visa,79.39,open
+6d552975-d0da-4090-8f91-1fc1c9d83c7e,2026-02-07,M054,ElectroStore PH,gaming,PH,product_not_as_described,13.3,visa,59.2,open
+baf023ed-5da9-4d52-b01d-233d5c1e81a5,2026-02-10,M006,ElectroShop VN,accessories,ID,product_not_as_described,13.3,gopay,113.5,won
+c81e6d9c-d7ec-44c0-9f4e-302980ed08c8,2026-02-18,M005,AccessoryWorld,accessories,ID,fraud,10.5,mastercard,13.9,lost
+4431e067-0d88-4406-917c-88d33d93fa68,2026-02-16,M004,MobileKing TH,accessories,ID,fraud,10.4,mastercard,61.4,lost
+c45e1be7-1f56-4855-9864-210991ca6733,2026-01-31,M001,TechZone PH,electronics,PH,fraud,10.4,visa,85.85,won
+96c80a0b-2b3e-4076-9a02-f9ea8c602444,2026-02-16,M054,ElectroStore PH,gaming,PH,product_not_received,13.1,visa,8.0,lost
+a20db098-5542-4afb-8d6f-657359828813,2026-02-22,M005,AccessoryWorld,accessories,PH,fraud,10.5,gcash,11.42,won
+26c628f7-159b-44c9-b778-e5eb1f9e5893,2026-02-15,M032,MobileZone ID,electronics,VN,product_not_received,13.1,visa,8.0,won
+eb38a012-2c04-46a6-b1c9-a604c5475480,2026-02-23,M005,AccessoryWorld,accessories,PH,product_not_received,13.1,gopay,25.99,won
+4c45eeab-231e-4e7c-a125-24af486327a4,2026-02-03,M003,GamersParadise,gaming,VN,fraud,10.2,gopay,63.17,won
+ffec44ba-e4d5-4079-86db-f2a96d760bb0,2026-02-05,M050,TechMall TH,electronics,TH,duplicate_processing,12.6,gopay,128.01,won
+0cfcd611-a185-4618-8210-c21c4ec4ce6a,2026-02-18,M004,MobileKing TH,accessories,TH,fraud,10.5,mastercard,35.4,open
+96639f09-7dc8-434c-abe4-9a677e08758f,2026-02-23,M031,SmartHub VN,mobile_phones,PH,fraud,10.2,gopay,143.42,won
+1319b445-c8ab-4bbb-bb56-da54b5a58ca0,2026-02-19,M003,GamersParadise,gaming,ID,fraud,10.2,gcash,9.56,lost
+2904a7da-d62a-4551-8ebb-f096c8a1aef3,2026-02-19,M004,MobileKing TH,accessories,VN,product_not_as_described,13.3,truemoney,8.0,open
+768750c6-4807-4dce-bee2-fe349664f63c,2026-01-30,M005,AccessoryWorld,accessories,ID,duplicate_processing,12.6,ovo,31.5,won
+edce76a0-a4f1-4957-aa2e-0b45cec269d5,2026-02-09,M007,QuickGadgets,electronics,ID,product_not_received,13.1,mastercard,46.79,won
+ea28f7e8-93e8-4570-b2aa-f04120595090,2026-02-23,M008,PhoneMax ID,electronics,ID,fraud,10.4,visa,32.16,open
+ccc53b9b-4d3a-40ea-9b69-ea47cdb2f821,2026-02-04,M001,TechZone PH,electronics,PH,product_not_as_described,13.3,mastercard,8.0,open
+1d9bd182-e3ee-4f46-baa4-55731a926741,2026-02-15,M058,TechPro VN,accessories,ID,fraud,10.4,mastercard,30.56,open
+be97e943-7156-4f2a-b8af-1f3e42176091,2026-02-19,M001,TechZone PH,electronics,VN,product_not_received,13.1,mastercard,10.24,won
+a941cf58-826f-4a0a-ac69-12d11bf8334a,2026-02-16,M001,TechZone PH,electronics,TH,fraud,10.4,gcash,60.5,won
+3579e8c7-4e6c-484a-8ef8-14b70d8e324b,2026-02-05,M007,QuickGadgets,electronics,ID,product_not_as_described,13.3,gopay,46.06,won
+10891371-4c68-48b0-af0c-c73751a9e028,2026-02-09,M047,SmartZone,gaming,ID,fraud,10.4,visa,14.21,won
+dbe71f47-659a-464f-ae12-c0ad261ee0f7,2026-02-25,M004,MobileKing TH,accessories,VN,duplicate_processing,12.6,visa,20.85,open
+75bc2d34-6434-415e-8e67-38ddf923dc38,2026-02-14,M022,ElectroMall,accessories,ID,duplicate_processing,12.6,visa,12.77,lost
+70c61577-58a5-4598-88da-68378d6e4a8a,2026-02-15,M005,AccessoryWorld,accessories,TH,product_not_received,13.1,mastercard,31.3,lost
+1d96c8e1-7c53-4ed0-8d63-12c5161cc246,2026-02-08,M002,GadgetHub ID,electronics,TH,fraud,10.4,gopay,78.23,open
+3a2eb872-b632-4067-8831-aecab87ef9e1,2026-02-17,M001,TechZone PH,electronics,ID,fraud,10.5,mastercard,13.64,open
+60642166-d5fe-4693-84d1-8c2e9ed16418,2026-02-15,M002,GadgetHub ID,electronics,PH,fraud,10.2,visa,52.12,won
+dc91367a-bcf0-42e7-8250-65a6fbf67abf,2026-02-02,M005,AccessoryWorld,accessories,PH,fraud,10.4,ovo,20.55,lost
+18cbcba2-af0d-400d-9fbf-5e6ac8c2ea48,2026-02-11,M004,MobileKing TH,accessories,ID,fraud,10.5,visa,16.22,won
+06d571a4-d62f-4188-bbd6-978e73b0c69a,2026-01-29,M008,PhoneMax ID,electronics,ID,fraud,10.4,visa,30.07,open
+bc7f647d-4807-40c8-8404-c85bba533d98,2026-02-05,M004,MobileKing TH,accessories,ID,product_not_as_described,13.3,ovo,13.04,won
+f34dd2e9-f654-4797-b0d5-fb83ec47e11a,2026-02-17,M005,AccessoryWorld,accessories,ID,fraud,10.4,visa,20.12,open
+2d6ea0cf-b4ff-4110-85ae-389d708dc4b8,2026-02-17,M009,DigiStore,mobile_phones,VN,fraud,10.2,visa,11.27,lost
+fb9737bc-56c5-44b7-a200-763e4e895fd9,2026-02-06,M002,GadgetHub ID,electronics,PH,product_not_received,13.1,mastercard,194.08,open
+4f87b8ca-c07e-45c7-9ff2-d93bbba43a46,2026-02-21,M053,AccessGear,mobile_phones,PH,fraud,10.5,mastercard,34.18,lost
+968961f8-10a8-45aa-897b-770d499f6822,2026-02-25,M003,GamersParadise,gaming,TH,product_not_received,13.1,visa,17.64,open
+b595553e-684d-4349-bb4e-701323a78577,2026-02-24,M001,TechZone PH,electronics,ID,product_not_received,13.1,visa,40.15,lost
+a92c730b-ccf4-4b5e-a22b-65f3c82e1cf3,2026-02-04,M037,AccessMart,mobile_phones,PH,product_not_as_described,13.3,mastercard,29.93,open
+f7b02242-9593-4259-b869-fcc56e96f67b,2026-02-03,M045,AccessStore PH,electronics,TH,product_not_received,13.1,gopay,27.14,lost
+703a4e97-e14b-4ae9-8642-bfe7e86ff798,2026-02-03,M007,QuickGadgets,electronics,TH,subscription_cancelled,13.2,mastercard,57.56,won
+9eda622e-6daf-4ad4-b5e0-365baa521c3f,2026-02-16,M048,MobileGear ID,electronics,TH,product_not_received,13.1,visa,65.48,open
+bc316c3b-e8e1-4041-a6d1-3e7f63fd772a,2026-02-06,M008,PhoneMax ID,electronics,VN,subscription_cancelled,13.2,gcash,20.54,open
+95f025fc-c25f-462c-a30d-5837b8289e59,2026-02-10,M004,MobileKing TH,accessories,PH,subscription_cancelled,13.2,mastercard,19.72,open
+1e4cb9e2-53a5-485d-9bc4-7b4cd71805bf,2026-01-27,M008,PhoneMax ID,electronics,PH,product_not_as_described,13.3,visa,25.85,lost
+a209c465-d91f-447f-afe8-1869c5b3eed0,2026-02-15,M059,GameStore PH,gaming,PH,fraud,10.5,visa,8.0,won
+85c189fb-7b64-4fee-bd8b-466398b4259f,2026-02-23,M001,TechZone PH,electronics,PH,product_not_received,13.1,gopay,8.47,lost
+13d448ff-0468-4a4f-a63c-531a83d042aa,2026-02-03,M002,GadgetHub ID,electronics,ID,product_not_received,13.1,gopay,113.32,lost
+8f67ed8c-f1f4-485d-b808-880628bd9aa7,2026-01-28,M006,ElectroShop VN,accessories,VN,fraud,10.5,gcash,145.54,lost
+2c9027e4-644c-42b8-8b31-f4b0af0a93bf,2026-02-02,M015,SmartGadgets,electronics,TH,duplicate_processing,12.6,visa,26.47,open
+4a833ce9-5c40-4c80-a9c7-7fd13c5bc464,2026-02-09,M006,ElectroShop VN,accessories,TH,fraud,10.5,visa,55.64,open
+524df9b4-94cc-40a8-b660-b442c23869ab,2026-02-14,M037,AccessMart,mobile_phones,PH,fraud,10.2,gcash,43.82,won
+431cba97-069a-43f3-b6fd-972dec645804,2026-02-22,M044,PhoneStore TH,electronics,ID,subscription_cancelled,13.2,bank_transfer,450.0,lost
+de537a68-b3c1-4e62-8688-55050390c3d8,2026-02-15,M015,SmartGadgets,electronics,ID,product_not_received,13.1,gopay,90.71,open
+dfb0f682-6bc2-48ed-901a-25023f2524a9,2026-02-04,M053,AccessGear,mobile_phones,ID,product_not_received,13.1,mastercard,29.51,lost
+260c7438-f837-4ee2-a7a2-2b48421030b6,2026-02-24,M007,QuickGadgets,electronics,PH,fraud,10.5,bank_transfer,14.01,won
+c67bb748-9530-48ae-89e7-5797b281784c,2026-02-15,M004,MobileKing TH,accessories,PH,product_not_as_described,13.3,gcash,8.0,open
+78b590b0-e405-47e1-878c-b21ec82a8b41,2026-02-18,M003,GamersParadise,gaming,ID,product_not_as_described,13.3,truemoney,39.77,won
+1e47c295-4006-4c9e-a0f3-65bf541ec83f,2026-02-24,M007,QuickGadgets,electronics,PH,product_not_received,13.1,ovo,16.76,won
+57b524a6-683a-4379-b9bd-ca22b5fc0adb,2026-01-31,M002,GadgetHub ID,electronics,PH,product_not_as_described,13.3,gcash,9.21,open
+6911ebb7-46d2-42b6-a916-0ef31935d011,2026-01-31,M005,AccessoryWorld,accessories,TH,fraud,10.4,visa,18.51,won
+3ae51b1d-00c2-4f10-af13-fc92b708cc63,2026-02-23,M008,PhoneMax ID,electronics,PH,product_not_as_described,13.3,visa,12.51,open
+e61bf111-df03-49d4-8f8b-560e299fd689,2026-01-28,M005,AccessoryWorld,accessories,PH,product_not_received,13.1,ovo,151.17,won
+c43aafb1-7e0d-47bc-b999-d5fc39c18c8e,2026-02-04,M001,TechZone PH,electronics,TH,duplicate_processing,12.6,mastercard,73.22,open
+54e8ba41-9304-428b-a190-d5b59b77dba4,2026-02-13,M006,ElectroShop VN,accessories,VN,fraud,10.5,gcash,32.88,lost
+3d8d9b57-6b9b-45fc-a2aa-a6618301122f,2026-01-29,M003,GamersParadise,gaming,VN,product_not_as_described,13.3,ovo,125.46,lost
+1ad32768-57bd-43fe-a06c-140ec666a2c9,2026-01-31,M005,AccessoryWorld,accessories,ID,fraud,10.4,ovo,35.5,won
+66874f40-57fd-4c66-969d-b04a05689c40,2026-02-06,M011,TechMart VN,electronics,PH,fraud,10.5,visa,15.25,open
+92cff4fe-51f7-43b8-a4e2-9fab50356642,2026-02-01,M006,ElectroShop VN,accessories,PH,product_not_received,13.1,mastercard,130.43,won
+4923726f-be9b-4885-bb93-73cb44a3faf4,2026-02-17,M004,MobileKing TH,accessories,PH,product_not_received,13.1,mastercard,53.79,lost
+9b5f1f97-b7b9-477c-a11b-98844dde4de2,2026-02-22,M008,PhoneMax ID,electronics,VN,fraud,10.5,visa,13.02,lost
+d48601a2-5d8d-42fc-93ae-c66e3b463fd8,2026-02-17,M004,MobileKing TH,accessories,ID,product_not_as_described,13.3,visa,27.9,lost
+39c0b6aa-d6c2-4f8c-8c77-a68c20ffdb64,2026-02-12,M005,AccessoryWorld,accessories,VN,duplicate_processing,12.6,truemoney,15.06,open
+7a73cb0e-893f-4b40-83b6-7d3702d0d0fb,2026-02-02,M005,AccessoryWorld,accessories,PH,product_not_as_described,13.3,mastercard,9.54,lost
+d5c2a877-457c-4ff2-a819-d1f0aee40be7,2026-02-16,M043,GameHub ID,accessories,ID,fraud,10.4,truemoney,76.22,won
+58431504-3b55-40c1-ab39-3060a7a224f0,2026-02-22,M002,GadgetHub ID,electronics,ID,fraud,10.2,gopay,184.65,open
+67ad28e3-ad1b-4308-8cf8-5b203e6386d6,2026-02-18,M018,TechPulse ID,accessories,VN,product_not_as_described,13.3,gopay,9.41,open
+189e8840-1834-4839-a783-3f9d55585ef1,2026-02-03,M002,GadgetHub ID,electronics,ID,fraud,10.4,visa,54.96,won
+f608b7e0-7b2c-42ec-b5f0-8acbb13b2758,2026-01-30,M001,TechZone PH,electronics,PH,duplicate_processing,12.6,mastercard,18.44,open
+898db2d7-e377-4a1f-bc67-e88b7bd50ea1,2026-02-12,M002,GadgetHub ID,electronics,PH,product_not_received,13.1,ovo,21.36,open
+059cc706-3661-4d22-a0ed-2b4b34b1d745,2026-02-22,M037,AccessMart,mobile_phones,ID,fraud,10.2,visa,19.43,open
+b3b8fb2f-c413-496f-90cf-72456144e25d,2026-02-13,M059,GameStore PH,gaming,ID,product_not_received,13.1,visa,15.22,lost
+d5eb1640-948d-4016-a865-319e5cbc1a64,2026-02-16,M059,GameStore PH,gaming,TH,fraud,10.2,visa,34.59,lost
+b0f871f5-17ab-4c51-9ef5-822f8225f48b,2026-02-08,M001,TechZone PH,electronics,PH,fraud,10.4,mastercard,15.68,won
+d025df37-dcf3-4ae8-870c-fa7bd4f9833a,2026-02-24,M031,SmartHub VN,mobile_phones,TH,product_not_received,13.1,visa,42.24,open
+9f30ba6e-431c-47ac-980d-f4f3090299de,2026-02-17,M021,AccessHub,electronics,ID,product_not_received,13.1,visa,31.65,open
+3084e762-673a-4754-81cb-ecf23ab35b08,2026-01-29,M038,ElectroZone ID,electronics,VN,product_not_as_described,13.3,gcash,26.71,won
+93871a0b-0941-4ebd-a71f-179172d88ea2,2026-02-17,M006,ElectroShop VN,accessories,ID,fraud,10.4,visa,14.63,open
+8712e925-cc6d-471b-9386-047246b1a440,2026-02-15,M008,PhoneMax ID,electronics,ID,product_not_received,13.1,visa,19.71,won
+12d93c77-a9a5-4d73-8350-1047b0010b5d,2026-02-06,M007,QuickGadgets,electronics,ID,product_not_received,13.1,mastercard,65.36,open
+5297e556-f315-4398-aa77-02b177202bb1,2026-02-19,M006,ElectroShop VN,accessories,PH,fraud,10.4,gopay,51.98,open
+04a78211-1173-4800-a3ca-0e623c55da25,2026-02-15,M002,GadgetHub ID,electronics,ID,fraud,10.5,mastercard,13.74,open
+7b536ff3-3280-4933-8970-175819b31c73,2026-02-16,M005,AccessoryWorld,accessories,ID,fraud,10.5,gcash,36.21,lost
+ab528a75-95ac-412a-9c6e-57fd72f2ef30,2026-02-02,M007,QuickGadgets,electronics,TH,fraud,10.4,gcash,65.12,lost
+b34b2935-5745-4cdc-a4a1-503a9a95e6fc,2026-02-03,M003,GamersParadise,gaming,VN,duplicate_processing,12.6,mastercard,8.0,open
+8d3dcd90-ca22-43c7-8696-7934cc2b8805,2026-02-17,M006,ElectroShop VN,accessories,PH,duplicate_processing,12.6,visa,54.0,won
+88d42532-01e9-4b00-938a-795edf066e75,2026-02-14,M003,GamersParadise,gaming,TH,fraud,10.2,gopay,18.24,open
+33d0df4c-f061-4725-baf8-10495f467192,2026-02-03,M004,MobileKing TH,accessories,PH,product_not_received,13.1,ovo,55.34,lost
+07895b36-4ae0-4b73-bea5-494437171f70,2026-02-25,M006,ElectroShop VN,accessories,TH,fraud,10.5,visa,16.66,open
+c282dbb6-4932-4620-b6a1-793ac772da92,2026-02-04,M005,AccessoryWorld,accessories,PH,product_not_received,13.1,visa,8.0,lost
+1eefb07d-a793-4377-b70a-f845f05dfd85,2026-02-08,M002,GadgetHub ID,electronics,ID,product_not_received,13.1,mastercard,8.0,won
+1224f056-281f-44eb-8e12-9f2f64abee42,2026-02-24,M040,MobileStore PH,electronics,ID,subscription_cancelled,13.2,mastercard,34.58,lost
+2dd07e62-edcc-47b9-947a-05c29cb28671,2026-02-01,M005,AccessoryWorld,accessories,ID,product_not_received,13.1,mastercard,41.84,open
+607c2f7e-3764-4101-b37d-046d5563df8c,2026-02-11,M006,ElectroShop VN,accessories,ID,fraud,10.2,gopay,14.67,lost
+ce424597-f3f4-4809-a1d7-d51a33945aae,2026-01-31,M010,GamingGear PH,electronics,ID,product_not_received,13.1,visa,58.83,open
+a108a5ea-829d-4442-bfad-0a622227cb6f,2026-02-04,M018,TechPulse ID,accessories,PH,product_not_received,13.1,visa,8.0,open
+9b14040b-c659-4117-8a4c-a785fa03a25a,2026-02-02,M005,AccessoryWorld,accessories,PH,duplicate_processing,12.6,mastercard,31.2,lost
+1de73f2c-cf5f-457d-8a5b-302c992a79e9,2026-02-14,M047,SmartZone,gaming,ID,product_not_received,13.1,gcash,11.13,open
+aef20b60-a7c4-4b51-9497-71d4a0fcc0ef,2026-02-15,M006,ElectroShop VN,accessories,PH,product_not_as_described,13.3,gopay,18.42,lost
+3bb2fd60-c2f2-47d5-a472-c725b53379ec,2026-02-15,M007,QuickGadgets,electronics,ID,product_not_received,13.1,mastercard,34.56,lost
+06ddec62-53e0-40bd-ab4e-8f572d6f3ab7,2026-01-30,M043,GameHub ID,accessories,PH,fraud,10.5,truemoney,15.27,won
+f230c1d1-8abb-4873-87a6-e3e759d6879e,2026-02-09,M058,TechPro VN,accessories,PH,fraud,10.2,visa,23.43,won
+18259e33-4fd3-40a0-b06d-246fdbac2308,2026-02-08,M008,PhoneMax ID,electronics,TH,product_not_received,13.1,gcash,81.91,lost
+3d1fe596-324a-4d38-89da-238847ec4ca4,2026-02-11,M007,QuickGadgets,electronics,TH,fraud,10.2,truemoney,19.7,open
+c497461c-d32e-422c-a76d-10e0dc33aa96,2026-02-19,M004,MobileKing TH,accessories,VN,product_not_as_described,13.3,visa,70.25,open
+21fae16a-c3ef-4832-b421-3f3d42476c65,2026-01-30,M006,ElectroShop VN,accessories,ID,product_not_as_described,13.3,mastercard,11.98,open
+5b1c64cc-c0a7-4d9f-8acc-fbad46de3d0c,2026-02-17,M006,ElectroShop VN,accessories,ID,fraud,10.2,mastercard,53.35,won
+ecffddb1-fc2b-4602-8cc7-2c0da6c7ffca,2026-02-11,M006,ElectroShop VN,accessories,TH,fraud,10.4,mastercard,121.2,won
+b77e214c-b56c-47ef-93ef-cd8f6f187c51,2026-02-17,M003,GamersParadise,gaming,TH,fraud,10.5,mastercard,8.0,lost
+38a6304a-1889-4339-a93b-00f15c98869a,2026-02-21,M004,MobileKing TH,accessories,TH,fraud,10.4,mastercard,16.16,won
+4bb60270-f1b6-4b7b-b30c-41b2edc9784e,2026-01-27,M007,QuickGadgets,electronics,TH,fraud,10.2,gopay,55.67,lost
+3ef920ed-57f3-40c1-83ca-3b0b371308ae,2026-01-29,M005,AccessoryWorld,accessories,PH,product_not_as_described,13.3,mastercard,27.58,open
+54eb52ed-25b7-48a8-8f8e-0aa387a0a224,2026-02-15,M005,AccessoryWorld,accessories,PH,product_not_received,13.1,truemoney,46.25,lost
+33f582e5-8136-4d4c-bad4-9a32f512c9ea,2026-02-21,M005,AccessoryWorld,accessories,PH,fraud,10.4,gopay,19.23,open
+00b526ae-9380-4374-8504-b1223a1cee29,2026-01-29,M001,TechZone PH,electronics,TH,product_not_received,13.1,gopay,35.8,lost
+1f4e56ba-9420-43ce-81f3-ad6642886cfb,2026-01-29,M001,TechZone PH,electronics,ID,subscription_cancelled,13.2,mastercard,28.79,lost
+04a7b12d-e0b0-4cd7-b24d-b6194997cb39,2026-02-04,M006,ElectroShop VN,accessories,PH,duplicate_processing,12.6,ovo,94.73,lost
+4af320e2-1cc9-44a5-b7a5-7570bd69f960,2026-01-30,M003,GamersParadise,gaming,PH,fraud,10.4,mastercard,41.64,open
+db5b5411-af42-4296-a326-35d4f58760e2,2026-02-22,M005,AccessoryWorld,accessories,ID,product_not_received,13.1,visa,44.87,lost
+4d3f53ed-f962-40de-ae1c-4f957ffe3c60,2026-02-20,M004,MobileKing TH,accessories,VN,product_not_as_described,13.3,gopay,22.86,lost
+ad8cf673-2fa3-435b-913c-101a6ec354e6,2026-02-16,M005,AccessoryWorld,accessories,VN,product_not_received,13.1,gcash,21.35,open
+d4e0a977-275b-4080-b076-5017c94d08ce,2026-01-27,M006,ElectroShop VN,accessories,ID,product_not_as_described,13.3,gopay,22.44,won
+fe94d97d-ae01-4cc1-9b63-b7a0cd2b79a6,2026-02-25,M006,ElectroShop VN,accessories,ID,product_not_as_described,13.3,visa,47.23,open
+91cacf7c-2c9b-43e0-8b2b-6723c2e81d46,2026-02-02,M004,MobileKing TH,accessories,VN,fraud,10.5,mastercard,22.67,won
+bc8ce20f-6851-4f97-8895-a927e063e56e,2026-02-07,M004,MobileKing TH,accessories,ID,fraud,10.4,gcash,42.98,lost
+7e9d86d5-b171-4676-80d9-1cc359caca19,2026-02-20,M040,MobileStore PH,electronics,ID,fraud,10.4,visa,214.4,won
+76776f87-9c11-42c7-8210-928722139845,2026-02-20,M005,AccessoryWorld,accessories,ID,duplicate_processing,12.6,gcash,72.53,won
+e28da432-9ba0-48bd-a7d8-05b8ce28473b,2026-02-13,M007,QuickGadgets,electronics,TH,duplicate_processing,12.6,mastercard,24.69,won
+a3c73c66-ea49-41f4-8c66-b019240c464d,2026-02-10,M002,GadgetHub ID,electronics,TH,fraud,10.5,mastercard,97.62,won
+ab1f6496-a865-4a95-96d4-270f75c3296b,2026-02-23,M006,ElectroShop VN,accessories,ID,fraud,10.4,visa,22.94,open
+b67943c9-2c20-4a56-aeb5-01dfa9f45929,2026-02-11,M030,ElectroGo,electronics,ID,fraud,10.2,visa,8.0,open
+9ffb3142-bb1d-4608-9c34-01c55328bcf6,2026-02-14,M026,TechGo ID,accessories,ID,product_not_received,13.1,gopay,13.37,won
+ade51457-6722-4b07-8ed2-932c47b46c66,2026-02-09,M060,PhoneGear TH,electronics,TH,fraud,10.2,gopay,8.0,open
+80b73013-21e5-48ab-979c-dd15030d171a,2026-02-11,M001,TechZone PH,electronics,VN,duplicate_processing,12.6,visa,24.13,open
+137b7aa0-89db-43f0-b1c1-8a66b90d4b17,2026-02-23,M028,PhoneMart PH,gaming,TH,fraud,10.2,mastercard,33.67,open
+7871000a-a6d1-46c5-b97f-407629aeedbf,2026-02-16,M005,AccessoryWorld,accessories,ID,product_not_received,13.1,visa,149.72,won
+cd5d7d6e-b867-4970-969e-9eaee2863ef0,2026-02-09,M005,AccessoryWorld,accessories,ID,fraud,10.2,visa,44.44,open
+e2a0a036-450e-4750-b323-630e6474dfb5,2026-02-05,M003,GamersParadise,gaming,ID,fraud,10.2,bank_transfer,27.19,lost
+d54c0b6d-8490-4d9f-b227-dd41e6970813,2026-02-05,M002,GadgetHub ID,electronics,TH,fraud,10.2,mastercard,69.86,open
+735c5c1c-583d-462e-bdd0-bd2930bfb67d,2026-02-14,M035,GameZone,gaming,PH,product_not_received,13.1,gcash,8.0,won
+1810f1f6-639e-412e-b501-68aa59701f3a,2026-02-15,M005,AccessoryWorld,accessories,ID,product_not_received,13.1,visa,40.94,lost
+e531d864-6433-4e09-9c1a-5153eca26892,2026-02-10,M056,MobileMall TH,gaming,TH,product_not_received,13.1,gcash,66.27,won
+21c4cce2-d3b5-4299-a064-39065d8c17c5,2026-02-18,M005,AccessoryWorld,accessories,ID,product_not_received,13.1,gcash,8.75,lost
+d4eee69c-7750-4143-97e6-1101dd4089be,2026-01-27,M008,PhoneMax ID,electronics,ID,product_not_as_described,13.3,visa,92.7,won
+983c41e5-c614-4b1d-9f32-4bf59d9337c7,2026-02-03,M007,QuickGadgets,electronics,PH,product_not_as_described,13.3,visa,44.91,open
+7c6b046f-46ea-4c9f-9f35-e3f3fcb7aa87,2026-02-07,M010,GamingGear PH,electronics,ID,product_not_as_described,13.3,gopay,22.79,open
+fd4a608b-bc63-4b80-b746-4d76948df47e,2026-01-31,M026,TechGo ID,accessories,PH,duplicate_processing,12.6,gcash,58.53,won
+27e979f9-8b7e-4d94-8e87-054d783910fc,2026-02-16,M045,AccessStore PH,electronics,PH,subscription_cancelled,13.2,mastercard,255.6,open
+ba9f224b-6ea2-47e6-bd27-7af39196e50a,2026-02-07,M002,GadgetHub ID,electronics,PH,product_not_received,13.1,truemoney,39.0,open
+a036a4f8-13af-48f4-91b1-1364b0cb9988,2026-02-11,M017,GearUp PH,mobile_phones,ID,product_not_received,13.1,visa,41.4,open
+b15646e0-9d44-4fe2-a87a-77e11e47ba0e,2026-02-15,M007,QuickGadgets,electronics,PH,product_not_received,13.1,truemoney,21.9,lost
+a080e62b-7c6e-4c27-b4f2-7ba84a545214,2026-02-01,M036,PhoneHub VN,electronics,ID,fraud,10.4,mastercard,15.41,open
+1e2083ad-e307-422f-9e13-cc653821671c,2026-02-21,M004,MobileKing TH,accessories,ID,product_not_as_described,13.3,gcash,69.92,won
+c84cb7b4-68a9-464d-b466-303862847ae5,2026-01-29,M035,GameZone,gaming,TH,duplicate_processing,12.6,visa,15.33,open
+9e72e58a-5422-408d-aa29-24a0a0da45dc,2026-01-27,M008,PhoneMax ID,electronics,PH,fraud,10.5,visa,35.32,open
+fb6ed621-f36e-4e39-a328-b443842b9e4d,2026-02-19,M003,GamersParadise,gaming,VN,fraud,10.2,visa,21.54,lost
+a6edd5aa-7b8a-4a01-880e-cdd774bd77ec,2026-02-11,M005,AccessoryWorld,accessories,PH,fraud,10.4,visa,50.96,lost
+33a96cf4-ddc8-403e-8dc6-51302309be52,2026-02-20,M003,GamersParadise,gaming,ID,subscription_cancelled,13.2,gopay,44.71,open
+71e60d19-a6e4-4e6a-8382-1df363e4d93c,2026-01-30,M033,GadgetStore TH,gaming,ID,fraud,10.2,mastercard,84.25,lost
+69447a8f-cc54-4fdb-8a62-890df73618c9,2026-02-19,M001,TechZone PH,electronics,VN,subscription_cancelled,13.2,mastercard,20.93,open
+cc3fb2d8-a202-4dde-b0ac-42322cbdf543,2026-02-19,M006,ElectroShop VN,accessories,TH,product_not_as_described,13.3,mastercard,25.97,open
+abb2d1e8-5a17-491f-a4a9-644ed92bf877,2026-01-28,M004,MobileKing TH,accessories,ID,fraud,10.2,mastercard,13.72,open
+e3dd87c9-5c33-415c-a450-71a6885f876a,2026-02-04,M001,TechZone PH,electronics,ID,duplicate_processing,12.6,bank_transfer,22.2,open
+ab9d15ea-156a-4b6d-b2f8-e0ace0a4efbd,2026-01-31,M008,PhoneMax ID,electronics,ID,product_not_received,13.1,ovo,46.51,won
+35aba85e-10da-4877-98ac-a6ede63f3a97,2026-02-20,M006,ElectroShop VN,accessories,PH,fraud,10.4,visa,65.45,lost
+d8ece716-bcd3-4ada-b9a3-3a84208fc5d9,2026-02-03,M002,GadgetHub ID,electronics,ID,product_not_received,13.1,mastercard,14.44,open
+42eef436-0c86-4ed5-ba31-59c54b2dd52d,2026-01-27,M037,AccessMart,mobile_phones,TH,fraud,10.2,ovo,72.43,lost
+0c27d475-55c1-4611-bcc0-4d224a4cfa8f,2026-02-13,M008,PhoneMax ID,electronics,ID,product_not_received,13.1,ovo,112.18,won
+5733eccc-97e9-4d17-8f4a-b0fd2577df99,2026-02-22,M008,PhoneMax ID,electronics,PH,product_not_received,13.1,mastercard,48.04,open
+c0ce4298-44af-4fb2-a999-d68fbecbe63f,2026-02-10,M005,AccessoryWorld,accessories,ID,product_not_received,13.1,visa,179.31,won
+8887ab54-de6b-434d-b67d-b3aabb28720d,2026-02-20,M048,MobileGear ID,electronics,TH,fraud,10.2,mastercard,16.5,lost
+103dc610-46bf-47c6-8ec8-c3f7d116dd48,2026-02-17,M007,QuickGadgets,electronics,TH,product_not_received,13.1,ovo,10.8,open
+f5bcfabb-a4d4-4acb-8da3-a064a4fce5ed,2026-02-17,M002,GadgetHub ID,electronics,ID,product_not_received,13.1,gopay,8.0,open
+284b3723-25de-4b1c-a6f8-97776592e2ad,2026-02-14,M004,MobileKing TH,accessories,ID,fraud,10.4,visa,127.29,open
+2508d5e3-3630-42bf-b3c0-bd1fd121e5ed,2026-02-03,M005,AccessoryWorld,accessories,PH,product_not_received,13.1,gopay,59.68,open
+a5b67089-d2d1-48c5-938b-0d72170cc6ac,2026-02-16,M002,GadgetHub ID,electronics,VN,product_not_received,13.1,visa,31.5,won
+66740222-7aaf-475f-91e2-c0a14377a9a3,2026-02-22,M059,GameStore PH,gaming,VN,fraud,10.2,ovo,42.61,lost
+e50cb9e2-7cd7-4182-8921-929ebb75e371,2026-01-30,M004,MobileKing TH,accessories,TH,product_not_received,13.1,ovo,12.03,lost
+7771802b-4fda-43f9-929b-98f533944c40,2026-02-01,M004,MobileKing TH,accessories,ID,fraud,10.4,mastercard,299.22,won
+e375c73d-c319-4d0d-bd73-9ad8ffa7647a,2026-02-09,M008,PhoneMax ID,electronics,TH,product_not_received,13.1,ovo,37.2,lost
+39077838-5c75-4317-8499-6d7d2535723a,2026-02-15,M003,GamersParadise,gaming,PH,duplicate_processing,12.6,ovo,36.54,won
+e6695682-f296-42fe-b06f-9ec90010cdcc,2026-02-16,M032,MobileZone ID,electronics,PH,product_not_received,13.1,truemoney,63.64,open
+1a6d7a0a-24ac-4af8-a21c-46d07a6594ca,2026-02-10,M005,AccessoryWorld,accessories,PH,product_not_received,13.1,gopay,51.06,open
+6bd4c0d2-9672-409a-9bb6-660cd1536ec2,2026-02-24,M001,TechZone PH,electronics,ID,product_not_received,13.1,visa,40.51,won
+b69dffea-7f72-48e2-ab37-e740906bd112,2026-02-12,M005,AccessoryWorld,accessories,ID,fraud,10.5,bank_transfer,16.26,lost
+bcc4cbf4-9c92-435f-9dae-1a5555ce4c1a,2026-02-14,M005,AccessoryWorld,accessories,PH,product_not_received,13.1,visa,50.62,open
+d5717ce5-06ad-4706-bc18-c98227a68291,2026-02-19,M004,MobileKing TH,accessories,ID,fraud,10.5,ovo,180.16,lost
+1b567439-cc3a-4236-982f-a92c3e51bb52,2026-02-05,M002,GadgetHub ID,electronics,TH,fraud,10.5,visa,111.15,won
+788c03af-3f0d-4a13-92c7-fd55fac423ac,2026-02-22,M030,ElectroGo,electronics,TH,fraud,10.2,mastercard,138.92,open
+fc76366e-9905-44d9-8e72-d5a8192f40ee,2026-02-16,M001,TechZone PH,electronics,ID,product_not_received,13.1,gcash,20.9,won
+c2bd523d-288d-4a77-9a6b-54eff8fe4a45,2026-02-03,M006,ElectroShop VN,accessories,ID,fraud,10.5,mastercard,13.59,won
+72eced58-b41f-498a-8f3f-e35fd29b565f,2026-02-05,M002,GadgetHub ID,electronics,ID,fraud,10.2,ovo,29.57,open
+addfebf5-f16e-49d2-a1e3-433a810a39df,2026-02-04,M001,TechZone PH,electronics,ID,product_not_as_described,13.3,visa,34.82,won
+10cb8e9a-3bba-49b2-b3df-73ea70e395d4,2026-02-11,M039,SmartMart TH,mobile_phones,TH,fraud,10.2,mastercard,88.66,won
+c7bcd94c-f5de-44be-82e4-ae6c4ef782e6,2026-02-04,M024,MobilePro VN,gaming,PH,fraud,10.2,visa,8.0,open
+93660001-3cda-465e-a3f1-b961a94b3d0a,2026-02-07,M007,QuickGadgets,electronics,PH,product_not_as_described,13.3,gopay,131.18,open
+3c12ca46-c6bc-4e8b-801e-3fae57e9883a,2026-02-21,M006,ElectroShop VN,accessories,ID,fraud,10.5,mastercard,28.73,won
+e290036c-901a-406c-8025-ba7568ae81ff,2026-02-19,M006,ElectroShop VN,accessories,VN,product_not_received,13.1,mastercard,22.55,open
+b5da7f1d-b4f9-4485-993b-48cddd8992e9,2026-02-22,M003,GamersParadise,gaming,ID,duplicate_processing,12.6,ovo,13.32,lost
+42d50a4c-c876-472d-8264-008bc9a2dc0d,2026-02-19,M001,TechZone PH,electronics,ID,fraud,10.5,gopay,8.0,open
+50e2f168-068b-4616-9ba8-b03b9efa244e,2026-02-17,M003,GamersParadise,gaming,TH,product_not_received,13.1,mastercard,69.47,won
+6a57b1a0-a573-4aa3-8a58-41ecf5834c43,2026-02-21,M001,TechZone PH,electronics,PH,fraud,10.2,truemoney,35.37,open
+cc79ad55-57a4-49ac-9bbc-d68a5c697bcd,2026-02-17,M007,QuickGadgets,electronics,TH,product_not_received,13.1,visa,10.37,won
+2aa6249d-8786-4ff7-8540-0b4413e950d0,2026-02-08,M050,TechMall TH,electronics,ID,duplicate_processing,12.6,gcash,10.32,open
+98ce61a5-373e-4fd1-a1f9-741d33b67e1b,2026-02-12,M002,GadgetHub ID,electronics,PH,product_not_received,13.1,truemoney,24.48,open
+f7583cbf-3e9e-48b7-adde-fd48b7b7dc50,2026-02-01,M008,PhoneMax ID,electronics,VN,subscription_cancelled,13.2,visa,148.73,open
+030397d4-9a19-4d23-a999-18e04affb66d,2026-02-16,M005,AccessoryWorld,accessories,PH,fraud,10.2,mastercard,26.22,lost
+383fa9f3-8e0f-4097-9eb2-f353e8a1b91f,2026-02-06,M005,AccessoryWorld,accessories,TH,fraud,10.5,gcash,8.56,open
+a0138043-a0f9-4261-901e-8e809fa9cd9e,2026-02-17,M048,MobileGear ID,electronics,ID,duplicate_processing,12.6,visa,26.54,lost
+f386a790-01c7-4d77-aaff-72c72091c502,2026-01-31,M006,ElectroShop VN,accessories,PH,fraud,10.4,mastercard,25.91,open
+0c5185f3-b63a-465c-b5d2-29828ef47a32,2026-02-18,M003,GamersParadise,gaming,TH,fraud,10.4,mastercard,8.0,open
+4b00413d-dfcb-41ea-b282-87ce407db9b2,2026-02-25,M050,TechMall TH,electronics,VN,duplicate_processing,12.6,mastercard,31.54,lost
+dff21797-cf11-4353-bdee-dc69cc40f5ad,2026-01-31,M006,ElectroShop VN,accessories,VN,fraud,10.4,mastercard,26.9,lost
+c14702ed-70a9-483c-a3e4-3d495748c802,2026-02-22,M008,PhoneMax ID,electronics,PH,product_not_as_described,13.3,gcash,61.97,lost
+6a84f2c2-292e-4e49-baed-545133099ea9,2026-02-15,M001,TechZone PH,electronics,ID,duplicate_processing,12.6,visa,174.87,lost
+da8659f3-2c93-47e3-b743-e8ea5b899bf2,2026-02-11,M002,GadgetHub ID,electronics,ID,product_not_received,13.1,mastercard,91.28,won
+1ac3892f-7b7b-406b-a43d-6f07898abe4b,2026-01-31,M007,QuickGadgets,electronics,PH,fraud,10.2,mastercard,26.0,won
+5826a24a-3dbb-4857-a546-6c2ce6b36cc7,2026-02-03,M005,AccessoryWorld,accessories,TH,fraud,10.4,visa,12.23,lost
+2385e4b6-67df-4a4a-9283-e3b1bf0330e7,2026-02-11,M037,AccessMart,mobile_phones,ID,product_not_as_described,13.3,ovo,335.63,lost
+aff5ace0-cb84-482e-aec0-7aee5cac116f,2026-02-08,M047,SmartZone,gaming,PH,product_not_received,13.1,gcash,34.93,lost
+a0e0e4db-bb67-4e97-a8c6-de5b2ab1918b,2026-02-10,M001,TechZone PH,electronics,TH,product_not_as_described,13.3,gopay,33.53,won
+9d6f89e8-522c-40c7-bcf5-802e31e7c482,2026-02-12,M001,TechZone PH,electronics,ID,product_not_received,13.1,gcash,32.4,won
+7af97840-66e8-49b9-a105-b4f25d1b2ae9,2026-02-10,M058,TechPro VN,accessories,PH,product_not_as_described,13.3,visa,39.58,lost
+010f5e45-29bd-4546-989a-7b5dcd71ca65,2026-02-16,M003,GamersParadise,gaming,ID,fraud,10.5,gopay,29.08,won
+c7f2fc1c-5b2f-4699-bc84-55ebacff22dc,2026-02-09,M043,GameHub ID,accessories,PH,product_not_received,13.1,visa,19.76,open
+f57b4032-212c-4d26-a80a-5e10f2d400f9,2026-01-29,M004,MobileKing TH,accessories,PH,fraud,10.4,visa,20.24,lost
+476dbb06-c5d6-494a-a774-4892f803efa9,2026-02-18,M002,GadgetHub ID,electronics,TH,fraud,10.2,gopay,32.15,open
+7d7aeb7a-a52a-4464-bc79-79181a8556e1,2026-02-01,M041,GadgetMall VN,gaming,TH,product_not_received,13.1,visa,20.31,won
+7bee35a5-5dfe-49f6-9253-ae580ce71699,2026-01-31,M003,GamersParadise,gaming,ID,fraud,10.5,visa,17.43,open
+cec41d90-51cf-4a82-b03d-40e782b605b1,2026-02-01,M037,AccessMart,mobile_phones,ID,fraud,10.2,visa,36.44,open
+c7f99c10-4958-4020-809f-0b6f8ab3f649,2026-02-23,M009,DigiStore,mobile_phones,ID,fraud,10.4,bank_transfer,26.33,won
+4f11d585-556c-4671-b8f1-d614a83d2691,2026-02-10,M008,PhoneMax ID,electronics,PH,product_not_received,13.1,gopay,128.2,won
+39ddef1f-4a88-4efa-97ac-e1e05fb7d09e,2026-01-31,M004,MobileKing TH,accessories,VN,fraud,10.2,visa,8.0,open
+05bfd1a4-2874-4705-adc2-234f4ac6b340,2026-01-29,M005,AccessoryWorld,accessories,VN,fraud,10.5,visa,88.44,open
+43d0517e-a862-4dc7-a3e5-2d0e469e947a,2026-02-19,M003,GamersParadise,gaming,ID,fraud,10.5,bank_transfer,101.64,lost
+e6e974fc-e1fd-40f7-ae1d-638b1d59c708,2026-02-20,M007,QuickGadgets,electronics,ID,product_not_received,13.1,visa,8.0,lost
+eb1fbd71-53d4-44f8-a23b-1f95d69419a6,2026-02-09,M005,AccessoryWorld,accessories,ID,product_not_received,13.1,visa,24.33,open
+494f8288-0f79-417d-bd8a-b555558facaa,2026-01-29,M049,GadgetZone PH,accessories,ID,product_not_received,13.1,gopay,23.71,won
+8fb5a00a-14d2-4858-9be9-5a481bfb9645,2026-02-15,M006,ElectroShop VN,accessories,TH,product_not_received,13.1,mastercard,9.33,lost
+fa348aa5-46fb-46b3-b1cf-e6c3cc6ad3a3,2026-01-27,M005,AccessoryWorld,accessories,ID,product_not_received,13.1,mastercard,16.44,lost
+243ff49c-b253-4cbd-9d2f-667cddde6921,2026-02-09,M060,PhoneGear TH,electronics,ID,fraud,10.5,gopay,12.19,won
+3885c8fb-e76d-4732-ba18-d21015bdeebc,2026-02-04,M004,MobileKing TH,accessories,TH,product_not_received,13.1,visa,160.3,won
+e1be1a6b-c7f8-455d-8b25-0fa2a8aaa18c,2026-02-06,M016,MobileHub,accessories,PH,product_not_as_described,13.3,visa,76.87,won
+93d37c73-4bb6-41c4-aa91-86b92e5c2eb5,2026-02-25,M006,ElectroShop VN,accessories,ID,fraud,10.2,gopay,104.0,lost
+bcfb7288-fb9e-4146-98a6-b496b43d3e0c,2026-02-13,M008,PhoneMax ID,electronics,PH,product_not_received,13.1,ovo,63.4,lost
+ffbd311d-0b8b-4713-b95f-9a31b4f9ef06,2026-02-19,M042,TechStore,gaming,PH,duplicate_processing,12.6,ovo,11.99,open
+62f8e5a5-fca0-458e-87a1-e8e7df623d09,2026-01-31,M059,GameStore PH,gaming,TH,product_not_received,13.1,visa,20.65,open
+c3c3f4ff-895b-4929-b296-3260e8d6cd43,2026-02-08,M003,GamersParadise,gaming,ID,fraud,10.4,visa,51.44,won
+5ae400c4-e743-44a4-9a4a-25a8a490352f,2026-02-04,M006,ElectroShop VN,accessories,TH,fraud,10.4,gcash,11.02,lost
+7065206f-19fd-4f4d-8889-a71db85ffb70,2026-02-05,M028,PhoneMart PH,gaming,ID,product_not_received,13.1,gcash,62.91,open
+0221b686-7dfe-4673-92b3-811ec17bc1c5,2026-02-21,M037,AccessMart,mobile_phones,TH,fraud,10.5,ovo,26.67,won
+61711ddd-9774-442d-8f77-9d0ad19129df,2026-02-06,M042,TechStore,gaming,VN,product_not_received,13.1,visa,23.63,open
+0589aee6-88d4-45aa-a210-a6395ff91ff9,2026-01-28,M003,GamersParadise,gaming,VN,fraud,10.4,gcash,62.79,open
+fec67773-5ed6-49b4-ac8d-a3dcd038fb67,2026-02-24,M002,GadgetHub ID,electronics,VN,product_not_received,13.1,visa,49.39,open
+5cc14603-3f5e-419d-a8bb-e21f9d29b248,2026-02-02,M005,AccessoryWorld,accessories,TH,fraud,10.2,ovo,23.93,won
+9304cb46-507a-4c71-a055-a69db7ed9fe7,2026-01-31,M051,GameMart VN,mobile_phones,PH,fraud,10.4,visa,94.01,open
+87b0401b-aa05-4831-98de-8ab83fa809c6,2026-02-13,M004,MobileKing TH,accessories,PH,fraud,10.4,visa,12.52,won
+17adef03-4441-4234-8346-87d8a73fa944,2026-02-15,M003,GamersParadise,gaming,TH,fraud,10.4,truemoney,57.65,open
+5a039ec2-136e-4700-941f-759744e712f3,2026-01-28,M012,CoolPhone TH,electronics,ID,duplicate_processing,12.6,visa,56.47,open
+6d5d3fce-c7a1-4ba6-97c7-309d432edc5f,2026-02-05,M008,PhoneMax ID,electronics,PH,fraud,10.5,visa,25.06,won
+3007cb91-e7f5-4d8d-a3f4-46f642efa249,2026-01-29,M008,PhoneMax ID,electronics,TH,fraud,10.4,gopay,44.41,won
+78407de3-11a1-402f-be29-8d35d0135b82,2026-02-03,M008,PhoneMax ID,electronics,ID,product_not_as_described,13.3,visa,10.74,won
+98d2d06e-8f80-4925-bbdd-dea0e4f933a4,2026-02-24,M006,ElectroShop VN,accessories,ID,fraud,10.2,visa,76.07,lost
+2a075b08-61b2-49fc-bb80-8b40b67787f9,2026-02-05,M008,PhoneMax ID,electronics,PH,fraud,10.5,visa,28.04,lost
+4b222db3-a21c-4460-9ff0-1cd7faf99ccd,2026-02-16,M002,GadgetHub ID,electronics,PH,product_not_as_described,13.3,mastercard,20.69,open
+4966d110-da27-42e8-bf88-755344dc22d0,2026-02-11,M004,MobileKing TH,accessories,PH,fraud,10.5,mastercard,85.12,won
+5548ada4-c74f-473e-abfa-ebd7b8b80782,2026-02-06,M007,QuickGadgets,electronics,TH,fraud,10.5,visa,17.57,won
+9cb39ed4-6ea2-4ca4-9204-2a70023983e8,2026-02-11,M054,ElectroStore PH,gaming,TH,product_not_received,13.1,visa,9.32,won
+53c1589a-0d01-47a7-a4cf-7601d46e8155,2026-02-08,M020,PhoneZone TH,gaming,PH,fraud,10.2,mastercard,8.16,open
+0997ee5c-89fd-45ff-beb3-6e63013dd224,2026-02-17,M029,AccessZone,electronics,PH,fraud,10.4,gopay,57.13,won
+7a0d5811-7945-4377-9741-7914da60e329,2026-02-20,M049,GadgetZone PH,accessories,VN,fraud,10.4,ovo,10.46,lost
+e07742a7-254c-4b24-be8b-5657eccf03ff,2026-02-17,M008,PhoneMax ID,electronics,ID,fraud,10.4,mastercard,160.66,open
+b21249c1-74d3-4d11-94d1-5174c551ac3f,2026-02-25,M007,QuickGadgets,electronics,VN,duplicate_processing,12.6,mastercard,8.0,lost
+799c9c08-ebe2-405d-a6c9-1d6361642ef5,2026-01-28,M003,GamersParadise,gaming,PH,fraud,10.4,mastercard,152.45,lost
+4a03cb6f-4272-4a70-a513-b4f7efa9416f,2026-02-05,M006,ElectroShop VN,accessories,ID,fraud,10.2,bank_transfer,40.04,open
+f6201265-00af-492b-80b8-5f6c30dab7ff,2026-02-09,M007,QuickGadgets,electronics,PH,duplicate_processing,12.6,mastercard,30.35,open
+d414528a-5667-46b7-a64b-c9e0b1c7a0d1,2026-01-31,M006,ElectroShop VN,accessories,ID,product_not_received,13.1,mastercard,20.28,lost
+a6140b3f-fc74-4bad-8cce-ebb46a824ee4,2026-02-11,M003,GamersParadise,gaming,ID,fraud,10.2,visa,47.43,lost
+7f5bf329-0f66-4372-bac2-e1c67499f921,2026-02-18,M008,PhoneMax ID,electronics,PH,product_not_received,13.1,visa,32.01,lost
+6b1b28fd-e95c-4b26-9b2d-65f10b41ae9e,2026-02-03,M008,PhoneMax ID,electronics,PH,product_not_received,13.1,gopay,89.39,open
+0b303642-ec62-4044-8b0d-a3094ad9c800,2026-02-09,M054,ElectroStore PH,gaming,PH,fraud,10.2,visa,36.7,won
+9a5a3a79-d11d-4d63-8997-1a642594654a,2026-02-11,M006,ElectroShop VN,accessories,ID,duplicate_processing,12.6,visa,37.91,open
+8b004b56-81be-469f-a754-e90653b8a829,2026-02-10,M057,GadgetGear ID,gaming,TH,subscription_cancelled,13.2,visa,23.87,lost
+6f71c764-59d5-4b04-954e-5a67f30fba60,2026-02-13,M002,GadgetHub ID,electronics,PH,product_not_received,13.1,visa,31.46,won
+c4635dbe-a6e3-4ecf-93a2-83f2b3b23151,2026-02-12,M001,TechZone PH,electronics,VN,product_not_as_described,13.3,gopay,43.69,won
+d35e80a5-caae-4d32-869a-68e4c1b21d47,2026-02-18,M027,GameWorld,accessories,VN,duplicate_processing,12.6,mastercard,8.0,open
+d21567ae-aca2-41d2-abfa-b114dc106285,2026-02-14,M008,PhoneMax ID,electronics,PH,duplicate_processing,12.6,ovo,9.84,won
+9127450a-b4db-4d50-91d4-f5a1ca5c8fdd,2026-01-29,M002,GadgetHub ID,electronics,PH,fraud,10.5,ovo,64.65,open
+e0a4e418-e59f-4960-9425-3a9e2074e9ba,2026-01-30,M005,AccessoryWorld,accessories,PH,duplicate_processing,12.6,visa,38.62,open
+cef4214d-65ae-47bf-b9e2-37ee08d2dec2,2026-02-21,M004,MobileKing TH,accessories,ID,product_not_received,13.1,gopay,28.06,won
+aac14869-e820-4922-a415-b3224f8ca047,2026-02-20,M003,GamersParadise,gaming,ID,product_not_received,13.1,visa,33.67,lost
+07236dd4-0bd5-455c-8bf3-30925b87f599,2026-02-22,M004,MobileKing TH,accessories,PH,subscription_cancelled,13.2,visa,45.28,won
+d3ab2105-4e86-4e92-acae-4b66f7c64d85,2026-02-05,M008,PhoneMax ID,electronics,TH,fraud,10.2,visa,20.37,open
+d868accb-b602-42b4-b2cd-fe272d9a0463,2026-02-09,M003,GamersParadise,gaming,TH,product_not_received,13.1,mastercard,16.44,won
+463e8317-0ba9-4f8c-921e-390a3b49cb3d,2026-02-13,M001,TechZone PH,electronics,ID,fraud,10.5,mastercard,39.5,open
+a226c005-976d-4b7a-a23c-6b4be05d96b0,2026-01-30,M005,AccessoryWorld,accessories,TH,product_not_received,13.1,gopay,13.73,open
+3e37270e-9030-42fd-b929-4e9f172d675b,2026-02-20,M055,SmartGear VN,accessories,TH,fraud,10.2,mastercard,47.82,won
+abac8e0f-8a28-4dc7-804a-19163a11ecce,2026-02-22,M001,TechZone PH,electronics,VN,fraud,10.5,gopay,8.0,won
+969acbbb-d8f0-44e0-be85-5404b20ae5d8,2026-02-04,M004,MobileKing TH,accessories,ID,fraud,10.5,visa,83.62,lost
+d7dd61ea-f580-4203-b040-2082db59e6b3,2026-02-16,M004,MobileKing TH,accessories,ID,fraud,10.4,gopay,50.67,lost
+f9af0dd6-3fa0-4718-860e-16969fbb3e44,2026-02-18,M003,GamersParadise,gaming,PH,fraud,10.4,visa,41.7,lost
+581d9bbf-83ab-49b0-9140-62c766e78289,2026-02-18,M005,AccessoryWorld,accessories,VN,fraud,10.5,mastercard,80.19,lost
+57528577-7083-4cbb-856c-090fd9366dfb,2026-02-06,M001,TechZone PH,electronics,TH,duplicate_processing,12.6,visa,148.25,open
+7aa8b1d0-61bd-48b3-a1d0-cea28a221d61,2026-02-02,M008,PhoneMax ID,electronics,ID,subscription_cancelled,13.2,bank_transfer,82.51,lost
+b98170bf-4bfc-4845-9ccc-6a5925964e07,2026-02-16,M007,QuickGadgets,electronics,ID,product_not_received,13.1,gopay,8.0,open
+e5a1dc64-9d8e-40bc-bb86-3e7da32c2458,2026-01-27,M005,AccessoryWorld,accessories,ID,fraud,10.5,gopay,10.47,lost
+701bedf7-6841-4010-9e98-b294f4d0591a,2026-02-18,M007,QuickGadgets,electronics,ID,duplicate_processing,12.6,gopay,18.87,open
+0b22bb1a-9697-4835-820d-cae57ccd57d6,2026-02-08,M040,MobileStore PH,electronics,PH,fraud,10.5,mastercard,33.9,won
+129d4a38-15ee-4017-94eb-e58a94d56ed3,2026-02-14,M058,TechPro VN,accessories,ID,product_not_as_described,13.3,mastercard,52.77,won
+e14a9379-ed4f-4cf0-b7b0-f66b77065d51,2026-02-23,M002,GadgetHub ID,electronics,ID,product_not_received,13.1,visa,17.23,open
+b693b5f8-2f1e-4613-8db2-4d672c4d5168,2026-01-28,M004,MobileKing TH,accessories,TH,subscription_cancelled,13.2,gcash,39.18,open
+77d80bd5-4e50-46d2-a591-8b3601bef9c7,2026-02-24,M006,ElectroShop VN,accessories,ID,subscription_cancelled,13.2,visa,16.78,won
+70bde2c8-97de-47ae-ae13-1fae820f2f3e,2026-01-29,M004,MobileKing TH,accessories,ID,product_not_received,13.1,visa,19.1,won
+b2c101db-01bd-41f3-b171-c65c3b45fe18,2026-01-28,M010,GamingGear PH,electronics,VN,product_not_as_described,13.3,mastercard,9.34,open
+5c35723c-b0fa-4ba9-9459-eeb61ae1cbe5,2026-02-17,M051,GameMart VN,mobile_phones,ID,fraud,10.2,visa,14.43,won
+9efa62d6-332b-4e20-a1b5-3c3c7dd39f94,2026-01-27,M003,GamersParadise,gaming,ID,duplicate_processing,12.6,ovo,9.81,won
+6c354012-b52a-4681-96c0-fe0b1ac7bd48,2026-02-22,M001,TechZone PH,electronics,PH,product_not_received,13.1,visa,13.76,lost
+ea9d77e9-4ebf-4ce5-b6de-e91ee33f9911,2026-02-15,M002,GadgetHub ID,electronics,TH,product_not_as_described,13.3,gopay,85.48,open
+7dfee4e8-4405-42ef-b9fc-d6718b3a0913,2026-02-17,M007,QuickGadgets,electronics,ID,product_not_as_described,13.3,visa,14.09,open
+974aa5ae-3a17-4fa9-8870-aaba0f47b379,2026-02-06,M001,TechZone PH,electronics,VN,product_not_received,13.1,visa,353.95,won
+f6e0cf9e-1e06-4361-8b84-8c9b58041c3b,2026-02-25,M003,GamersParadise,gaming,PH,fraud,10.5,visa,51.62,open
+abdacf50-261c-46b0-9a73-beb5bb845f4c,2026-02-11,M003,GamersParadise,gaming,TH,product_not_received,13.1,visa,39.11,open
+c447cb19-e69d-4993-9989-44b99be8b8ad,2026-02-21,M005,AccessoryWorld,accessories,ID,fraud,10.4,visa,15.29,open
+d01588cd-a337-4f0f-86f5-c62cf8cd8bda,2026-02-01,M008,PhoneMax ID,electronics,ID,product_not_as_described,13.3,gopay,62.2,open
+759da008-1669-4286-8913-426d9ba4c146,2026-02-21,M002,GadgetHub ID,electronics,TH,product_not_received,13.1,mastercard,19.73,won
+f5a06cbb-518c-469a-a959-0dbc6722ae60,2026-02-23,M002,GadgetHub ID,electronics,ID,fraud,10.5,visa,36.96,won
+2c1f5c8c-7aa1-4374-b82f-685e519e91e6,2026-02-21,M001,TechZone PH,electronics,PH,product_not_as_described,13.3,mastercard,331.65,open
+e6d1669e-aa99-4e1d-81e0-c8059086ddd1,2026-02-05,M012,CoolPhone TH,electronics,ID,fraud,10.5,mastercard,30.37,won
+459ad4cb-9e22-4a27-8a14-f8bebfa0e472,2026-01-28,M011,TechMart VN,electronics,TH,fraud,10.5,visa,93.16,open
+a85a47ed-292b-487a-843e-7d54c357755b,2026-02-19,M002,GadgetHub ID,electronics,ID,duplicate_processing,12.6,visa,17.59,lost
+1442df8c-eccb-40a0-882e-0806ba7b15a2,2026-02-06,M023,SmartStore,mobile_phones,TH,product_not_received,13.1,mastercard,32.09,lost
+5665ea07-e85d-43ae-bcf0-e41956f07661,2026-02-14,M004,MobileKing TH,accessories,VN,fraud,10.4,ovo,163.0,open
+b38e9da5-5be2-4ef5-b356-a7b6b67672d6,2026-02-10,M007,QuickGadgets,electronics,VN,product_not_received,13.1,visa,18.84,open
+49f88e89-5872-46f1-9d6c-85e07ef7d8c0,2026-01-30,M001,TechZone PH,electronics,ID,product_not_as_described,13.3,bank_transfer,169.22,open
+36ef6eaf-3087-4b78-b3ad-32f93c658322,2026-02-21,M005,AccessoryWorld,accessories,TH,duplicate_processing,12.6,mastercard,62.61,won
+813c5f92-c618-43f5-8bbc-eb1228d5ab77,2026-02-11,M007,QuickGadgets,electronics,PH,product_not_as_described,13.3,mastercard,19.96,lost
+9648d041-0c86-4fd2-ac12-28982aa08c8d,2026-02-03,M007,QuickGadgets,electronics,TH,duplicate_processing,12.6,mastercard,58.51,lost
+06e70c88-586f-49dc-8cda-ecc157eceddd,2026-02-24,M003,GamersParadise,gaming,VN,fraud,10.5,mastercard,79.46,lost
+8360b84e-cfcd-4ed5-8f98-4e88f0390b54,2026-02-08,M011,TechMart VN,electronics,PH,fraud,10.4,visa,57.95,open
+ee3d2d7f-781b-4e59-86d4-fbec10511a70,2026-02-09,M001,TechZone PH,electronics,ID,product_not_received,13.1,mastercard,8.06,won
+49367185-20af-4b64-8fce-96d6f40a6f95,2026-02-05,M010,GamingGear PH,electronics,ID,subscription_cancelled,13.2,mastercard,17.21,won
+20803f84-838e-4d41-b293-449375cb65d9,2026-01-31,M008,PhoneMax ID,electronics,TH,fraud,10.5,gcash,26.5,won
+d08acc65-c822-4951-b72d-b8357223b865,2026-01-29,M001,TechZone PH,electronics,VN,duplicate_processing,12.6,visa,30.97,lost
+d2292dc1-d06b-4439-98ee-3d3e64d17561,2026-02-15,M005,AccessoryWorld,accessories,ID,fraud,10.2,visa,57.89,won
+db895b6c-2a72-4d00-891f-97638cf9f62c,2026-02-12,M056,MobileMall TH,gaming,ID,product_not_received,13.1,ovo,38.86,lost
+62057b77-d86b-4fcc-b25f-2d2e19de8aea,2026-02-01,M001,TechZone PH,electronics,ID,subscription_cancelled,13.2,gcash,9.96,open
+20a7094e-12a0-467f-8f31-2f3d5316e608,2026-01-30,M006,ElectroShop VN,accessories,TH,product_not_received,13.1,mastercard,46.63,open
+4ec85482-319b-4f15-bdf7-12fbaf48d14b,2026-02-09,M005,AccessoryWorld,accessories,TH,product_not_received,13.1,ovo,57.37,won
+75060b7b-58c1-43f1-8a6f-c466a1c8507d,2026-02-13,M002,GadgetHub ID,electronics,PH,fraud,10.4,mastercard,54.81,won
+96be3158-ad73-489b-a52d-fb7f08124d74,2026-02-24,M002,GadgetHub ID,electronics,ID,product_not_received,13.1,mastercard,87.59,open
+3611a5c4-12cc-4017-94e4-0774b0dceb5c,2026-02-04,M013,AccessPro,accessories,ID,product_not_received,13.1,mastercard,70.14,open
+1af94308-90c7-4235-803f-861dca1b9391,2026-02-17,M001,TechZone PH,electronics,VN,fraud,10.4,mastercard,50.06,open
+8ce10680-0adb-41a5-aa86-24d5f917959d,2026-01-29,M010,GamingGear PH,electronics,PH,product_not_received,13.1,mastercard,31.09,open
+3edfd380-818f-4191-a806-d66eda68c89b,2026-02-21,M006,ElectroShop VN,accessories,PH,fraud,10.4,gcash,8.0,won
+0612852a-6ba0-452d-97ff-ab1c935383ac,2026-01-31,M008,PhoneMax ID,electronics,PH,fraud,10.2,gopay,48.75,open
+5e016f58-3dcf-4295-9a72-870f7282174d,2026-01-28,M005,AccessoryWorld,accessories,ID,duplicate_processing,12.6,visa,39.92,lost
+79b8f0ba-a352-48aa-ba5c-80bb9d7ab0f9,2026-02-01,M054,ElectroStore PH,gaming,ID,fraud,10.5,mastercard,42.28,won
+0079c5d9-ce8f-41c5-9729-9d4bfa3c194b,2026-02-04,M045,AccessStore PH,electronics,ID,subscription_cancelled,13.2,visa,10.5,open
+70da10ee-a1d1-4eea-8ab7-9f6f84367e3f,2026-02-10,M006,ElectroShop VN,accessories,ID,fraud,10.4,mastercard,12.52,open
+a2b221fe-856f-4139-a22e-fe1a4c4dc0bb,2026-02-10,M008,PhoneMax ID,electronics,ID,product_not_received,13.1,mastercard,85.44,lost
+74146884-30f5-46da-8268-4763b3ad2b40,2026-02-05,M030,ElectroGo,electronics,TH,duplicate_processing,12.6,visa,31.96,won
+d4a4bf9c-2e1f-49e5-aab3-25e0e6d01162,2026-02-14,M051,GameMart VN,mobile_phones,TH,product_not_received,13.1,bank_transfer,61.15,open
+a52e64f5-2d6f-47fa-a66a-5329ec58b67e,2026-02-13,M001,TechZone PH,electronics,ID,product_not_as_described,13.3,visa,33.97,open
+22b6ba3f-8bf8-4ac2-9a33-964bb58e7c50,2026-02-15,M002,GadgetHub ID,electronics,TH,fraud,10.4,mastercard,34.01,open
+0560b36e-650f-4998-a316-fb33c9c621d9,2026-02-10,M002,GadgetHub ID,electronics,TH,product_not_received,13.1,ovo,77.05,won
+9dbae7b9-d2bb-4af4-9cad-246c374c59d9,2026-02-07,M001,TechZone PH,electronics,ID,product_not_received,13.1,bank_transfer,20.81,lost
+02198ec5-3d05-409c-8954-6aad671a5bc1,2026-02-05,M005,AccessoryWorld,accessories,ID,fraud,10.2,gcash,36.11,open
+bfc5c6d9-ba4e-439c-b647-3db13b3344a2,2026-02-05,M035,GameZone,gaming,VN,subscription_cancelled,13.2,visa,21.84,lost
+5904a544-b4f9-4265-80b2-a1a34355da46,2026-02-15,M017,GearUp PH,mobile_phones,PH,fraud,10.2,bank_transfer,22.4,lost
+031dccf1-c698-4f36-a13a-23d6233c373a,2026-02-14,M006,ElectroShop VN,accessories,VN,fraud,10.4,visa,25.07,open
+9b584607-2079-49fc-b914-55aaeedbc3fa,2026-02-18,M003,GamersParadise,gaming,PH,product_not_as_described,13.3,visa,40.44,won
+a6816a49-7c33-4e73-b9c4-cdb99c9b1588,2026-02-22,M008,PhoneMax ID,electronics,TH,product_not_received,13.1,visa,21.52,open
+c5e82fda-dea3-4dcc-812f-a000bdd81bee,2026-01-31,M001,TechZone PH,electronics,PH,fraud,10.2,visa,102.53,lost
+b7c68038-68d3-4a2d-98f5-82a157b0a644,2026-02-11,M005,AccessoryWorld,accessories,PH,fraud,10.2,gcash,14.8,open
+26d4cd66-32c8-48f5-9b1a-12fde5ca9706,2026-02-07,M002,GadgetHub ID,electronics,TH,duplicate_processing,12.6,visa,27.99,won
+d27469cd-a8f2-44c5-a5c7-027ee9122fc4,2026-02-19,M002,GadgetHub ID,electronics,PH,product_not_received,13.1,gcash,22.29,open
+c45e8f9e-a942-40da-a00c-893066e37ec6,2026-01-28,M003,GamersParadise,gaming,ID,product_not_received,13.1,visa,121.79,open
+e23fdd3a-fa3a-420b-8af7-cc384d69ddb9,2026-02-25,M005,AccessoryWorld,accessories,VN,fraud,10.5,gopay,39.52,won
+93c4a93c-ad57-4359-a74b-42df7f1bb0c0,2026-02-23,M003,GamersParadise,gaming,ID,fraud,10.4,ovo,83.82,won
+879d22a9-bc96-490e-9e68-b59424456eea,2026-02-14,M006,ElectroShop VN,accessories,ID,fraud,10.2,ovo,8.7,open
+3318d007-a439-43f6-9a40-2645ca33fd52,2026-02-25,M008,PhoneMax ID,electronics,PH,fraud,10.4,visa,42.11,open
+f4785d81-d8db-4af9-b2a2-f7c1c0fff837,2026-02-15,M059,GameStore PH,gaming,PH,duplicate_processing,12.6,visa,73.75,lost
+d92e92ae-d50b-4ba6-821a-050cf86b7bbf,2026-02-11,M003,GamersParadise,gaming,VN,product_not_received,13.1,mastercard,35.66,lost
+24d8cb39-6d7b-4896-92a1-c773de55df21,2026-02-06,M047,SmartZone,gaming,TH,fraud,10.2,mastercard,86.4,won
+c996918a-15bb-47d8-ab81-93c3d217af71,2026-02-05,M003,GamersParadise,gaming,TH,fraud,10.5,visa,20.79,won
+7ed81069-ec27-400b-871c-df86ed8388d4,2026-02-20,M016,MobileHub,accessories,PH,fraud,10.4,bank_transfer,117.73,open
+5767da05-3767-4404-bd00-3b0082afb7de,2026-02-11,M041,GadgetMall VN,gaming,ID,product_not_received,13.1,visa,262.17,won
+0070c678-4fca-4e78-8dea-101427a77258,2026-02-25,M002,GadgetHub ID,electronics,ID,fraud,10.5,visa,23.89,lost
+beb50f52-9d11-4a50-b588-388593c38491,2026-02-07,M005,AccessoryWorld,accessories,ID,product_not_received,13.1,visa,22.18,lost
+6539333a-cda9-4fd2-87e6-d36976d6953b,2026-02-14,M002,GadgetHub ID,electronics,PH,fraud,10.2,ovo,122.49,open
+7b3acce0-3f17-4b20-8c2b-d7e9461b2706,2026-01-30,M001,TechZone PH,electronics,VN,product_not_as_described,13.3,gopay,137.22,lost
+eda7df5d-7131-471f-a230-a95ad8fbd875,2026-02-07,M002,GadgetHub ID,electronics,PH,duplicate_processing,12.6,mastercard,20.69,open
+2f3fe67f-ac3c-462f-af23-01433a3371b3,2026-01-30,M006,ElectroShop VN,accessories,ID,subscription_cancelled,13.2,visa,22.69,open
+f74f082b-4ebe-405a-af5e-b83c226bf0a3,2026-02-11,M001,TechZone PH,electronics,TH,product_not_received,13.1,ovo,25.7,open
+0b7ad7eb-ff23-4db8-8439-294b1d94aa32,2026-02-09,M008,PhoneMax ID,electronics,TH,fraud,10.5,mastercard,9.87,open
+839c7680-1c15-4882-8226-ecbb55c06fce,2026-02-07,M039,SmartMart TH,mobile_phones,ID,fraud,10.5,visa,14.49,lost
+3e404613-3eb2-425a-82cb-2d76ba7b97e7,2026-02-08,M002,GadgetHub ID,electronics,ID,fraud,10.2,mastercard,13.41,open
+6ed26e3c-01dd-4829-8bfd-0d51efa3df4b,2026-02-06,M006,ElectroShop VN,accessories,VN,product_not_received,13.1,ovo,16.59,lost
+d47d6826-9ee3-4789-86e6-b0239d15cb91,2026-02-20,M026,TechGo ID,accessories,TH,fraud,10.5,visa,32.1,lost
+d32ee9f5-fc32-47a7-9802-6e9257b3853b,2026-02-15,M031,SmartHub VN,mobile_phones,TH,product_not_received,13.1,ovo,40.89,won
+0bb31749-407b-400c-a73e-60e885c6b429,2026-02-11,M002,GadgetHub ID,electronics,ID,subscription_cancelled,13.2,mastercard,133.68,open
+26812630-9cfc-4d8c-b0ea-70ad84ea4f3a,2026-02-01,M040,MobileStore PH,electronics,TH,fraud,10.4,visa,13.48,won
+eb4cb5dd-bc2a-44a7-a9cf-7fd95270939e,2026-02-12,M002,GadgetHub ID,electronics,ID,fraud,10.2,visa,80.31,won
+c0b60f7b-c30d-4382-a3a5-75fa11dc5ac1,2026-02-21,M005,AccessoryWorld,accessories,TH,product_not_as_described,13.3,visa,27.31,won
+ff49608f-9301-42c1-9d2f-fb14d0a1083f,2026-02-06,M002,GadgetHub ID,electronics,ID,duplicate_processing,12.6,bank_transfer,31.67,open
+8cd8621e-24f6-419f-998c-249b4a2c91e3,2026-02-01,M005,AccessoryWorld,accessories,ID,duplicate_processing,12.6,mastercard,60.78,lost
+d736629e-93ff-4a22-a03a-c79cc097b8b0,2026-02-17,M045,AccessStore PH,electronics,ID,product_not_received,13.1,visa,12.06,won
+50edc021-1d52-4e3b-a659-6f82ce6da222,2026-02-14,M007,QuickGadgets,electronics,VN,product_not_received,13.1,mastercard,46.72,open
+feeeff1e-a543-4cb5-982e-9b4e859f542c,2026-02-07,M001,TechZone PH,electronics,ID,subscription_cancelled,13.2,ovo,38.47,open
+033d898d-dc11-4585-a1e4-5717213f9bef,2026-02-07,M007,QuickGadgets,electronics,TH,fraud,10.2,mastercard,51.58,open
+786576f8-0ed7-4f2f-babd-0179325c1f83,2026-02-25,M005,AccessoryWorld,accessories,TH,subscription_cancelled,13.2,mastercard,42.96,won
+6779e2f2-6f24-45ff-b2b1-5b90f4767d4a,2026-02-23,M001,TechZone PH,electronics,ID,product_not_received,13.1,visa,301.8,won
+edacbdcb-7e3b-4fb1-bc3d-c9b9e4e8f425,2026-02-08,M006,ElectroShop VN,accessories,TH,product_not_received,13.1,visa,18.65,open
+930d8917-29e1-43b2-bd8c-6a600e11ea15,2026-02-21,M006,ElectroShop VN,accessories,ID,fraud,10.4,ovo,20.53,won
+818cacd3-a030-4385-be7b-02b4e2b811b5,2026-02-23,M021,AccessHub,electronics,ID,product_not_as_described,13.3,visa,18.9,won
+ba5c5a13-0621-40a8-a5c1-998ce0a89b31,2026-02-14,M001,TechZone PH,electronics,PH,subscription_cancelled,13.2,gcash,20.09,open
+8568b3b1-21af-4788-aa2b-2b4733d1a565,2026-02-04,M002,GadgetHub ID,electronics,VN,product_not_received,13.1,gopay,18.66,won
+1e3c567d-89e1-4827-aea6-95e0745c3333,2026-02-12,M050,TechMall TH,electronics,ID,fraud,10.2,mastercard,96.56,lost
+e9def4b2-a762-430c-b4bc-b13b5c5084cf,2026-02-10,M005,AccessoryWorld,accessories,ID,product_not_as_described,13.3,gopay,118.92,won
+bc57cc11-f597-4421-abd4-e1c1cf6acec0,2026-02-02,M003,GamersParadise,gaming,PH,product_not_received,13.1,gcash,19.81,won
+932ba89c-c59a-4b24-9616-6663a0da2e95,2026-02-25,M058,TechPro VN,accessories,PH,product_not_received,13.1,visa,15.66,lost
+c6a8708c-dbd5-44bc-8408-930474800268,2026-02-20,M003,GamersParadise,gaming,ID,product_not_received,13.1,mastercard,50.62,lost
+3f757c88-a095-4ec7-92b3-ebb5c80acb5f,2026-02-09,M049,GadgetZone PH,accessories,VN,fraud,10.5,mastercard,20.15,open
+8f306777-311d-4a04-a86e-27a5d96ba030,2026-01-31,M007,QuickGadgets,electronics,ID,fraud,10.5,gopay,58.54,open
+2a31304b-fc3a-4418-88a7-d70f7c79da64,2026-02-24,M007,QuickGadgets,electronics,ID,fraud,10.4,ovo,39.75,open
+e6ba2469-0290-4971-a92b-e531c0b218a2,2026-02-01,M026,TechGo ID,accessories,ID,fraud,10.4,visa,8.46,won
+69df54e5-6933-4655-89b5-9daeba830dab,2026-02-05,M002,GadgetHub ID,electronics,PH,product_not_received,13.1,bank_transfer,133.32,open
+cfb67c38-6bb8-4324-be4f-f61255358cb0,2026-02-19,M034,TechHub PH,gaming,TH,duplicate_processing,12.6,gcash,166.72,lost
+8bbaec70-c280-45fd-9834-30eae208d13c,2026-02-14,M042,TechStore,gaming,TH,product_not_as_described,13.3,visa,19.08,won
+e8dee57d-b02d-4c21-a942-d81c45644eae,2026-02-14,M006,ElectroShop VN,accessories,ID,subscription_cancelled,13.2,mastercard,23.36,open
+a7af4e12-b7d6-4895-925d-8273d5d3445f,2026-02-10,M004,MobileKing TH,accessories,ID,product_not_as_described,13.3,truemoney,42.83,lost
+a81a923d-fc45-4102-a197-f624328d52ff,2026-02-11,M029,AccessZone,electronics,ID,product_not_received,13.1,mastercard,44.75,won
+d07eead1-0a77-43cb-b0f0-f532331b18e2,2026-01-27,M006,ElectroShop VN,accessories,VN,product_not_received,13.1,gcash,59.9,lost
+d617ccf3-1a48-4fbf-8c84-47c8ad4f87f8,2026-02-17,M053,AccessGear,mobile_phones,TH,product_not_received,13.1,gcash,202.19,lost
+2c861b33-52f1-4b22-bc0e-a4c3bd401e31,2026-02-03,M002,GadgetHub ID,electronics,PH,fraud,10.2,mastercard,28.24,won
+2fba5a02-650a-4ab9-8a9a-6fecd0ca2691,2026-02-25,M025,GadgetPro TH,gaming,VN,duplicate_processing,12.6,visa,16.14,open
+97035c0e-5940-4f19-9c28-5b855c34c31c,2026-02-24,M008,PhoneMax ID,electronics,VN,product_not_as_described,13.3,visa,9.57,won
+5b6eb1a5-ceb3-42d1-acee-64b8361d8b6b,2026-02-09,M008,PhoneMax ID,electronics,ID,product_not_as_described,13.3,ovo,17.15,won
+8fbed0a0-9f6e-4bca-befd-5b212f75f135,2026-02-12,M019,GameStop VN,mobile_phones,VN,duplicate_processing,12.6,gopay,32.14,won
+d0bbe966-8508-4671-874a-c24ab36d14a5,2026-02-20,M038,ElectroZone ID,electronics,TH,fraud,10.5,gopay,166.52,won
+57491b83-df0e-407c-9da6-f605dafd3bec,2026-02-16,M001,TechZone PH,electronics,PH,fraud,10.2,visa,20.78,open
+99a552b0-6e20-4609-a6f0-63e79cb1cdc6,2026-02-17,M003,GamersParadise,gaming,ID,fraud,10.2,visa,40.5,lost
+ec702a12-b7ba-4a2f-ae1b-0fc27246758d,2026-02-22,M003,GamersParadise,gaming,VN,product_not_received,13.1,mastercard,32.63,won
+68d33938-73ca-4ce8-a4af-3d6b16afb78d,2026-02-24,M007,QuickGadgets,electronics,PH,fraud,10.5,visa,96.5,lost
+bded8f7d-8790-408c-bf44-5b080c727c2c,2026-02-10,M004,MobileKing TH,accessories,VN,product_not_received,13.1,truemoney,321.9,lost
+1d71324a-e1ba-497a-b7de-da2176b3b70a,2026-02-07,M005,AccessoryWorld,accessories,ID,fraud,10.2,gcash,20.54,open
+e7eb524e-0ab9-48e9-bd98-2e3c7e108335,2026-02-11,M008,PhoneMax ID,electronics,TH,fraud,10.2,visa,21.32,lost
+c3fc48ef-397e-4bf9-b2cc-cec5a1cbaa89,2026-02-11,M026,TechGo ID,accessories,VN,fraud,10.2,visa,84.75,open
+ae386aef-4da3-40d9-911e-1f883cb4e48c,2026-02-02,M027,GameWorld,accessories,PH,fraud,10.5,gcash,61.17,lost
+d7ab69cc-2724-49c7-b221-767f7dfbc84c,2026-02-25,M024,MobilePro VN,gaming,ID,product_not_received,13.1,ovo,174.52,won
+0bcc4c04-c48c-4fbb-b092-66e24f0e4b46,2026-02-18,M003,GamersParadise,gaming,PH,fraud,10.2,gopay,56.01,lost
+0d352dcf-fade-49a4-92d4-fc4c85e98e18,2026-02-13,M025,GadgetPro TH,gaming,TH,fraud,10.4,gopay,23.97,open
+66dba61b-ca9d-477b-bca2-2259bc4d4bbc,2026-02-12,M001,TechZone PH,electronics,PH,fraud,10.5,truemoney,56.35,open
+aecb9ecb-c321-42ae-b84f-8e5aa0ee2352,2026-02-04,M001,TechZone PH,electronics,TH,product_not_received,13.1,bank_transfer,89.82,won
+fa03d929-6f15-4c57-b422-287ecc483649,2026-02-09,M006,ElectroShop VN,accessories,VN,fraud,10.5,truemoney,69.3,lost
+29d1aef8-825c-441a-8ca5-08313c18135a,2026-02-25,M005,AccessoryWorld,accessories,VN,fraud,10.4,visa,52.28,lost
+8b6b07e8-7237-4001-ac8a-9c04d9db3373,2026-02-01,M006,ElectroShop VN,accessories,TH,product_not_received,13.1,gopay,86.49,open
+a60054d8-fc99-4556-85a9-bde26216498d,2026-02-10,M051,GameMart VN,mobile_phones,ID,fraud,10.5,ovo,94.86,won
+40601813-d624-4ba5-88d2-224e966859ca,2026-02-09,M003,GamersParadise,gaming,ID,fraud,10.4,visa,114.89,lost
+1269f91c-b02b-469a-bf22-a7bb501004fb,2026-01-30,M008,PhoneMax ID,electronics,ID,fraud,10.5,visa,59.37,won
+a263d9b0-c8bd-4064-a967-57704dce03e4,2026-02-19,M020,PhoneZone TH,gaming,ID,product_not_as_described,13.3,visa,28.49,lost
+5d230936-af31-40c2-a898-028b6d4c3404,2026-02-14,M001,TechZone PH,electronics,TH,product_not_received,13.1,mastercard,37.79,won
+e5a06499-c718-4b0c-a894-df4f6a3dbf8c,2026-02-17,M006,ElectroShop VN,accessories,PH,fraud,10.4,visa,98.09,open
+e9520236-090c-4051-bfa7-2b1fbdbdb721,2026-01-29,M029,AccessZone,electronics,PH,subscription_cancelled,13.2,mastercard,15.88,open
+96079e2b-6fa6-46c1-bdb6-acafa94f47c4,2026-01-28,M001,TechZone PH,electronics,VN,product_not_received,13.1,mastercard,46.15,open
+1234baa1-cea9-4a4c-ab44-7cb724c22a8a,2026-02-02,M060,PhoneGear TH,electronics,TH,product_not_received,13.1,visa,23.24,won
+07c45826-5710-446d-8b34-bd7803310294,2026-02-04,M007,QuickGadgets,electronics,ID,duplicate_processing,12.6,visa,33.98,open
+fe370052-ea16-4588-8f2f-90c2cc982e75,2026-02-20,M007,QuickGadgets,electronics,VN,fraud,10.5,visa,104.65,open
+5f9dfb02-c009-4579-8c89-0385564cc43e,2026-02-15,M005,AccessoryWorld,accessories,PH,subscription_cancelled,13.2,visa,39.33,lost
+7f7bc55c-80b7-438d-8d75-e1f4ade034d6,2026-02-11,M008,PhoneMax ID,electronics,ID,fraud,10.2,visa,34.53,lost
+3dc5d6fe-c74a-4abb-9798-1c9514634765,2026-02-16,M048,MobileGear ID,electronics,TH,fraud,10.2,mastercard,9.74,open
+5e73c242-6488-4480-9cd2-2daefd368cb9,2026-02-12,M003,GamersParadise,gaming,VN,product_not_received,13.1,mastercard,64.82,lost
+5e967455-6241-42c9-9fda-0f1222405540,2026-01-31,M039,SmartMart TH,mobile_phones,PH,product_not_received,13.1,visa,59.2,open
+7772bd1c-86e5-4bd9-94cc-3838341fbae0,2026-02-25,M001,TechZone PH,electronics,PH,product_not_received,13.1,gcash,232.04,won
