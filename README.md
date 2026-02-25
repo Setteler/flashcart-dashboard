@@ -2,9 +2,9 @@
 
 Real-time chargeback monitoring for Southeast Asian e-commerce merchants.
 Identify surge drivers across merchants, reason codes, and payment methods
-with a filterable dashboard backed by a FastAPI + Pandas API.
+with a filterable dashboard backed by a FastAPI + pandas API.
 
-**Live demo:** _see deployed URLs below_
+**Repository:** https://github.com/Setteler/flashcart-dashboard
 
 ---
 
@@ -18,17 +18,18 @@ with a filterable dashboard backed by a FastAPI + Pandas API.
 
 ---
 
-## Quick Start (local)
+## Quick Start
 
 ### 1 · Start the backend
 
 ```bash
 cd backend
 pip install -r requirements.txt
-uvicorn main:app --reload --port 8000
+uvicorn app:app --reload
 ```
 
-Sample data (`backend/chargebacks.csv`, 910 rows) is pre-committed — no generation step needed.
+The dataset (`backend/data/chargebacks.csv`, 1,000 rows across 55 merchants) is
+pre-committed — no generation step needed.
 
 Interactive API docs: http://localhost:8000/docs
 
@@ -46,20 +47,18 @@ npm run dev
 
 Open http://localhost:5173
 
-Vite proxies `/api/*` to `localhost:8000` automatically during dev.
+Vite proxies `/api/*` to `localhost:8000` automatically during development.
 
 ---
 
 ### (Optional) Regenerate sample data
 
-Run from the `backend/` directory to recreate both CSVs from scratch:
-
 ```bash
-cd backend
-python generate_data.py
+python scripts/generate_data.py
 ```
 
-Regenerates `backend/chargebacks.csv` (910 chargeback rows) and `backend/data/transactions_daily.csv`.
+Recreates `backend/data/chargebacks.csv` (1,000 rows) and
+`backend/data/transactions_daily.csv` from a fixed seed (`SEED = 42`).
 
 ---
 
@@ -67,34 +66,38 @@ Regenerates `backend/chargebacks.csv` (910 chargeback rows) and `backend/data/tr
 
 ```
 flashcart-dashboard/
-├── render.yaml                       # Render deployment config (backend)
 ├── scripts/
-│   └── generate_data.py              # Synthetic data generator (optional)
+│   └── generate_data.py          # Synthetic data generator (optional, deterministic)
 ├── backend/
-│   ├── chargebacks.csv               # 910 chargeback rows (pre-generated)
-│   ├── main.py                       # FastAPI app — /api/metrics, /api/chargebacks
-│   ├── data_loader.py                # CSV → DataFrame, filter & metric helpers
+│   ├── data/
+│   │   ├── chargebacks.csv       # 1,000 chargeback events — 90 days, 55 merchants
+│   │   └── transactions_daily.csv# Daily transaction aggregates for real CB-rate calc
+│   ├── app.py                    # FastAPI app — /api/metrics, /api/chargebacks, /api/health
+│   ├── data_loader.py            # CSV → DataFrame, filter & metric helpers
 │   └── requirements.txt
 └── frontend/
-    ├── .env.example                  # Environment variable template
     └── src/
-        ├── App.tsx                   # Root shell, filter state, parallel data fetch
-        ├── components/               # MetricsBar · TimeSeriesChart · BreakdownChart
-        │                             # ChargebackTable · FiltersPanel
-        └── api/client.ts             # Typed fetch wrappers (respects VITE_API_BASE_URL)
+        ├── App.tsx               # Root shell, filter state, parallel data fetch
+        ├── components/           # MetricsBar · TimeSeriesChart · BreakdownChart
+        │                         # ChargebackTable · FiltersPanel
+        └── api/client.ts         # Typed fetch wrappers (respects VITE_API_BASE_URL)
 ```
 
 **Data flow:**
 
 ```
-chargebacks.csv → pandas DataFrame (loaded at startup)
-                        ↓
-              FastAPI filters / aggregates on request
-                        ↓
-              React components render JSON
+chargebacks.csv ──────────────────────────────┐
+                                               ↓
+transactions_daily.csv → pandas DataFrames (loaded at startup)
+                                               ↓
+                         FastAPI filters / aggregates on request
+                                               ↓
+                         React components render JSON
 ```
 
-No database required. The ~910-row dataset fits entirely in memory.
+No database required. The 1,000-row dataset fits entirely in memory.
+Chargeback rate is computed as `filtered_chargebacks ÷ filtered_transactions_count`
+using the matching slice of `transactions_daily.csv` — rate updates correctly with every filter.
 
 ---
 
@@ -109,8 +112,6 @@ No database required. The ~910-row dataset fits entirely in memory.
 3. Look at the **Reason breakdown** chart — fraud jumps to ~85% share
 4. The **Time-series chart** shows a steep recent uptick against a flat baseline
 
-*Data pattern:* 72% of all chargebacks are concentrated in merchants M001–M008, so these merchants dominate the recent surge window. Fraud is the top reason category overall (~40% share).
-
 ---
 
 ### Filter 2 · Indonesia × GoPay Analysis
@@ -122,7 +123,7 @@ No database required. The ~910-row dataset fits entirely in memory.
 3. Note the **Chargeback rate** KPI — compare it with `visa` selected instead
 4. The **Country breakdown** collapses to Indonesia only; reason split remains
 
-*Data pattern:* Indonesia carries 40% of all chargebacks; GoPay is the dominant local e-wallet.
+*Indonesia carries 40% of all chargebacks; switching payment methods reveals distinct risk profiles.*
 
 ---
 
@@ -132,56 +133,43 @@ No database required. The ~910-row dataset fits entirely in memory.
 
 1. Select **Reason category** → `product_not_received`
 2. Clear all other filters
-3. Scroll to the **Top merchants** table — ElectroShop VN (M006) sits at #1
-4. Click into M006 to confirm the pattern holds across the full 90-day window
-
-*Data pattern:* `product_not_received` accounts for ~30% of all chargebacks. The top merchant by this reason will be one of M001–M008, which collectively receive 72% of total volume.
+3. Scroll to the **Top merchants** table — click any merchant row to drill down
+4. All charts and the KPI bar update to show that merchant's 90-day pattern
 
 ---
 
-## API Quick Reference
+## API Reference
 
 ```bash
-# Metrics with filters
+# Filtered metrics
 curl "http://localhost:8000/api/metrics?country=ID&reason_category=fraud"
 
-# Paginated chargeback records
-curl "http://localhost:8000/api/chargebacks?page=2&page_size=20&sort_by=amount_usd&sort_dir=desc"
+# Paginated records, sorted by amount
+curl "http://localhost:8000/api/chargebacks?page=1&page_size=20&sort_by=amount_usd&sort_dir=desc"
 
 # Single merchant drill-down
 curl "http://localhost:8000/api/metrics?merchant_id=M003"
+
+# Health check
+curl "http://localhost:8000/api/health"
 ```
 
 ---
 
-## Deployment
-
-### Backend → Render
-
-1. Connect this repo in [Render](https://render.com) → **New Web Service**
-2. Render picks up `render.yaml` automatically (rootDir: `backend`, start: `uvicorn main:app --host 0.0.0.0 --port $PORT`)
-3. Copy the deployed URL (e.g. `https://flashcart-backend.onrender.com`)
-
-### Frontend → Vercel
-
-1. Import this repo in [Vercel](https://vercel.com) → set **Root Directory** to `frontend`
-2. Add environment variable: `VITE_API_BASE_URL` = `https://flashcart-backend.onrender.com`
-3. Deploy — Vercel auto-runs `npm run build` and serves `dist/`
-
----
-
-## Data Model — `chargebacks.csv`
+## Data Model
 
 | Column | Example |
 |--------|---------|
-| `chargeback_id` | `3f8a1b…` (UUID) |
-| `date` | `2025-12-18` |
+| `chargeback_id` | UUID |
+| `chargeback_date` | `2025-12-18T14:23:07` |
 | `merchant_id` | `M003` |
 | `merchant_name` | `GamersParadise` |
 | `merchant_category` | `gaming` |
+| `product_name` | `Razer DeathAdder Mouse` |
+| `amount` | `74.50` |
+| `currency` | `USD` |
 | `country` | `ID` / `PH` / `TH` / `VN` |
-| `reason_category` | `fraud` / `product_not_received` / … |
-| `reason_code` | `10.4` |
 | `payment_method` | `visa` / `gopay` / `bank_transfer` … |
-| `amount_usd` | `74.50` |
-| `status` | `open` / `won` / `lost` |
+| `processor` | `Adyen` / `Midtrans` / `Xendit` … |
+| `reason_code` | `10.4` |
+| `category` | `fraud` / `product_not_received` … |
