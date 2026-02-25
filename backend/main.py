@@ -12,6 +12,7 @@ from data_loader import (
     compute_trend_pct,
     compute_chargeback_rate,
     load_data,
+    load_transactions,
 )
 
 app = FastAPI(title="FlashCart Chargeback API", version="1.0.0")
@@ -27,6 +28,7 @@ app.add_middleware(
 @app.on_event("startup")
 def startup():
     load_data()
+    load_transactions()
     print("Data loaded successfully.")
 
 
@@ -117,7 +119,15 @@ def get_metrics(
 
     total_chargebacks = len(filtered)
     total_amount = round(float(filtered["amount_usd"].sum()), 2) if total_chargebacks > 0 else 0.0
-    chargeback_rate = compute_chargeback_rate(total_chargebacks)
+    filtered_merchant_ids = filtered["merchant_id"].unique().tolist() if total_chargebacks > 0 else None
+    chargeback_rate = compute_chargeback_rate(
+        total_chargebacks,
+        merchant_ids=filtered_merchant_ids,
+        start_date=start_date,
+        end_date=end_date,
+        payment_method=_parse_list(payment_method),
+        country=_parse_list(country),
+    )
     trend_pct = compute_trend_pct(df, start_date, end_date)
 
     # By reason
@@ -207,7 +217,14 @@ def get_metrics(
                     "merchant_name": row["merchant_name"],
                     "count": merch_count,
                     "amount": round(float(row["amount"]), 2),
-                    "rate": compute_chargeback_rate(merch_count),
+                    "rate": compute_chargeback_rate(
+                        merch_count,
+                        merchant_ids=[row["merchant_id"]],
+                        start_date=start_date,
+                        end_date=end_date,
+                        payment_method=_parse_list(payment_method),
+                        country=_parse_list(country),
+                    ),
                 }
             )
 

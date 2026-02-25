@@ -33,6 +33,10 @@ def get_df() -> pd.DataFrame:
     return load_data()
 
 
+def get_tx_df() -> pd.DataFrame:
+    return load_transactions()
+
+
 def apply_filters(
     df: pd.DataFrame,
     start_date: Optional[str] = None,
@@ -114,9 +118,44 @@ def compute_trend_pct(
     return round((current_count - prev_count) / prev_count * 100, 1)
 
 
-def compute_chargeback_rate(filtered_count: int) -> float:
-    """Approximate chargeback rate using hardcoded transaction multiplier."""
-    total_transactions = filtered_count * TRANSACTION_MULTIPLIER
-    if total_transactions == 0:
+def compute_chargeback_rate(
+    chargeback_count: int,
+    merchant_ids: Optional[List[str]] = None,
+    start_date: Optional[str] = None,
+    end_date: Optional[str] = None,
+    payment_method: Optional[List[str]] = None,
+    country: Optional[List[str]] = None,
+) -> float:
+    """
+    Compute chargeback rate against real transaction volume from transactions_daily.csv.
+    Filters are applied consistently: date range, merchant IDs, payment method, country.
+    reason_category and amount range are chargeback-specific and not present in transactions.
+    """
+    from dateutil.parser import parse as parse_date
+
+    tx = load_transactions()
+    mask = pd.Series([True] * len(tx), index=tx.index)
+
+    if start_date:
+        sd = parse_date(start_date).date()
+        mask &= tx["date"] >= sd
+
+    if end_date:
+        ed = parse_date(end_date).date()
+        mask &= tx["date"] <= ed
+
+    if merchant_ids:
+        mask &= tx["merchant_id"].isin(merchant_ids)
+
+    if payment_method:
+        mask &= tx["payment_method"].isin(payment_method)
+
+    if country:
+        mask &= tx["country"].isin(country)
+
+    total_transactions = int(tx.loc[mask, "transactions_count"].sum())
+
+    if total_transactions == 0 or chargeback_count == 0:
         return 0.0
-    return round((filtered_count / total_transactions) * 100, 2)
+
+    return round(chargeback_count / total_transactions * 100, 2)

@@ -52,14 +52,14 @@ Vite proxies `/api/*` to `localhost:8000` automatically during dev.
 
 ### (Optional) Regenerate sample data
 
-Run from the project root to recreate the CSV from scratch (seed=42, deterministic):
+Run from the `backend/` directory to recreate both CSVs from scratch:
 
 ```bash
-python scripts/generate_data.py
+cd backend
+python generate_data.py
 ```
 
-> Note: this generates an extended schema under `backend/data/`. The backend currently
-> uses `backend/chargebacks.csv` (the schema that `data_loader.py` expects).
+Regenerates `backend/chargebacks.csv` (910 chargeback rows) and `backend/data/transactions_daily.csv`.
 
 ---
 
@@ -109,7 +109,7 @@ No database required. The ~910-row dataset fits entirely in memory.
 3. Look at the **Reason breakdown** chart — fraud jumps to ~85% share
 4. The **Time-series chart** shows a steep recent uptick against a flat baseline
 
-*Data pattern:* M003 (GamersParadise) is seeded with 85% fraud probability for any chargeback in the 10 days before script execution.
+*Data pattern:* 72% of all chargebacks are concentrated in merchants M001–M008, so these merchants dominate the recent surge window. Fraud is the top reason category overall (~40% share).
 
 ---
 
@@ -135,7 +135,7 @@ No database required. The ~910-row dataset fits entirely in memory.
 3. Scroll to the **Top merchants** table — ElectroShop VN (M006) sits at #1
 4. Click into M006 to confirm the pattern holds across the full 90-day window
 
-*Data pattern:* M006 is seeded with 88% product_not_received probability.
+*Data pattern:* `product_not_received` accounts for ~30% of all chargebacks. The top merchant by this reason will be one of M001–M008, which collectively receive 72% of total volume.
 
 ---
 
